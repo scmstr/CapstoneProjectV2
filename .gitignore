@@ -102,11 +102,11 @@ crashlytics-build.properties
 ## ---------------- ##
 
 # project stuff
-WWiseProject/.cache/
-WWiseProject/*.prof
-WwiseProject/*_WwiseProject.*.validationcache
-WwiseProject/*_WwiseProject.*.wsettings
-WwiseProject/**/*.akd
+/CapstoneProject_WwiseProject/.cache/
+/CapstoneProject_WwiseProject/*.prof
+/CapstoneProject_WwiseProject/*_WwiseProject.*.validationcache
+/CapstoneProject_WwiseProject/*_WwiseProject.*.wsettings
+/CapstoneProject_WwiseProject/**/*.akd
 
 # build stuff (unsure?)
 # Assets/Wwise/Deployment/Plugins/Windows/**/*.meta

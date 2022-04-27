@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="12" SoundbankVersion="140">
+	<RootPaths>
+		<ProjectRoot>V:\Unity\Projects\capstone test\CapstoneProjectV2\CapstoneProject_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>V:\Unity\Projects\capstone test\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\</SourceFilesRoot>
+		<SoundBanksRoot>V:\Unity\Projects\capstone test\CapstoneProjectV2\CapstoneProject_WwiseProject\GeneratedSoundBanks\Mac\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>V:\Unity\Projects\capstone test\CapstoneProjectV2\CapstoneProject_WwiseProject\GeneratedSoundBanks\Mac</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX" Hash="2754342975">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="1831431028" Language="SFX" Hash="2459639696">
+			<ObjectPath>\SoundBanks\Default Work Unit\TestSoundbank</ObjectPath>
+			<ShortName>TestSoundbank</ShortName>
+			<Path>TestSoundbank.bnk</Path>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

@@ -20,8 +20,8 @@
 *.obj filter=lfs diff=lfs merge=lfs -text
 
 #big unity files#
-sbsa
-unity
+#*.sbsa filter=lfs diff=lfs merge=lfs -text
+#*.unity filter=lfs diff=lfs merge=lfs -text
 
 #other#
 *.dll filter=lfs diff=lfs merge=lfs -text

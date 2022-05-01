@@ -16,7 +16,7 @@
 			<ShortName>Init</ShortName>
 			<Path>Init.bnk</Path>
 		</SoundBank>
-		<SoundBank Id="3931739935" Language="SFX" Hash="2641811751">
+		<SoundBank Id="3931739935" Language="SFX" Hash="3079883439">
 			<ObjectPath>\SoundBanks\Default Work Unit\Soundbank_OverworldAmbience</ObjectPath>
 			<ShortName>Soundbank_OverworldAmbience</ShortName>
 			<Path>Soundbank_OverworldAmbience.bnk</Path>

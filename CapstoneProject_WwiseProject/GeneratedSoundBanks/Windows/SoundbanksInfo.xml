@@ -1,25 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="140">
 	<RootPaths>
-		<ProjectRoot>V:\Unity\Projects\capstone test\CapstoneProjectV2\CapstoneProject_WwiseProject\</ProjectRoot>
-		<SourceFilesRoot>V:\Unity\Projects\capstone test\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Windows\</SourceFilesRoot>
-		<SoundBanksRoot>V:\Unity\Projects\capstone test\CapstoneProjectV2\CapstoneProject_WwiseProject\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ProjectRoot>V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\GeneratedSoundBanks\Windows\</SoundBanksRoot>
 		<ExternalSourcesInputFile></ExternalSourcesInputFile>
-		<ExternalSourcesOutputRoot>V:\Unity\Projects\capstone test\CapstoneProjectV2\CapstoneProject_WwiseProject\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+		<ExternalSourcesOutputRoot>V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
 	</RootPaths>
 	<DialogueEvents/>
 	<StreamedFiles/>
 	<MediaFilesNotInAnyBank/>
 	<SoundBanks>
-		<SoundBank Id="1355168291" Language="SFX" Hash="3690994985">
+		<SoundBank Id="1355168291" Language="SFX" Hash="3280159996">
 			<ObjectPath>Init</ObjectPath>
 			<ShortName>Init</ShortName>
 			<Path>Init.bnk</Path>
 		</SoundBank>
-		<SoundBank Id="1831431028" Language="SFX" Hash="2459639696">
-			<ObjectPath>\SoundBanks\Default Work Unit\TestSoundbank</ObjectPath>
-			<ShortName>TestSoundbank</ShortName>
-			<Path>TestSoundbank.bnk</Path>
+		<SoundBank Id="3931739935" Language="SFX" Hash="2641811751">
+			<ObjectPath>\SoundBanks\Default Work Unit\Soundbank_OverworldAmbience</ObjectPath>
+			<ShortName>Soundbank_OverworldAmbience</ShortName>
+			<Path>Soundbank_OverworldAmbience.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2403214019" Name="Play_Singapore_Ambiences___Hort_Park__Southern_Ridges__Forest__Air_Tone__Leaves_Rustle__Heavy_Traffic__Birds_Squawk__Light_Cicadas" ObjectPath="\Events\Default Work Unit\Play_Singapore_Ambiences___Hort_Park__Southern_Ridges__Forest__Air_Tone__Leaves_Rustle__Heavy_Traffic__Birds_Squawk__Light_Cicadas" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="236079402" Language="SFX">
+							<ShortName>Singapore Ambiences - Hort Park, Southern Ridges, Forest, Air Tone, Leaves Rustle, Heavy Traffic, Birds Squawk, Light Cicadas.wav</ShortName>
+							<Path>SFX\Singapore Ambiences - Hort Park, Southern Ridges, Forest, Air Tone, Leaves Rustle, Heavy Traffic, Birds Squawk, Light Cicadas_4918D8AF.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
 		</SoundBank>
 	</SoundBanks>
 </SoundBanksInfo>

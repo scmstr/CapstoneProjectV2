@@ -1,6 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{85BB6366-F1B3-447F-8CC8-FBCE384AEC45}" SchemaVersion="103">
 	<Events>
-		<WorkUnit Name="Default Work Unit" ID="{85BB6366-F1B3-447F-8CC8-FBCE384AEC45}" PersistMode="Standalone"/>
+		<WorkUnit Name="Default Work Unit" ID="{85BB6366-F1B3-447F-8CC8-FBCE384AEC45}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Play_Singapore_Ambiences___Hort_Park__Southern_Ridges__Forest__Air_Tone__Leaves_Rustle__Heavy_Traffic__Birds_Squawk__Light_Cicadas" ID="{4C334644-CC6B-46D7-9B19-7950C2069B74}">
+					<ChildrenList>
+						<Action Name="" ID="{46248396-22D1-443C-9121-E677289DFEDE}" ShortID="385374706">
+							<PropertyList>
+								<Property Name="Delay" Type="Real64" Value="2"/>
+								<Property Name="FadeInCurve" Type="int16" Value="5"/>
+								<Property Name="FadeTime" Type="Real64" Value="2.5"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Singapore Ambiences - Hort Park, Southern Ridges, Forest, Air Tone, Leaves Rustle, Heavy Traffic, Birds Squawk, Light Cicadas" ID="{23DC2235-7AEC-4696-8974-B5292E6B8BCF}" WorkUnitID="{0B30049C-EA23-4C31-A1D7-AD3158F86989}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
 	</Events>
 </WwiseDocument>

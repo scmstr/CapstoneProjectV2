@@ -1,6 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{0B30049C-EA23-4C31-A1D7-AD3158F86989}" SchemaVersion="103">
 	<AudioObjects>
-		<WorkUnit Name="Default Work Unit" ID="{0B30049C-EA23-4C31-A1D7-AD3158F86989}" PersistMode="Standalone"/>
+		<WorkUnit Name="Default Work Unit" ID="{0B30049C-EA23-4C31-A1D7-AD3158F86989}" PersistMode="Standalone">
+			<ChildrenList>
+				<Folder Name="OverworldAmbience" ID="{42535BF6-2D53-4582-9797-20DA8AE517A6}" ShortID="850727427">
+					<ChildrenList>
+						<Sound Name="Singapore Ambiences - Hort Park, Southern Ridges, Forest, Air Tone, Leaves Rustle, Heavy Traffic, Birds Squawk, Light Cicadas" ID="{23DC2235-7AEC-4696-8974-B5292E6B8BCF}" ShortID="27263329">
+							<PropertyList>
+								<Property Name="Highpass" Type="int16">
+									<ValueList>
+										<Value>41</Value>
+									</ValueList>
+								</Property>
+								<Property Name="IsLoopingEnabled" Type="bool" Value="True"/>
+								<Property Name="Lowpass" Type="int16">
+									<ValueList>
+										<Value>33</Value>
+									</ValueList>
+								</Property>
+								<Property Name="Pitch" Type="int32">
+									<ValueList>
+										<Value>2020</Value>
+									</ValueList>
+									<ModifierList>
+										<ModifierInfo>
+											<Modifier Name="" ID="{45613BDE-B9A7-4AF0-A5F0-C452BFB45039}"/>
+										</ModifierInfo>
+									</ModifierList>
+								</Property>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{AD726845-0349-473E-9C8A-7CBCB0151FCC}"/>
+								</Reference>
+								<Reference Name="Effect0" PluginName="Wwise RoomVerb" CompanyID="0" PluginID="118" PluginType="3">
+									<ObjectRef Name="Have_U_Ever_Been_Outside" ID="{FE29AE8D-FD86-4652-A95D-68D32F5760EC}" WorkUnitID="{E8613F7D-BAD3-45CD-A3ED-505576F31277}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{13CF2C78-EE39-43E0-9FD2-7F3CCE34A041}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="Singapore Ambiences - Hort Park, Southern Ridges, Forest, Air Tone, Leaves Rustle, Heavy Traffic, Birds Squawk, Light Cicadas" ID="{1A4EB6AF-533E-48F4-91DC-9842AB3D7E85}">
+									<PropertyList>
+										<Property Name="CrossfadeDuration" Type="Real64" Value="20"/>
+										<Property Name="CrossfadeShape" Type="int16" Value="4"/>
+										<Property Name="FadeInDuration" Type="Real64" Value="0.1"/>
+										<Property Name="FadeOutDuration" Type="Real64" Value="0.1"/>
+										<Property Name="LoopBegin" Type="Real64" Value="0.078481943510431"/>
+										<Property Name="LoopEnd" Type="Real64" Value="217.190913171764"/>
+										<Property Name="OverrideWavLoop" Type="bool" Value="True"/>
+									</PropertyList>
+									<Language>SFX</Language>
+									<AudioFile>Singapore Ambiences - Hort Park, Southern Ridges, Forest, Air Tone, Leaves Rustle, Heavy Traffic, Birds Squawk, Light Cicadas.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="236079402"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ObjectLists/>
+							<ActiveSourceList>
+								<ActiveSource Name="Singapore Ambiences - Hort Park, Southern Ridges, Forest, Air Tone, Leaves Rustle, Heavy Traffic, Birds Squawk, Light Cicadas" ID="{1A4EB6AF-533E-48F4-91DC-9842AB3D7E85}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+					</ChildrenList>
+				</Folder>
+			</ChildrenList>
+		</WorkUnit>
 	</AudioObjects>
 </WwiseDocument>

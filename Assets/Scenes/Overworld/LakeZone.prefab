@@ -19309,7 +19309,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1000013276951074, guid: cf4be08cd080bac4ba252ea0da781911, type: 3}
       propertyPath: m_Name
-      value: SnowyTree (6)
+      value: SnowyTree (6) TEST
       objectReference: {fileID: 0}
     - target: {fileID: 4000010109306190, guid: cf4be08cd080bac4ba252ea0da781911, type: 3}
       propertyPath: m_RootOrder
@@ -19321,7 +19321,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4000010109306190, guid: cf4be08cd080bac4ba252ea0da781911, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -92.87946
+      value: -92.5
       objectReference: {fileID: 0}
     - target: {fileID: 4000010109306190, guid: cf4be08cd080bac4ba252ea0da781911, type: 3}
       propertyPath: m_LocalPosition.z

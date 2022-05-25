@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 22
-  productGUID: 270b77e0d6c589747870f063aaedc9c8
+  productGUID: 18b3edcc7963a3a499f3a292434eb64e
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: CapstoneProject
+  productName: CapstoneProjectV2
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -76,7 +76,7 @@ PlayerSettings:
   androidFullscreenMode: 1
   defaultIsNativeResolution: 1
   macRetinaSupport: 1
-  runInBackground: 1
+  runInBackground: 0
   captureSingleScreen: 0
   muteOtherAudioSources: 0
   Prepare IOS For Recording: 0
@@ -135,12 +135,7 @@ PlayerSettings:
     16:9: 1
     Others: 1
   bundleVersion: 1.0
-  preloadedAssets:
-  - {fileID: 0}
-<<<<<<< Updated upstream
-=======
-  - {fileID: 0}
->>>>>>> Stashed changes
+  preloadedAssets: []
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -157,8 +152,7 @@ PlayerSettings:
   resolutionScalingMode: 0
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
-  applicationIdentifier:
-    Standalone: com.DefaultCompany.CapstoneProject
+  applicationIdentifier: {}
   buildNumber:
     Standalone: 0
     iPhone: 0
@@ -559,16 +553,16 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: CapstoneProject
-  metroPackageVersion: 1.0.0.0
+  metroPackageName: CapstoneProjectV2
+  metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: CapstoneProject
+  metroApplicationDescription: CapstoneProjectV2
   wsaImages: {}
-  metroTileShortName: CapstoneProject
+  metroTileShortName: 
   metroTileShowName: 0
   metroMediumTileShowName: 0
   metroLargeTileShowName: 0
@@ -606,31 +600,7 @@ PlayerSettings:
   XboxOneIsContentPackage: 0
   XboxOneEnhancedXboxCompatibilityMode: 0
   XboxOneEnableGPUVariability: 1
-  XboxOneSockets:
-    WwiseCommandSocket:
-      m_Name: WwiseCommandSocket
-      m_Port: 24025
-      m_Protocol: 0
-      m_Usages: 00000000010000000400000007000000
-      m_TemplateName: WwiseCommand
-      m_SessionRequirment: 0
-      m_DeviceUsages: 00000000
-    WwiseDiscoverySocket:
-      m_Name: WwiseDiscoverySocket
-      m_Port: 24024
-      m_Protocol: 1
-      m_Usages: 00000000010000000400000007000000
-      m_TemplateName: WwiseDiscovery
-      m_SessionRequirment: 0
-      m_DeviceUsages: 00000000
-    WwiseNotificationSocket:
-      m_Name: WwiseNotificationSocket
-      m_Port: 24026
-      m_Protocol: 0
-      m_Usages: 00000000010000000400000007000000
-      m_TemplateName: WwiseNotification
-      m_SessionRequirment: 0
-      m_DeviceUsages: 00000000
+  XboxOneSockets: {}
   XboxOneSplashScreen: {fileID: 0}
   XboxOneAllowedProductIds: []
   XboxOnePersistentLocalStorageSize: 0

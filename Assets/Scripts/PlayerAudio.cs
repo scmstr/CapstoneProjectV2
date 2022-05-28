@@ -51,7 +51,7 @@ public class PlayerAudio : MonoBehaviour
         }
         else
         {
-            if((Time.time - _lastSkiTime) > 1.3)
+            if((Time.time - _lastSkiTime) > 1.25)
             {
                 _skiSoundIsPlaying = false;
             }

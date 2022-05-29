@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 85651655c8047004d9f83161518ff440, type: 3}
   m_Name: 79F39421-6F2E-47FE-8739-930063E8F5C2
   m_EditorClassIdentifier: 
-  objectName: Soundbank_OverworldAmbience
-  id: 3931739935
+  objectName: Soundbank_Main
+  id: 29489552
   guid: 79F39421-6F2E-47FE-8739-930063E8F5C2

@@ -25,7 +25,7 @@
 						<Value Platform="Mac">GeneratedSoundBanks\Mac\</Value>
 					</ValueList>
 				</Property>
-				<Property Name="SoundBankGenerateEstimatedDuration" Type="bool" Value="True" /><Property Name="SoundBankGenerateHeaderFile" Type="bool" Value="True" /><Property Name="SoundBankGenerateMaxAttenuationInfo" Type="bool" Value="True" /><Property Name="SoundBankHeaderFilePath" Type="string" Value="../../CapstoneProject/Assets/StreamingAssets/Audio/GeneratedSoundBanks" />
+				<Property Name="SoundBankGenerateEstimatedDuration" Type="bool" Value="True" /><Property Name="SoundBankGenerateHeaderFile" Type="bool" Value="True" /><Property Name="SoundBankGenerateMaxAttenuationInfo" Type="bool" Value="True" /><Property Name="SoundBankHeaderFilePath" Type="string" Value="../Assets/StreamingAssets/Audio/GeneratedSoundBanks" />
 				<Property Name="SoundBankPaths" Type="string">
 					<ValueList>
 						<Value Platform="Windows">GeneratedSoundBanks\Windows\</Value>
@@ -58,19 +58,7 @@
 				</Property>
 				<Property Name="WwiseVersionWhenCreated" Type="string" Value="Branch=wwise_v2021.1|Build=7796|VersionName=v2021.1.7|Config=Release" />
 			
-				<Property Name="LicenseKey" Type="string" Value="PHByb2plY3QgaWQ9IjEyNTQzIiBtYXNrPSJHVEhRNTQyNSIgZW5jPSIwIj48bGlj
-ZW5zZSBpZD0iMSIgbmFtZT0iV3dpc2UiIHR5cGU9IjMiIHBsYXRmb3Jtcz0iNCwx
-MCIgZXhwaXJlcz0iMjAyMi0xMS0wMSIgIC8+PGxpY2Vuc2UgaWQ9IjIxIiBuYW1l
-PSJNYWludGVuYW5jZSIgdHlwZT0iMyIgcGxhdGZvcm1zPSI0LDEwIiBleHBpcmVz
-PSIyMDIyLTExLTAxIiAgLz48bGljZW5zZSBpZD0iNzAiIG5hbWU9IkluZGllIExp
-Y2Vuc2UiIHR5cGU9IjMiIHBsYXRmb3Jtcz0iNCwxMCIgZXhwaXJlcz0iMjAyMi0x
-MS0wMSIgIC8+PC9wcm9qZWN0Pg==|HVwwDmrU6EGSH1kUcwEw0Teot1Mc4edd47J
-Ut8LZMOTwC0p58kJZWdlIglcbx3nVXApgcVuimLgmMT5b2wbPwReF82VG3qyAF2w
-0UKEldgyN2OCPGfdvJOVKa2tb7r9EcsSggm+wCNAsSDH6QUO5Efnh9ebBMGyWwXD
-Ogxouqk42q19tioJt9M75KM7gw6OzVDXa1bXWK1VC5qEBQsRxM8FKHvyls/xsdBn
-OI0ZQKPnB2pcx3INrd/FuaVBjO0GnHvNIXfWPK5yg3ShSaLH9kQ8xedc3eEFu2H1
-0G1YzKrjWWRFO5v7ipnaLEVt+MEb8xU0NRzMGPrF99lk7dmbWYg==
-"/>
+				<Property Name="LicenseKey" Type="string" Value="PHByb2plY3QgaWQ9IjEyNTQzIiBtYXNrPSJHVEhRNTQyNSIgZW5jPSIwIj48bGlj&#xD;&#xA;ZW5zZSBpZD0iMSIgbmFtZT0iV3dpc2UiIHR5cGU9IjMiIHBsYXRmb3Jtcz0iNCwx&#xD;&#xA;MCIgZXhwaXJlcz0iMjAyMi0xMS0wMSIgIC8+PGxpY2Vuc2UgaWQ9IjIxIiBuYW1l&#xD;&#xA;PSJNYWludGVuYW5jZSIgdHlwZT0iMyIgcGxhdGZvcm1zPSI0LDEwIiBleHBpcmVz&#xD;&#xA;PSIyMDIyLTExLTAxIiAgLz48bGljZW5zZSBpZD0iNzAiIG5hbWU9IkluZGllIExp&#xD;&#xA;Y2Vuc2UiIHR5cGU9IjMiIHBsYXRmb3Jtcz0iNCwxMCIgZXhwaXJlcz0iMjAyMi0x&#xD;&#xA;MS0wMSIgIC8+PC9wcm9qZWN0Pg==|HVwwDmrU6EGSH1kUcwEw0Teot1Mc4edd47J&#xD;&#xA;Ut8LZMOTwC0p58kJZWdlIglcbx3nVXApgcVuimLgmMT5b2wbPwReF82VG3qyAF2w&#xD;&#xA;0UKEldgyN2OCPGfdvJOVKa2tb7r9EcsSggm+wCNAsSDH6QUO5Efnh9ebBMGyWwXD&#xD;&#xA;Ogxouqk42q19tioJt9M75KM7gw6OzVDXa1bXWK1VC5qEBQsRxM8FKHvyls/xsdBn&#xD;&#xA;OI0ZQKPnB2pcx3INrd/FuaVBjO0GnHvNIXfWPK5yg3ShSaLH9kQ8xedc3eEFu2H1&#xD;&#xA;0G1YzKrjWWRFO5v7ipnaLEVt+MEb8xU0NRzMGPrF99lk7dmbWYg==&#xD;&#xA;" />
 			</PropertyList>
 			<SharedValues>
 				<SharedPropertyList ClassName="AudioSource" PluginType="0" CompanyID="1" PluginID="0">

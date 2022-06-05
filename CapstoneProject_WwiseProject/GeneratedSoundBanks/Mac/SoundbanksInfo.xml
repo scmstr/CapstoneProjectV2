@@ -1,25 +1,103 @@
 <?xml version="1.0" encoding="utf-8"?>
 <SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="12" SoundbankVersion="140">
 	<RootPaths>
-		<ProjectRoot>V:\Unity\Projects\capstone test\CapstoneProjectV2\CapstoneProject_WwiseProject\</ProjectRoot>
-		<SourceFilesRoot>V:\Unity\Projects\capstone test\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\</SourceFilesRoot>
-		<SoundBanksRoot>V:\Unity\Projects\capstone test\CapstoneProjectV2\CapstoneProject_WwiseProject\GeneratedSoundBanks\Mac\</SoundBanksRoot>
+		<ProjectRoot>V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\</SourceFilesRoot>
+		<SoundBanksRoot>V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\GeneratedSoundBanks\Mac\</SoundBanksRoot>
 		<ExternalSourcesInputFile></ExternalSourcesInputFile>
-		<ExternalSourcesOutputRoot>V:\Unity\Projects\capstone test\CapstoneProjectV2\CapstoneProject_WwiseProject\GeneratedSoundBanks\Mac</ExternalSourcesOutputRoot>
+		<ExternalSourcesOutputRoot>V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\GeneratedSoundBanks\Mac</ExternalSourcesOutputRoot>
 	</RootPaths>
 	<DialogueEvents/>
 	<StreamedFiles/>
 	<MediaFilesNotInAnyBank/>
 	<SoundBanks>
-		<SoundBank Id="1355168291" Language="SFX" Hash="2754342975">
+		<SoundBank Id="29489552" Language="SFX" Hash="3973035304">
+			<ObjectPath>\SoundBanks\Default Work Unit\Soundbank_Main</ObjectPath>
+			<ShortName>Soundbank_Main</ShortName>
+			<Path>Soundbank_Main.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2403214019" Name="Play_Singapore_Ambiences___Hort_Park__Southern_Ridges__Forest__Air_Tone__Leaves_Rustle__Heavy_Traffic__Birds_Squawk__Light_Cicadas" ObjectPath="\Events\Default Work Unit\Play_Singapore_Ambiences___Hort_Park__Southern_Ridges__Forest__Air_Tone__Leaves_Rustle__Heavy_Traffic__Birds_Squawk__Light_Cicadas" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="236079402" Language="SFX">
+							<ShortName>Singapore Ambiences - Hort Park, Southern Ridges, Forest, Air Tone, Leaves Rustle, Heavy Traffic, Birds Squawk, Light Cicadas.wav</ShortName>
+							<Path>SFX\Singapore Ambiences - Hort Park, Southern Ridges, Forest, Air Tone, Leaves Rustle, Heavy Traffic, Birds Squawk, Light Cicadas_4918D8AF.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1899905172" Name="Skiing" ObjectPath="\Events\Default Work Unit\Skiing" DurationType="OneShot" DurationMin="1.877294" DurationMax="2.732746">
+					<IncludedMemoryFiles>
+						<File Id="82767921" Language="SFX">
+							<ShortName>SkiSteps\Grass\SkiStep_Grass_01.wav</ShortName>
+							<Path>SFX\SkiSteps\Grass\SkiStep_Grass_01_10C4C929.wem</Path>
+						</File>
+						<File Id="375041793" Language="SFX">
+							<ShortName>SkiSteps\Grass\SkiStep_Grass_08.wav</ShortName>
+							<Path>SFX\SkiSteps\Grass\SkiStep_Grass_08_10C4C929.wem</Path>
+						</File>
+						<File Id="624606902" Language="SFX">
+							<ShortName>SkiSteps\SkiStep01.wav</ShortName>
+							<Path>SFX\SkiSteps\SkiStep01_10C4C929.wem</Path>
+						</File>
+						<File Id="655793904" Language="SFX">
+							<ShortName>SkiSteps\Grass\SkiStep_Grass_06.wav</ShortName>
+							<Path>SFX\SkiSteps\Grass\SkiStep_Grass_06_10C4C929.wem</Path>
+						</File>
+						<File Id="706088786" Language="SFX">
+							<ShortName>SkiSteps\Grass\SkiStep_Grass_03.wav</ShortName>
+							<Path>SFX\SkiSteps\Grass\SkiStep_Grass_03_10C4C929.wem</Path>
+						</File>
+						<File Id="889448402" Language="SFX">
+							<ShortName>SkiSteps\Grass\SkiStep_Grass_04.wav</ShortName>
+							<Path>SFX\SkiSteps\Grass\SkiStep_Grass_04_10C4C929.wem</Path>
+						</File>
+						<File Id="943866122" Language="SFX">
+							<ShortName>SkiSteps\Grass\SkiStep_Grass_05.wav</ShortName>
+							<Path>SFX\SkiSteps\Grass\SkiStep_Grass_05_10C4C929.wem</Path>
+						</File>
+						<File Id="1005003893" Language="SFX">
+							<ShortName>SkiSteps\Grass\SkiStep_Grass_02.wav</ShortName>
+							<Path>SFX\SkiSteps\Grass\SkiStep_Grass_02_10C4C929.wem</Path>
+						</File>
+						<File Id="1058627170" Language="SFX">
+							<ShortName>SkiSteps\Grass\SkiStep_Grass_07.wav</ShortName>
+							<Path>SFX\SkiSteps\Grass\SkiStep_Grass_07_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<DefaultSwitchValue>{4249B1E3-8AF6-4E60-A40F-D5B26C6DE64D}</DefaultSwitchValue>
+					<SwitchContainers>
+						<SwitchContainer SwitchValue="{EA8ED80C-07F9-4317-9CE8-10A1C11B9479}">
+							<Media>
+								<File Id="82767921"/>
+								<File Id="375041793"/>
+								<File Id="655793904"/>
+								<File Id="706088786"/>
+								<File Id="889448402"/>
+								<File Id="943866122"/>
+								<File Id="1005003893"/>
+								<File Id="1058627170"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{4249B1E3-8AF6-4E60-A40F-D5B26C6DE64D}">
+							<Media>
+								<File Id="624606902"/>
+							</Media>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+			</IncludedEvents>
+			<SwitchGroups>
+				<SwitchGroup Id="1899905172" Name="Skiing" ObjectPath="\Switches\Default Work Unit\Skiing" GUID="{CEDB4845-5862-4924-8CA7-021883884BA9}">
+					<Switches>
+						<Switch Id="787898836" Name="Snow" ObjectPath="\Switches\Default Work Unit\Skiing\Snow" GUID="{4249B1E3-8AF6-4E60-A40F-D5B26C6DE64D}"/>
+						<Switch Id="4248645337" Name="Grass" ObjectPath="\Switches\Default Work Unit\Skiing\Grass" GUID="{EA8ED80C-07F9-4317-9CE8-10A1C11B9479}"/>
+					</Switches>
+				</SwitchGroup>
+			</SwitchGroups>
+		</SoundBank>
+		<SoundBank Id="1355168291" Language="SFX" Hash="593537822">
 			<ObjectPath>Init</ObjectPath>
 			<ShortName>Init</ShortName>
 			<Path>Init.bnk</Path>
-		</SoundBank>
-		<SoundBank Id="1831431028" Language="SFX" Hash="2459639696">
-			<ObjectPath>\SoundBanks\Default Work Unit\TestSoundbank</ObjectPath>
-			<ShortName>TestSoundbank</ShortName>
-			<Path>TestSoundbank.bnk</Path>
 		</SoundBank>
 	</SoundBanks>
 </SoundBanksInfo>

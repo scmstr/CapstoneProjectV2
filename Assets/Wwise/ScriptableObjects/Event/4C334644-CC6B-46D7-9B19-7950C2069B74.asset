@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe84de5897955964f9d9621e321e231f, type: 3}
+  m_Name: 4C334644-CC6B-46D7-9B19-7950C2069B74
+  m_EditorClassIdentifier: 
+  objectName: Play_Singapore_Ambiences___Hort_Park__Southern_Ridges__Forest__Air_Tone__Leaves_Rustle__Heavy_Traffic__Birds_Squawk__Light_Cicadas
+  id: 2403214019
+  guid: 4C334644-CC6B-46D7-9B19-7950C2069B74

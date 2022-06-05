@@ -1,9 +1,9 @@
 {
-    "originalSdkFolder": "S:\\Wwise 2021.1.7.7796\\SDK",
+    "originalSdkFolder": "S:\\Wwise 2021.1.8.7831\\SDK",
     "currentVersion": {
-        "build": 2335,
+        "build": 2373,
         "major": 1,
-        "minor": 7,
+        "minor": 8,
         "nickname": "",
         "year": 2021
     },
@@ -15,6 +15,26 @@
         {
             "id": "Packages",
             "valueId": "Extensions"
+        },
+        {
+            "id": "DeploymentPlatforms",
+            "valueId": "Mac"
+        },
+        {
+            "id": "DeploymentPlatforms",
+            "valueId": "Windows"
+        },
+        {
+            "id": "Packages",
+            "valueId": "Unity"
+        },
+        {
+            "id": "Packages",
+            "valueId": "Extensions"
+        },
+        {
+            "id": "DeploymentPlatforms",
+            "valueId": "Android"
         },
         {
             "id": "DeploymentPlatforms",

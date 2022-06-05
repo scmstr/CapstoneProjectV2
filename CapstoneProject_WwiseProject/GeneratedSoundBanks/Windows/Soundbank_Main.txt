@@ -1,0 +1,26 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1899905172	Skiing			\Default Work Unit\Skiing	
+	2403214019	Play_Singapore_Ambiences___Hort_Park__Southern_Ridges__Forest__Air_Tone__Leaves_Rustle__Heavy_Traffic__Birds_Squawk__Light_Cicadas			\Default Work Unit\Play_Singapore_Ambiences___Hort_Park__Southern_Ridges__Forest__Air_Tone__Leaves_Rustle__Heavy_Traffic__Birds_Squawk__Light_Cicadas	
+
+Switch Group	ID	Name			Wwise Object Path	Notes
+	1899905172	Skiing			\Default Work Unit\Skiing	
+
+Switch	ID	Name	Switch Group			Notes
+	787898836	Snow	Skiing			
+	4248645337	Grass	Skiing			
+
+Effect plug-ins	ID	Name	Type				Notes
+	48620415	Have_U_Ever_Been_Outside	Wwise RoomVerb			
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	82767921	SkiStep_Grass_01	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Windows\SFX\SkiSteps\Grass\SkiStep_Grass_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Skiing\Grass\SkiStep_Grass_01		376744
+	236079402	Singapore Ambiences - Hort Park, Southern Ridges, Forest, Air Tone, Leaves Rustle, Heavy Traffic, Birds Squawk, Light Cicadas	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Windows\SFX\Singapore Ambiences - Hort Park, Southern Ridges, Forest, Air Tone, Leaves Rustle, Heavy Traffic, Birds Squawk, Light Cicadas_4918D8AF.wem		\Actor-Mixer Hierarchy\Default Work Unit\OverworldAmbience\Singapore Ambiences - Hort Park, Southern Ridges, Forest, Air Tone, Leaves Rustle, Heavy Traffic, Birds Squawk, Light Cicadas		42298384
+	375041793	SkiStep_Grass_08	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Windows\SFX\SkiSteps\Grass\SkiStep_Grass_08_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Skiing\Grass\SkiStep_Grass_08		376744
+	624606902	SkiStep_Snow_01	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Windows\SFX\SkiSteps\SkiStep01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Skiing\Snow\SkiStep_Snow_01		502280
+	655793904	SkiStep_Grass_06	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Windows\SFX\SkiSteps\Grass\SkiStep_Grass_06_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Skiing\Grass\SkiStep_Grass_06		376744
+	706088786	SkiStep_Grass_03	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Windows\SFX\SkiSteps\Grass\SkiStep_Grass_03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Skiing\Grass\SkiStep_Grass_03		376744
+	889448402	SkiStep_Grass_04	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Windows\SFX\SkiSteps\Grass\SkiStep_Grass_04_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Skiing\Grass\SkiStep_Grass_04		376744
+	943866122	SkiStep_Grass_05	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Windows\SFX\SkiSteps\Grass\SkiStep_Grass_05_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Skiing\Grass\SkiStep_Grass_05		376744
+	1005003893	SkiStep_Grass_02	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Windows\SFX\SkiSteps\Grass\SkiStep_Grass_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Skiing\Grass\SkiStep_Grass_02		376744
+	1058627170	SkiStep_Grass_07	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Windows\SFX\SkiSteps\Grass\SkiStep_Grass_07_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Skiing\Grass\SkiStep_Grass_07		376744
+

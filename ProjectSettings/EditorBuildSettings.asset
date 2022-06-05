@@ -8,6 +8,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Overworld/Scene_Overworld.unity
     guid: 0a560d81dd4f1e74bbdd4e203437cabf
+  - enabled: 1
+    path: Assets/Scenes/ForestMaze/ForestMaze.unity
+    guid: 8625682107f82504c81fc03c471bcc67
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 8b7ab78d63a017146857c7c2506cb100, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: cecf590c0ee25504f99935b086d72a8c, type: 2}

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class NewBehaviourScript : MonoBehaviour
+public class SceneTransition : MonoBehaviour
 {
      void OnTriggerEnter(Collider other)
     {

@@ -294,7 +294,7 @@
                 },
                 {
                     "name": "",
-                    "id": "e5396935-12e7-4842-9273-a757dfddca52",
+                    "id": "a34863be-f6c6-4f2b-87a1-561bbfd82fc7",
                     "path": "<XInputController>/buttonSouth",
                     "interactions": "",
                     "processors": "",
@@ -316,7 +316,7 @@
                 },
                 {
                     "name": "",
-                    "id": "37ba493e-3eab-4f46-bf30-ecda3a967cc8",
+                    "id": "c7356dd5-972c-47f8-8dc7-948b98c5f218",
                     "path": "<XInputController>/buttonSouth",
                     "interactions": "",
                     "processors": "",
@@ -338,7 +338,7 @@
                 },
                 {
                     "name": "",
-                    "id": "7589e5ca-86d4-41f9-86fd-c8d3f0572a0f",
+                    "id": "b7370055-55e5-4f7c-bf47-5359d25a955e",
                     "path": "<XInputController>/buttonSouth",
                     "interactions": "",
                     "processors": "",

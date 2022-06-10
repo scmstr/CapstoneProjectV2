@@ -338,6 +338,17 @@
                 },
                 {
                     "name": "",
+                    "id": "90e0f216-fad0-4140-818c-223f245ad6b5",
+                    "path": "<XInputController>/buttonSouth",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Xbox Control Scheme",
+                    "action": "Activate",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
                     "id": "3b8b1b59-2fdc-4998-8259-50341075d9a2",
                     "path": "<XRController>{LeftHand}/trigger",
                     "interactions": "",

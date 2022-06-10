@@ -172,9 +172,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 0d6ccd3d0ef0f1d458e69421dccbdae1, type: 3}
-
-  m_Name: ValveIndexControllerProfile Standalone
-  m_Name: ValveIndexControllerProfile WSA
+  m_Name: 
   m_EditorClassIdentifier: 
   m_enabled: 0
   nameUi: Valve Index Controller Profile
@@ -525,7 +523,7 @@ MonoBehaviour:
   m_Name: Android
   m_EditorClassIdentifier: 
   features:
-  - {fileID: -7598993923117227712}
+  - {fileID: 8523644727133262675}
   - {fileID: -2641027510827078056}
   - {fileID: -6877241754756565554}
   - {fileID: 2473291021358461582}
@@ -649,6 +647,7 @@ MonoBehaviour:
   m_Name: WSA
   m_EditorClassIdentifier: 
   features:
+  - {fileID: -5003351828876037086}
   - {fileID: 5028497036142516217}
   - {fileID: -3953559957347592580}
   - {fileID: 4367465224804436845}
@@ -657,7 +656,6 @@ MonoBehaviour:
   - {fileID: 2768929855702712951}
   - {fileID: 5098668688134514653}
   - {fileID: 2806093741653428034}
-  - {fileID: -5003351828876037086}
   m_renderMode: 1
   m_depthSubmissionMode: 0
 --- !u!114 &8102796180921129347
@@ -681,3 +679,23 @@ MonoBehaviour:
   priority: 0
   required: 0
   ignoreValidationErrors: 0
+--- !u!114 &8523644727133262675
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 486b5e28864f9a94b979b9620ce5006d, type: 3}
+  m_Name: ConformanceAutomationFeature Android
+  m_EditorClassIdentifier: 
+  m_enabled: 0
+  nameUi: Conformance Automation
+  version: 0.0.1
+  featureIdInternal: com.unity.openxr.feature.conformance
+  openxrExtensionStrings: XR_EXT_conformance_automation
+  company: Unity
+  priority: 0
+  required: 0

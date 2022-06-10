@@ -294,7 +294,7 @@
                 },
                 {
                     "name": "",
-                    "id": "9382f94d-a0a0-4967-9fa0-7b65ee0d2227",
+                    "id": "a34863be-f6c6-4f2b-87a1-561bbfd82fc7",
                     "path": "<XInputController>/buttonSouth",
                     "interactions": "",
                     "processors": "",
@@ -316,7 +316,7 @@
                 },
                 {
                     "name": "",
-                    "id": "37ba493e-3eab-4f46-bf30-ecda3a967cc8",
+                    "id": "c7356dd5-972c-47f8-8dc7-948b98c5f218",
                     "path": "<XInputController>/buttonSouth",
                     "interactions": "",
                     "processors": "",
@@ -332,6 +332,17 @@
                     "interactions": "",
                     "processors": "",
                     "groups": "Generic XR Controller",
+                    "action": "Activate",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "b7370055-55e5-4f7c-bf47-5359d25a955e",
+                    "path": "<XInputController>/buttonSouth",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Xbox Control Scheme",
                     "action": "Activate",
                     "isComposite": false,
                     "isPartOfComposite": false

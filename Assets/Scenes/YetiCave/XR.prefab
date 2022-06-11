@@ -17,7 +17,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4941378023115559668, guid: 2c8545e10b20508459114818aee2a310, type: 3}
       propertyPath: m_MoveSpeed
-      value: 25
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 4941378023362255440, guid: 2c8545e10b20508459114818aee2a310, type: 3}
       propertyPath: m_Enabled
@@ -27,9 +27,53 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4941378024069151024, guid: 2c8545e10b20508459114818aee2a310, type: 3}
+      propertyPath: playerSkiSound.WwiseObjectReference
+      value: 
+      objectReference: {fileID: 11400000, guid: 416c8b45d7d363342b7ae58410c8e8ea, type: 2}
+    - target: {fileID: 4941378024322365201, guid: 2c8545e10b20508459114818aee2a310, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.75
+      objectReference: {fileID: 0}
+    - target: {fileID: 4941378024322365201, guid: 2c8545e10b20508459114818aee2a310, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.75
+      objectReference: {fileID: 0}
+    - target: {fileID: 4941378024322365201, guid: 2c8545e10b20508459114818aee2a310, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.75
+      objectReference: {fileID: 0}
+    - target: {fileID: 4941378024322365201, guid: 2c8545e10b20508459114818aee2a310, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 473.73
+      objectReference: {fileID: 0}
     - target: {fileID: 4941378024322365201, guid: 2c8545e10b20508459114818aee2a310, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2718
+      value: 0.43
+      objectReference: {fileID: 0}
+    - target: {fileID: 4941378024322365201, guid: 2c8545e10b20508459114818aee2a310, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 850.79
+      objectReference: {fileID: 0}
+    - target: {fileID: 4941378024322365201, guid: 2c8545e10b20508459114818aee2a310, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 4941378024322365201, guid: 2c8545e10b20508459114818aee2a310, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4941378024322365201, guid: 2c8545e10b20508459114818aee2a310, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 4941378024322365201, guid: 2c8545e10b20508459114818aee2a310, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4941378024322365201, guid: 2c8545e10b20508459114818aee2a310, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 90
       objectReference: {fileID: 0}
     - target: {fileID: 4941378024440354582, guid: 2c8545e10b20508459114818aee2a310, type: 3}
       propertyPath: m_Name
@@ -77,6 +121,18 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4941378024440354583, guid: 2c8545e10b20508459114818aee2a310, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4941378024471590848, guid: 2c8545e10b20508459114818aee2a310, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4941378024471590848, guid: 2c8545e10b20508459114818aee2a310, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4941378024471590848, guid: 2c8545e10b20508459114818aee2a310, type: 3}
+      propertyPath: m_LocalPosition.z
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -231,9 +287,81 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
+      - m_Target: {fileID: 0}
+        m_TargetAssemblyTypeName: UnityEngine.Behaviour, UnityEngine
+        m_MethodName: set_enabled
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 1
+        m_CallState: 2
+      - m_Target: {fileID: 0}
+        m_TargetAssemblyTypeName: UnityEngine.Behaviour, UnityEngine
+        m_MethodName: set_enabled
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 1
+        m_CallState: 2
+      - m_Target: {fileID: 0}
+        m_TargetAssemblyTypeName: UnityEngine.Behaviour, UnityEngine
+        m_MethodName: set_enabled
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 1
+        m_CallState: 2
   m_HoverExited:
     m_PersistentCalls:
       m_Calls:
+      - m_Target: {fileID: 0}
+        m_TargetAssemblyTypeName: UnityEngine.Behaviour, UnityEngine
+        m_MethodName: set_enabled
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 0}
+        m_TargetAssemblyTypeName: UnityEngine.Behaviour, UnityEngine
+        m_MethodName: set_enabled
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 0}
+        m_TargetAssemblyTypeName: UnityEngine.Behaviour, UnityEngine
+        m_MethodName: set_enabled
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
       - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: UnityEngine.Behaviour, UnityEngine
         m_MethodName: set_enabled

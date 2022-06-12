@@ -13,6 +13,9 @@ namespace AK
 {
     namespace EVENTS
     {
+        static const AkUniqueID DISBLE_WWISE_REVERB = 2027663355U;
+        static const AkUniqueID ENABLE_WWISE_REVERB = 2501034545U;
+        static const AkUniqueID PLAY_CHICKENCOOP = 4123240660U;
         static const AkUniqueID PLAY_SINGAPORE_AMBIENCES___HORT_PARK__SOUTHERN_RIDGES__FOREST__AIR_TONE__LEAVES_RUSTLE__HEAVY_TRAFFIC__BIRDS_SQUAWK__LIGHT_CICADAS = 2403214019U;
         static const AkUniqueID PLAY_SKIING = 4206345331U;
     } // namespace EVENTS

@@ -11,11 +11,109 @@
 	<StreamedFiles/>
 	<MediaFilesNotInAnyBank/>
 	<SoundBanks>
-		<SoundBank Id="29489552" Language="SFX" Hash="4015953627">
+		<SoundBank Id="29489552" Language="SFX" Hash="3353666486">
 			<ObjectPath>\SoundBanks\Default Work Unit\Soundbank_Main</ObjectPath>
 			<ShortName>Soundbank_Main</ShortName>
 			<Path>Soundbank_Main.bnk</Path>
 			<IncludedEvents>
+				<Event Id="2027663355" Name="Disble_Wwise_Reverb" ObjectPath="\Events\Default Work Unit\Reverb Control\Disble_Wwise_Reverb" MaxAttenuation="0." DurationType="OneShot" DurationMin="0." DurationMax="0."/>
+				<Event Id="2501034545" Name="Enable_Wwise_Reverb" ObjectPath="\Events\Default Work Unit\Reverb Control\Enable_Wwise_Reverb" MaxAttenuation="0." DurationType="OneShot" DurationMin="0." DurationMax="0."/>
+				<Event Id="4123240660" Name="Play_Chickencoop" ObjectPath="\Events\Default Work Unit\Play_Chickencoop" MaxAttenuation="30." DurationType="OneShot" DurationMin="0.477237" DurationMax="2.392176">
+					<IncludedMemoryFiles>
+						<File Id="1339242" Language="SFX">
+							<ShortName>Chicken Wings 02.wav</ShortName>
+							<Path>SFX\Chicken Wings 02_10C4C929.wem</Path>
+						</File>
+						<File Id="30282184" Language="SFX">
+							<ShortName>Chicken Cluck 05.wav</ShortName>
+							<Path>SFX\Chicken Cluck 05_10C4C929.wem</Path>
+						</File>
+						<File Id="103326395" Language="SFX">
+							<ShortName>Chicken Cluck 04.wav</ShortName>
+							<Path>SFX\Chicken Cluck 04_10C4C929.wem</Path>
+						</File>
+						<File Id="128873530" Language="SFX">
+							<ShortName>Chicken Cluck 02.wav</ShortName>
+							<Path>SFX\Chicken Cluck 02_10C4C929.wem</Path>
+						</File>
+						<File Id="178981503" Language="SFX">
+							<ShortName>Chicken Wings 06.wav</ShortName>
+							<Path>SFX\Chicken Wings 06_10C4C929.wem</Path>
+						</File>
+						<File Id="189967344" Language="SFX">
+							<ShortName>Chicken 12.wav</ShortName>
+							<Path>SFX\Chicken 12_10C4C929.wem</Path>
+						</File>
+						<File Id="196773777" Language="SFX">
+							<ShortName>Chicken 10.wav</ShortName>
+							<Path>SFX\Chicken 10_10C4C929.wem</Path>
+						</File>
+						<File Id="231046948" Language="SFX">
+							<ShortName>Chicken 08.wav</ShortName>
+							<Path>SFX\Chicken 08_10C4C929.wem</Path>
+						</File>
+						<File Id="293013143" Language="SFX">
+							<ShortName>Chicken Cluck 03.wav</ShortName>
+							<Path>SFX\Chicken Cluck 03_10C4C929.wem</Path>
+						</File>
+						<File Id="325741146" Language="SFX">
+							<ShortName>Chicken Wings 04.wav</ShortName>
+							<Path>SFX\Chicken Wings 04_10C4C929.wem</Path>
+						</File>
+						<File Id="404378988" Language="SFX">
+							<ShortName>Chicken Wings 05.wav</ShortName>
+							<Path>SFX\Chicken Wings 05_10C4C929.wem</Path>
+						</File>
+						<File Id="457025008" Language="SFX">
+							<ShortName>Chicken 01.wav</ShortName>
+							<Path>SFX\Chicken 01_10C4C929.wem</Path>
+						</File>
+						<File Id="466087583" Language="SFX">
+							<ShortName>Chicken 11.wav</ShortName>
+							<Path>SFX\Chicken 11_10C4C929.wem</Path>
+						</File>
+						<File Id="498282984" Language="SFX">
+							<ShortName>Chicken 03.wav</ShortName>
+							<Path>SFX\Chicken 03_10C4C929.wem</Path>
+						</File>
+						<File Id="548456474" Language="SFX">
+							<ShortName>Chicken Cluck 01.wav</ShortName>
+							<Path>SFX\Chicken Cluck 01_10C4C929.wem</Path>
+						</File>
+						<File Id="575618255" Language="SFX">
+							<ShortName>Chicken 06.wav</ShortName>
+							<Path>SFX\Chicken 06_10C4C929.wem</Path>
+						</File>
+						<File Id="652863266" Language="SFX">
+							<ShortName>Chicken 05.wav</ShortName>
+							<Path>SFX\Chicken 05_10C4C929.wem</Path>
+						</File>
+						<File Id="712924816" Language="SFX">
+							<ShortName>Chicken 04.wav</ShortName>
+							<Path>SFX\Chicken 04_10C4C929.wem</Path>
+						</File>
+						<File Id="772080201" Language="SFX">
+							<ShortName>Chicken Wings 01.wav</ShortName>
+							<Path>SFX\Chicken Wings 01_10C4C929.wem</Path>
+						</File>
+						<File Id="799445184" Language="SFX">
+							<ShortName>Chicken 07.wav</ShortName>
+							<Path>SFX\Chicken 07_10C4C929.wem</Path>
+						</File>
+						<File Id="878376981" Language="SFX">
+							<ShortName>Chicken Wings 03.wav</ShortName>
+							<Path>SFX\Chicken Wings 03_10C4C929.wem</Path>
+						</File>
+						<File Id="906295094" Language="SFX">
+							<ShortName>Chicken 02.wav</ShortName>
+							<Path>SFX\Chicken 02_10C4C929.wem</Path>
+						</File>
+						<File Id="908153907" Language="SFX">
+							<ShortName>Chicken 09.wav</ShortName>
+							<Path>SFX\Chicken 09_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
 				<Event Id="2403214019" Name="Play_Singapore_Ambiences___Hort_Park__Southern_Ridges__Forest__Air_Tone__Leaves_Rustle__Heavy_Traffic__Birds_Squawk__Light_Cicadas" ObjectPath="\Events\Default Work Unit\Play_Singapore_Ambiences___Hort_Park__Southern_Ridges__Forest__Air_Tone__Leaves_Rustle__Heavy_Traffic__Birds_Squawk__Light_Cicadas" DurationType="Infinite">
 					<IncludedMemoryFiles>
 						<File Id="236079402" Language="SFX">
@@ -109,6 +207,100 @@
 					</SwitchContainers>
 				</Event>
 			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="1339242" Language="SFX">
+					<ShortName>Chicken Wings 02.wav</ShortName>
+					<Path>SFX\Chicken Wings 02_10C4C929.wem</Path>
+				</File>
+				<File Id="30282184" Language="SFX">
+					<ShortName>Chicken Cluck 05.wav</ShortName>
+					<Path>SFX\Chicken Cluck 05_10C4C929.wem</Path>
+				</File>
+				<File Id="103326395" Language="SFX">
+					<ShortName>Chicken Cluck 04.wav</ShortName>
+					<Path>SFX\Chicken Cluck 04_10C4C929.wem</Path>
+				</File>
+				<File Id="128873530" Language="SFX">
+					<ShortName>Chicken Cluck 02.wav</ShortName>
+					<Path>SFX\Chicken Cluck 02_10C4C929.wem</Path>
+				</File>
+				<File Id="178981503" Language="SFX">
+					<ShortName>Chicken Wings 06.wav</ShortName>
+					<Path>SFX\Chicken Wings 06_10C4C929.wem</Path>
+				</File>
+				<File Id="189967344" Language="SFX">
+					<ShortName>Chicken 12.wav</ShortName>
+					<Path>SFX\Chicken 12_10C4C929.wem</Path>
+				</File>
+				<File Id="196773777" Language="SFX">
+					<ShortName>Chicken 10.wav</ShortName>
+					<Path>SFX\Chicken 10_10C4C929.wem</Path>
+				</File>
+				<File Id="231046948" Language="SFX">
+					<ShortName>Chicken 08.wav</ShortName>
+					<Path>SFX\Chicken 08_10C4C929.wem</Path>
+				</File>
+				<File Id="293013143" Language="SFX">
+					<ShortName>Chicken Cluck 03.wav</ShortName>
+					<Path>SFX\Chicken Cluck 03_10C4C929.wem</Path>
+				</File>
+				<File Id="325741146" Language="SFX">
+					<ShortName>Chicken Wings 04.wav</ShortName>
+					<Path>SFX\Chicken Wings 04_10C4C929.wem</Path>
+				</File>
+				<File Id="404378988" Language="SFX">
+					<ShortName>Chicken Wings 05.wav</ShortName>
+					<Path>SFX\Chicken Wings 05_10C4C929.wem</Path>
+				</File>
+				<File Id="457025008" Language="SFX">
+					<ShortName>Chicken 01.wav</ShortName>
+					<Path>SFX\Chicken 01_10C4C929.wem</Path>
+				</File>
+				<File Id="466087583" Language="SFX">
+					<ShortName>Chicken 11.wav</ShortName>
+					<Path>SFX\Chicken 11_10C4C929.wem</Path>
+				</File>
+				<File Id="498282984" Language="SFX">
+					<ShortName>Chicken 03.wav</ShortName>
+					<Path>SFX\Chicken 03_10C4C929.wem</Path>
+				</File>
+				<File Id="548456474" Language="SFX">
+					<ShortName>Chicken Cluck 01.wav</ShortName>
+					<Path>SFX\Chicken Cluck 01_10C4C929.wem</Path>
+				</File>
+				<File Id="575618255" Language="SFX">
+					<ShortName>Chicken 06.wav</ShortName>
+					<Path>SFX\Chicken 06_10C4C929.wem</Path>
+				</File>
+				<File Id="652863266" Language="SFX">
+					<ShortName>Chicken 05.wav</ShortName>
+					<Path>SFX\Chicken 05_10C4C929.wem</Path>
+				</File>
+				<File Id="712924816" Language="SFX">
+					<ShortName>Chicken 04.wav</ShortName>
+					<Path>SFX\Chicken 04_10C4C929.wem</Path>
+				</File>
+				<File Id="772080201" Language="SFX">
+					<ShortName>Chicken Wings 01.wav</ShortName>
+					<Path>SFX\Chicken Wings 01_10C4C929.wem</Path>
+				</File>
+				<File Id="799445184" Language="SFX">
+					<ShortName>Chicken 07.wav</ShortName>
+					<Path>SFX\Chicken 07_10C4C929.wem</Path>
+				</File>
+				<File Id="878376981" Language="SFX">
+					<ShortName>Chicken Wings 03.wav</ShortName>
+					<Path>SFX\Chicken Wings 03_10C4C929.wem</Path>
+				</File>
+				<File Id="906295094" Language="SFX">
+					<ShortName>Chicken 02.wav</ShortName>
+					<Path>SFX\Chicken 02_10C4C929.wem</Path>
+				</File>
+				<File Id="908153907" Language="SFX">
+					<ShortName>Chicken 09.wav</ShortName>
+					<Path>SFX\Chicken 09_10C4C929.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
 			<SwitchGroups>
 				<SwitchGroup Id="1899905172" Name="Skiing" ObjectPath="\Switches\Default Work Unit\Skiing" GUID="{CEDB4845-5862-4924-8CA7-021883884BA9}">
 					<Switches>
@@ -119,7 +311,7 @@
 				</SwitchGroup>
 			</SwitchGroups>
 		</SoundBank>
-		<SoundBank Id="1355168291" Language="SFX" Hash="593537822">
+		<SoundBank Id="1355168291" Language="SFX" Hash="2296370657">
 			<ObjectPath>Init</ObjectPath>
 			<ShortName>Init</ShortName>
 			<Path>Init.bnk</Path>

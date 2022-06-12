@@ -30,6 +30,55 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Folder Name="Reverb Control" ID="{CE917362-0187-413D-A79B-F928B9770020}" ShortID="1008984904">
+					<ChildrenList>
+						<Event Name="Enable_Wwise_Reverb" ID="{74772305-8EFA-4CAB-BE62-67AE7F94105A}">
+							<ChildrenList>
+								<Action Name="" ID="{34F179AE-4853-4860-8B88-CD4CEAD8A270}" ShortID="169877703">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="25"/>
+										<Property Name="BypassEffect" Type="bool" Value="False"/>
+										<Property Name="BypassEffect1" Type="bool" Value="True"/>
+										<Property Name="Scope" Type="int16" Value="1"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{13CF2C78-EE39-43E0-9FD2-7F3CCE34A041}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Disble_Wwise_Reverb" ID="{72BC870C-CE9F-48E0-A772-ED7E73BA2F7A}">
+							<ChildrenList>
+								<Action Name="" ID="{033C0C4D-C1FF-45BC-835A-8022461A210E}" ShortID="343410135">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="24"/>
+										<Property Name="BypassEffect" Type="bool" Value="False"/>
+										<Property Name="BypassEffect1" Type="bool" Value="True"/>
+										<Property Name="Scope" Type="int16" Value="1"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{13CF2C78-EE39-43E0-9FD2-7F3CCE34A041}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+				<Event Name="Play_Chickencoop" ID="{B12C0447-5192-4222-930E-A7636E728FC2}">
+					<ChildrenList>
+						<Action Name="" ID="{14882E13-C355-4956-B244-5EBCD93664AF}" ShortID="105058385">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Chickencoop" ID="{91F33118-AFB7-4C5D-8B52-4FA50DF3BFC9}" WorkUnitID="{0B30049C-EA23-4C31-A1D7-AD3158F86989}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>

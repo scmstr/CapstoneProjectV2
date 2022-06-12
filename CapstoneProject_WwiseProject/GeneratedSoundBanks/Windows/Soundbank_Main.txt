@@ -1,5 +1,8 @@
 Event	ID	Name			Wwise Object Path	Notes
+	2027663355	Disble_Wwise_Reverb			\Default Work Unit\Reverb Control\Disble_Wwise_Reverb	
 	2403214019	Play_Singapore_Ambiences___Hort_Park__Southern_Ridges__Forest__Air_Tone__Leaves_Rustle__Heavy_Traffic__Birds_Squawk__Light_Cicadas			\Default Work Unit\Play_Singapore_Ambiences___Hort_Park__Southern_Ridges__Forest__Air_Tone__Leaves_Rustle__Heavy_Traffic__Birds_Squawk__Light_Cicadas	
+	2501034545	Enable_Wwise_Reverb			\Default Work Unit\Reverb Control\Enable_Wwise_Reverb	
+	4123240660	Play_Chickencoop			\Default Work Unit\Play_Chickencoop	
 	4206345331	Play_Skiing			\Default Work Unit\Play_Skiing	
 
 Switch Group	ID	Name			Wwise Object Path	Notes
@@ -12,18 +15,43 @@ Switch	ID	Name	Switch Group			Notes
 
 Effect plug-ins	ID	Name	Type				Notes
 	48620415	Have_U_Ever_Been_Outside	Wwise RoomVerb			
+	602546716	Room_Large	Wwise RoomVerb			
+	850944706	Wwise Harmonizer (Custom)	Wwise Harmonizer			
 
 In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	1339242	Chicken Wings 02	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Windows\SFX\Chicken Wings 02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Chickencoop\Chickencoop\Chicken Wings 02		315204
+	30282184	Chicken Cluck 05	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Windows\SFX\Chicken Cluck 05_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Chickencoop\Chickencoop\Chicken Cluck 05		90604
 	82767921	SkiStep_Grass_01	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Windows\SFX\SkiSteps\Grass\SkiStep_Grass_01_3044359C.wem		\Actor-Mixer Hierarchy\Default Work Unit\Skiing\Grass\SkiStep_Grass_01		335380
+	103326395	Chicken Cluck 04	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Windows\SFX\Chicken Cluck 04_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Chickencoop\Chickencoop\Chicken Cluck 04		111840
+	128873530	Chicken Cluck 02	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Windows\SFX\Chicken Cluck 02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Chickencoop\Chickencoop\Chicken Cluck 02		230864
+	178981503	Chicken Wings 06	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Windows\SFX\Chicken Wings 06_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Chickencoop\Chickencoop\Chicken Wings 06		331100
+	189967344	Chicken 12	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Windows\SFX\Chicken 12_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Chickencoop\Chickencoop\Chicken 12		101448
+	196773777	Chicken 10	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Windows\SFX\Chicken 10_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Chickencoop\Chickencoop\Chicken 10		301112
 	222736125	SkiStep_Ice_02	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Windows\SFX\Ice\SkiStep_Ice_02_0E4788B5.wem		\Actor-Mixer Hierarchy\Default Work Unit\Skiing\Ice\SkiStep_Ice_02		377792
+	231046948	Chicken 08	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Windows\SFX\Chicken 08_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Chickencoop\Chickencoop\Chicken 08		184052
 	236079402	Singapore Ambiences - Hort Park, Southern Ridges, Forest, Air Tone, Leaves Rustle, Heavy Traffic, Birds Squawk, Light Cicadas	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Windows\SFX\Singapore Ambiences - Hort Park, Southern Ridges, Forest, Air Tone, Leaves Rustle, Heavy Traffic, Birds Squawk, Light Cicadas_4918D8AF.wem		\Actor-Mixer Hierarchy\Default Work Unit\OverworldAmbience\Singapore Ambiences - Hort Park, Southern Ridges, Forest, Air Tone, Leaves Rustle, Heavy Traffic, Birds Squawk, Light Cicadas		42298384
+	293013143	Chicken Cluck 03	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Windows\SFX\Chicken Cluck 03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Chickencoop\Chickencoop\Chicken Cluck 03		134232
+	325741146	Chicken Wings 04	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Windows\SFX\Chicken Wings 04_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Chickencoop\Chickencoop\Chicken Wings 04		201852
 	375041793	SkiStep_Grass_08	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Windows\SFX\SkiSteps\Grass\SkiStep_Grass_08_456B400E.wem		\Actor-Mixer Hierarchy\Default Work Unit\Skiing\Grass\SkiStep_Grass_08		333204
+	404378988	Chicken Wings 05	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Windows\SFX\Chicken Wings 05_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Chickencoop\Chickencoop\Chicken Wings 05		161772
+	457025008	Chicken 01	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Windows\SFX\Chicken 01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Chickencoop\Chickencoop\Chicken 01		256164
+	466087583	Chicken 11	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Windows\SFX\Chicken 11_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Chickencoop\Chickencoop\Chicken 11		238256
+	498282984	Chicken 03	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Windows\SFX\Chicken 03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Chickencoop\Chickencoop\Chicken 03		395204
 	518012641	SkiStep_Ice_04	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Windows\SFX\Ice\SkiStep_Ice_04_22052D6C.wem		\Actor-Mixer Hierarchy\Default Work Unit\Skiing\Ice\SkiStep_Ice_04		370732
+	548456474	Chicken Cluck 01	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Windows\SFX\Chicken Cluck 01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Chickencoop\Chickencoop\Chicken Cluck 01		153892
+	575618255	Chicken 06	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Windows\SFX\Chicken 06_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Chickencoop\Chickencoop\Chicken 06		128472
 	624606902	SkiStep_Snow_01	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Windows\SFX\SkiSteps\SkiStep01_77509EA6.wem		\Actor-Mixer Hierarchy\Default Work Unit\Skiing\Snow\SkiStep_Snow_01		438424
+	652863266	Chicken 05	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Windows\SFX\Chicken 05_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Chickencoop\Chickencoop\Chicken 05		244176
 	655793904	SkiStep_Grass_06	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Windows\SFX\SkiSteps\Grass\SkiStep_Grass_06_8C513F08.wem		\Actor-Mixer Hierarchy\Default Work Unit\Skiing\Grass\SkiStep_Grass_06		357696
 	669562876	SkiStep_Ice_03	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Windows\SFX\Ice\SkiStep_Ice_03_035EE817.wem		\Actor-Mixer Hierarchy\Default Work Unit\Skiing\Ice\SkiStep_Ice_03		381320
 	706088786	SkiStep_Grass_03	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Windows\SFX\SkiSteps\Grass\SkiStep_Grass_03_793229AD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Skiing\Grass\SkiStep_Grass_03		299460
+	712924816	Chicken 04	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Windows\SFX\Chicken 04_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Chickencoop\Chickencoop\Chicken 04		212144
+	772080201	Chicken Wings 01	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Windows\SFX\Chicken Wings 01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Chickencoop\Chickencoop\Chicken Wings 01		403920
+	799445184	Chicken 07	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Windows\SFX\Chicken 07_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Chickencoop\Chickencoop\Chicken 07		166896
+	878376981	Chicken Wings 03	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Windows\SFX\Chicken Wings 03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Chickencoop\Chickencoop\Chicken Wings 03		271660
 	889448402	SkiStep_Grass_04	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Windows\SFX\SkiSteps\Grass\SkiStep_Grass_04_0F31695B.wem		\Actor-Mixer Hierarchy\Default Work Unit\Skiing\Grass\SkiStep_Grass_04		334836
+	906295094	Chicken 02	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Windows\SFX\Chicken 02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Chickencoop\Chickencoop\Chicken 02		124220
+	908153907	Chicken 09	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Windows\SFX\Chicken 09_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Chickencoop\Chickencoop\Chicken 09		201624
 	926084902	SkiStep_Ice_01	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Windows\SFX\Ice\SkiStep_Ice_01_13D71DFA.wem		\Actor-Mixer Hierarchy\Default Work Unit\Skiing\Ice\SkiStep_Ice_01		353084
 	943866122	SkiStep_Grass_05	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Windows\SFX\SkiSteps\Grass\SkiStep_Grass_05_7036A2EA.wem		\Actor-Mixer Hierarchy\Default Work Unit\Skiing\Grass\SkiStep_Grass_05		321776
 	1005003893	SkiStep_Grass_02	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Windows\SFX\SkiSteps\Grass\SkiStep_Grass_02_7B6048D0.wem		\Actor-Mixer Hierarchy\Default Work Unit\Skiing\Grass\SkiStep_Grass_02		307080

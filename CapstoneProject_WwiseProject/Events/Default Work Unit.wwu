@@ -19,9 +19,9 @@
 						</Action>
 					</ChildrenList>
 				</Event>
-				<Event Name="Skiing" ID="{B1987DD6-E0E5-45CE-B040-D2FCF718CE1C}">
+				<Event Name="Play_Skiing" ID="{A3CCBDED-CD2A-49BA-8480-236A8D02F981}">
 					<ChildrenList>
-						<Action Name="" ID="{C066E923-A8DB-42E1-9CE3-EA7C0B1CE11D}" ShortID="332222512">
+						<Action Name="" ID="{189D49F2-689D-48E8-BB1F-FE475E6F8DEF}" ShortID="1071785296">
 							<ReferenceList>
 								<Reference Name="Target">
 									<ObjectRef Name="Skiing" ID="{2D260F62-F20D-493B-8906-120C3701DA20}" WorkUnitID="{0B30049C-EA23-4C31-A1D7-AD3158F86989}"/>

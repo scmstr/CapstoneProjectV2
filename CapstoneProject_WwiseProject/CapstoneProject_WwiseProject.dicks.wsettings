@@ -4,6 +4,7 @@
 		<UserProjectSettings Name="" ID="{A368AB71-0682-4E14-BDAA-8B4AAEA577FA}">
 			<PropertyList>
 				<Property Name="Event Action List\{4C334644-CC6B-46D7-9B19-7950C2069B74}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Event Action List\{A3CCBDED-CD2A-49BA-8480-236A8D02F981}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="Event Action List\{B1987DD6-E0E5-45CE-B040-D2FCF718CE1C}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="EventView\FilterMode1" Type="int32" Value="2"/>
 				<Property Name="ExternalSourcesInputPath" Type="string">
@@ -21,11 +22,12 @@
 				<Property Name="Game Profiler\Voice Monitor\LastBus" Type="string" Value="{00000000-0000-0000-0000-000000000000}"/>
 				<Property Name="General\LatestLanguage" Type="int32" Value="684519430"/>
 				<Property Name="General\LatestPlatform" Type="string" Value="Mac"/>
+				<Property Name="General\SourceControlPluginID" Type="string" Value="{C403A906-0C19-4ED5-808E-748707065301}"/>
 				<Property Name="GenerateSoundBanks\x64_SelectedLanguages" Type="string" Value="BvDMKA=="/>
 				<Property Name="GenerateSoundBanks\x64_SelectedPlatforms" Type="string" Value="LNbRv0ZEVEmO4pVWEwRwXjUqKrZWyFxFh5U/s4A+SUA="/>
 				<Property Name="GenerateSoundBanks\x64_SelectedSoundBanks" Type="string" Value="IZTzeS5v/keHOZMAY+j1wg=="/>
 				<Property Name="HardwareController\CurrentSession" Type="string" Value="{2451DD2E-A7B2-45E6-B93B-6F49B9B887AD}"/>
-				<Property Name="HardwareController\{2451DD2E-A7B2-45E6-B93B-6F49B9B887AD}\x64_ActiveGroups" Type="string" Value="67wrLzxcZke0blN24+MTRAEpU4T/////wS5MLlCTCkqU1O9QDdwjOwEpU4T/////"/>
+				<Property Name="HardwareController\{2451DD2E-A7B2-45E6-B93B-6F49B9B887AD}\x64_ActiveGroups" Type="string" Value="67wrLzxcZke0blN24+MTRAEpDwf/////wS5MLlCTCkqU1O9QDdwjOwEpDwf/////"/>
 				<Property Name="MeterView\LastObject1" Type="string" Value="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}"/>
 				<Property Name="MeterView\MeterMode1" Type="int32" Value="1"/>
 				<Property Name="MeterView\MeterMode1Viewpoint0" Type="int32" Value="1"/>

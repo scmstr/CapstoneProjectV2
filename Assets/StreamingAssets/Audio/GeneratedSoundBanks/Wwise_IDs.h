@@ -14,7 +14,7 @@ namespace AK
     namespace EVENTS
     {
         static const AkUniqueID PLAY_SINGAPORE_AMBIENCES___HORT_PARK__SOUTHERN_RIDGES__FOREST__AIR_TONE__LEAVES_RUSTLE__HEAVY_TRAFFIC__BIRDS_SQUAWK__LIGHT_CICADAS = 2403214019U;
-        static const AkUniqueID SKIING = 1899905172U;
+        static const AkUniqueID PLAY_SKIING = 4206345331U;
     } // namespace EVENTS
 
     namespace SWITCHES
@@ -26,6 +26,7 @@ namespace AK
             namespace SWITCH
             {
                 static const AkUniqueID GRASS = 4248645337U;
+                static const AkUniqueID ICE = 344481046U;
                 static const AkUniqueID SNOW = 787898836U;
             } // namespace SWITCH
         } // namespace SKIING

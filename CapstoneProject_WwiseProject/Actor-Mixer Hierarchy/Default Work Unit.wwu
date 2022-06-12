@@ -167,6 +167,13 @@
 									</ReferenceList>
 									<ChildrenList>
 										<AudioFileSource Name="SkiStep01" ID="{BEF9E742-CCFE-41F2-AAFA-A5BC3CFB3EEA}">
+											<PropertyList>
+												<Property Name="FadeInDuration" Type="Real64" Value="0.0604710982658959"/>
+												<Property Name="FadeOutDuration" Type="Real64" Value="0.517783778901734"/>
+												<Property Name="OverrideWavLoop" Type="bool" Value="True"/>
+												<Property Name="TrimBegin" Type="Real64" Value="0.192751625722543"/>
+												<Property Name="TrimEnd" Type="Real64" Value="2.47553558526012"/>
+											</PropertyList>
 											<Language>SFX</Language>
 											<AudioFile>SkiSteps\SkiStep01.wav</AudioFile>
 											<MediaIDList>
@@ -174,6 +181,13 @@
 											</MediaIDList>
 										</AudioFileSource>
 										<AudioFileSource Name="SkiStep_Snow_01" ID="{07A4819E-10F1-4DB2-B207-15A768577849}">
+											<PropertyList>
+												<Property Name="FadeInDuration" Type="Real64" Value="0.0529122109826589"/>
+												<Property Name="FadeOutDuration" Type="Real64" Value="0.185192738439306"/>
+												<Property Name="OverrideWavLoop" Type="bool" Value="True"/>
+												<Property Name="TrimBegin" Type="Real64" Value="0.185192738439306"/>
+												<Property Name="TrimEnd" Type="Real64" Value="2.38860838150289"/>
+											</PropertyList>
 											<Language>SFX</Language>
 											<AudioFile>SkiSteps\Snow\SkiStep_Snow_01.wav</AudioFile>
 											<MediaIDList>
@@ -197,7 +211,7 @@
 											<Modifier Name="" ID="{CD22F8E3-393E-4CFE-B6BE-47A1F34F6078}">
 												<PropertyList>
 													<Property Name="Enabled" Type="bool" Value="True"/>
-													<Property Name="Max" Type="Real64" Value="1"/>
+													<Property Name="Max" Type="Real64" Value="26"/>
 													<Property Name="Min" Type="Real64" Value="-1"/>
 												</PropertyList>
 											</Modifier>
@@ -269,6 +283,13 @@
 									</ReferenceList>
 									<ChildrenList>
 										<AudioFileSource Name="SkiStep_Grass_01" ID="{1C456222-15B9-439A-B467-63F61D7222EA}">
+											<PropertyList>
+												<Property Name="FadeInDuration" Type="Real64" Value="0.0283459778420038"/>
+												<Property Name="FadeOutDuration" Type="Real64" Value="1.61572073699422"/>
+												<Property Name="OverrideWavLoop" Type="bool" Value="True"/>
+												<Property Name="TrimBegin" Type="Real64" Value="0.0396843689788054"/>
+												<Property Name="TrimEnd" Type="Real64" Value="1.78579660404624"/>
+											</PropertyList>
 											<Language>SFX</Language>
 											<AudioFile>SkiSteps\Grass\SkiStep_Grass_01.wav</AudioFile>
 											<MediaIDList>
@@ -292,6 +313,13 @@
 									</ReferenceList>
 									<ChildrenList>
 										<AudioFileSource Name="SkiStep_Grass_02" ID="{429DD9EB-E905-4946-942D-511F6C66B55A}">
+											<PropertyList>
+												<Property Name="FadeInDuration" Type="Real64" Value="0.00850379335260116"/>
+												<Property Name="FadeOutDuration" Type="Real64" Value="1.53635199903661"/>
+												<Property Name="OverrideWavLoop" Type="bool" Value="True"/>
+												<Property Name="TrimBegin" Type="Real64" Value="0.0311805756262042"/>
+												<Property Name="TrimEnd" Type="Real64" Value="1.62989372591522"/>
+											</PropertyList>
 											<Language>SFX</Language>
 											<AudioFile>SkiSteps\Grass\SkiStep_Grass_02.wav</AudioFile>
 											<MediaIDList>
@@ -315,6 +343,13 @@
 									</ReferenceList>
 									<ChildrenList>
 										<AudioFileSource Name="SkiStep_Grass_03" ID="{91504228-5863-4E45-928E-8C9C395DF5D6}">
+											<PropertyList>
+												<Property Name="FadeInDuration" Type="Real64" Value="0.0198421844894027"/>
+												<Property Name="FadeOutDuration" Type="Real64" Value="1.21320785163776"/>
+												<Property Name="OverrideWavLoop" Type="bool" Value="True"/>
+												<Property Name="TrimBegin" Type="Real64" Value="0.0822033357418112"/>
+												<Property Name="TrimEnd" Type="Real64" Value="1.64123211705202"/>
+											</PropertyList>
 											<Language>SFX</Language>
 											<AudioFile>SkiSteps\Grass\SkiStep_Grass_03.wav</AudioFile>
 											<MediaIDList>
@@ -338,6 +373,13 @@
 									</ReferenceList>
 									<ChildrenList>
 										<AudioFileSource Name="SkiStep_Grass_04" ID="{85D2DB45-A5A0-4175-91BF-E89EEC7EC4F0}">
+											<PropertyList>
+												<Property Name="FadeInDuration" Type="Real64" Value="0.0255113800578035"/>
+												<Property Name="FadeOutDuration" Type="Real64" Value="1.4654870544316"/>
+												<Property Name="OverrideWavLoop" Type="bool" Value="True"/>
+												<Property Name="TrimBegin" Type="Real64" Value="0.0765341401734104"/>
+												<Property Name="TrimEnd" Type="Real64" Value="1.81981177745665"/>
+											</PropertyList>
 											<Language>SFX</Language>
 											<AudioFile>SkiSteps\Grass\SkiStep_Grass_04.wav</AudioFile>
 											<MediaIDList>
@@ -361,6 +403,13 @@
 									</ReferenceList>
 									<ChildrenList>
 										<AudioFileSource Name="SkiStep_Grass_05" ID="{428BFD14-20B4-4182-BB18-C8F6C2FE9D7E}">
+											<PropertyList>
+												<Property Name="FadeInDuration" Type="Real64" Value="0.0170075867052023"/>
+												<Property Name="FadeOutDuration" Type="Real64" Value="0.374166907514451"/>
+												<Property Name="OverrideWavLoop" Type="bool" Value="True"/>
+												<Property Name="TrimBegin" Type="Real64" Value="0.0992109224470136"/>
+												<Property Name="TrimEnd" Type="Real64" Value="1.77445821290944"/>
+											</PropertyList>
 											<Language>SFX</Language>
 											<AudioFile>SkiSteps\Grass\SkiStep_Grass_05.wav</AudioFile>
 											<MediaIDList>
@@ -384,6 +433,12 @@
 									</ReferenceList>
 									<ChildrenList>
 										<AudioFileSource Name="SkiStep_Grass_06" ID="{B263C80C-9038-4CDA-930C-DC4322337F0F}">
+											<PropertyList>
+												<Property Name="FadeInDuration" Type="Real64" Value="0.0226767822736031"/>
+												<Property Name="FadeOutDuration" Type="Real64" Value="1.22738084055877"/>
+												<Property Name="OverrideWavLoop" Type="bool" Value="True"/>
+												<Property Name="TrimBegin" Type="Real64" Value="0.0992109224470136"/>
+											</PropertyList>
 											<Language>SFX</Language>
 											<AudioFile>SkiSteps\Grass\SkiStep_Grass_06.wav</AudioFile>
 											<MediaIDList>
@@ -407,6 +462,13 @@
 									</ReferenceList>
 									<ChildrenList>
 										<AudioFileSource Name="SkiStep_Grass_07" ID="{190CAB7A-7703-491E-BB90-614B31D2C093}">
+											<PropertyList>
+												<Property Name="FadeInDuration" Type="Real64" Value="0.0255113800578035"/>
+												<Property Name="FadeOutDuration" Type="Real64" Value="0.912740486512524"/>
+												<Property Name="OverrideWavLoop" Type="bool" Value="True"/>
+												<Property Name="TrimBegin" Type="Real64" Value="0.0226767822736031"/>
+												<Property Name="TrimEnd" Type="Real64" Value="1.84248855973025"/>
+											</PropertyList>
 											<Language>SFX</Language>
 											<AudioFile>SkiSteps\Grass\SkiStep_Grass_07.wav</AudioFile>
 											<MediaIDList>
@@ -430,6 +492,13 @@
 									</ReferenceList>
 									<ChildrenList>
 										<AudioFileSource Name="SkiStep_Grass_08" ID="{C295C0DC-F8D0-4FC3-8491-4D7A99C813FB}">
+											<PropertyList>
+												<Property Name="FadeInDuration" Type="Real64" Value="0.0226767822736031"/>
+												<Property Name="FadeOutDuration" Type="Real64" Value="0.300467365125241"/>
+												<Property Name="OverrideWavLoop" Type="bool" Value="True"/>
+												<Property Name="TrimBegin" Type="Real64" Value="0.0850379335260116"/>
+												<Property Name="TrimEnd" Type="Real64" Value="1.81981177745665"/>
+											</PropertyList>
 											<Language>SFX</Language>
 											<AudioFile>SkiSteps\Grass\SkiStep_Grass_08.wav</AudioFile>
 											<MediaIDList>
@@ -445,6 +514,193 @@
 							</ChildrenList>
 							<ObjectLists/>
 						</RandomSequenceContainer>
+						<RandomSequenceContainer Name="Ice" ID="{EA7DCDCF-C522-4BE4-B5A7-EE2A96F6A7DC}" ShortID="617189895">
+							<PropertyList>
+								<Property Name="Highpass" Type="int16">
+									<ModifierList>
+										<ModifierInfo>
+											<Modifier Name="" ID="{D6F3FCF9-B797-4D63-89D3-1C81006EFFAB}">
+												<PropertyList>
+													<Property Name="Enabled" Type="bool" Value="True"/>
+													<Property Name="Max" Type="Real64" Value="35"/>
+													<Property Name="Min" Type="Real64" Value="-8"/>
+												</PropertyList>
+											</Modifier>
+										</ModifierInfo>
+									</ModifierList>
+								</Property>
+								<Property Name="Lowpass" Type="int16">
+									<ModifierList>
+										<ModifierInfo>
+											<Modifier Name="" ID="{A1EF6386-6478-465C-99A5-51B3BE0CC417}">
+												<PropertyList>
+													<Property Name="Enabled" Type="bool" Value="True"/>
+													<Property Name="Max" Type="Real64" Value="1"/>
+													<Property Name="Min" Type="Real64" Value="-1"/>
+												</PropertyList>
+											</Modifier>
+										</ModifierInfo>
+									</ModifierList>
+								</Property>
+								<Property Name="MakeUpGain" Type="Real64">
+									<ModifierList>
+										<ModifierInfo>
+											<Modifier Name="" ID="{9DB79F4C-9377-4D8B-A1ED-AFD8DA7BBD17}">
+												<PropertyList>
+													<Property Name="Enabled" Type="bool" Value="True"/>
+													<Property Name="Max" Type="Real64" Value="1"/>
+													<Property Name="Min" Type="Real64" Value="-2"/>
+												</PropertyList>
+											</Modifier>
+										</ModifierInfo>
+									</ModifierList>
+								</Property>
+								<Property Name="Pitch" Type="int32">
+									<ModifierList>
+										<ModifierInfo>
+											<Modifier Name="" ID="{2133D10D-09CC-43C3-AD06-7576FF8BF464}">
+												<PropertyList>
+													<Property Name="Enabled" Type="bool" Value="True"/>
+													<Property Name="Max" Type="Real64" Value="152"/>
+													<Property Name="Min" Type="Real64" Value="-227"/>
+												</PropertyList>
+											</Modifier>
+										</ModifierInfo>
+									</ModifierList>
+								</Property>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{AD726845-0349-473E-9C8A-7CBCB0151FCC}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{13CF2C78-EE39-43E0-9FD2-7F3CCE34A041}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<Sound Name="SkiStep_Ice_01" ID="{C2B05BDC-0775-4077-9F47-7415622CC663}" ShortID="330131805">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{AD726845-0349-473E-9C8A-7CBCB0151FCC}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{13CF2C78-EE39-43E0-9FD2-7F3CCE34A041}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SkiStep_Ice_01" ID="{CD1C726C-D2A0-4E7E-A4FF-FE4472B0EC34}">
+											<PropertyList>
+												<Property Name="FadeInDuration" Type="Real64" Value="0.0275746929190751"/>
+												<Property Name="FadeOutDuration" Type="Real64" Value="0.925284140173411"/>
+												<Property Name="OverrideWavLoop" Type="bool" Value="True"/>
+												<Property Name="TrimBegin" Type="Real64" Value="0.0306385476878613"/>
+												<Property Name="TrimEnd" Type="Real64" Value="1.86895140895954"/>
+											</PropertyList>
+											<Language>SFX</Language>
+											<AudioFile>Ice\SkiStep_Ice_01.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="926084902"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ObjectLists/>
+									<ActiveSourceList>
+										<ActiveSource Name="SkiStep_Ice_01" ID="{CD1C726C-D2A0-4E7E-A4FF-FE4472B0EC34}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SkiStep_Ice_02" ID="{EFCF7220-63A9-46DE-B42C-43D8B6C6A0A5}" ShortID="942467342">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{AD726845-0349-473E-9C8A-7CBCB0151FCC}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{13CF2C78-EE39-43E0-9FD2-7F3CCE34A041}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SkiStep_Ice_02" ID="{B1BE96EF-6361-48EB-BD71-7F5626E98818}">
+											<PropertyList>
+												<Property Name="FadeInDuration" Type="Real64" Value="0.024510838150289"/>
+												<Property Name="FadeOutDuration" Type="Real64" Value="0.805793804190757"/>
+												<Property Name="OverrideWavLoop" Type="bool" Value="True"/>
+												<Property Name="TrimBegin" Type="Real64" Value="0.0153192738439306"/>
+												<Property Name="TrimEnd" Type="Real64" Value="1.98231403540463"/>
+											</PropertyList>
+											<Language>SFX</Language>
+											<AudioFile>Ice\SkiStep_Ice_02.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="222736125"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ObjectLists/>
+									<ActiveSourceList>
+										<ActiveSource Name="SkiStep_Ice_02" ID="{B1BE96EF-6361-48EB-BD71-7F5626E98818}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SkiStep_Ice_03" ID="{417A41C6-73AD-4B10-8A82-0C99F2C9B358}" ShortID="711471550">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{AD726845-0349-473E-9C8A-7CBCB0151FCC}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{13CF2C78-EE39-43E0-9FD2-7F3CCE34A041}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SkiStep_Ice_03" ID="{609AE35A-632C-473F-A691-137DC2E614D6}">
+											<PropertyList>
+												<Property Name="FadeInDuration" Type="Real64" Value="0.0275746929190752"/>
+												<Property Name="FadeOutDuration" Type="Real64" Value="0.386045700867052"/>
+												<Property Name="OverrideWavLoop" Type="bool" Value="True"/>
+												<Property Name="TrimBegin" Type="Real64" Value="0.0398301119942197"/>
+												<Property Name="TrimEnd" Type="Real64" Value="2.02520800216763"/>
+											</PropertyList>
+											<Language>SFX</Language>
+											<AudioFile>Ice\SkiStep_Ice_03.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="669562876"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ObjectLists/>
+									<ActiveSourceList>
+										<ActiveSource Name="SkiStep_Ice_03" ID="{609AE35A-632C-473F-A691-137DC2E614D6}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="SkiStep_Ice_04" ID="{7DD1638A-40C7-4A0B-9066-20515BEF1D30}" ShortID="841883592">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{AD726845-0349-473E-9C8A-7CBCB0151FCC}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{13CF2C78-EE39-43E0-9FD2-7F3CCE34A041}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="SkiStep_Ice_04" ID="{AC34BBED-8075-47C0-84AC-4E2613BD61B3}">
+											<PropertyList>
+												<Property Name="FadeInDuration" Type="Real64" Value="0.024510838150289"/>
+												<Property Name="FadeOutDuration" Type="Real64" Value="0.217533688583815"/>
+												<Property Name="OverrideWavLoop" Type="bool" Value="True"/>
+												<Property Name="TrimBegin" Type="Real64" Value="0.0367662572254335"/>
+												<Property Name="TrimEnd" Type="Real64" Value="1.9669947615607"/>
+											</PropertyList>
+											<Language>SFX</Language>
+											<AudioFile>Ice\SkiStep_Ice_04.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="518012641"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ObjectLists/>
+									<ActiveSourceList>
+										<ActiveSource Name="SkiStep_Ice_04" ID="{AC34BBED-8075-47C0-84AC-4E2613BD61B3}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+							</ChildrenList>
+							<ObjectLists/>
+						</RandomSequenceContainer>
 					</ChildrenList>
 					<ObjectLists/>
 					<GroupingInfo>
@@ -453,10 +709,19 @@
 								<ItemRef Name="Grass" ID="{D80566B0-EAFB-44FE-907E-6E373B7BDCBE}"/>
 							</GroupingBehavior>
 							<GroupingBehavior>
+								<ItemRef Name="Ice" ID="{EA7DCDCF-C522-4BE4-B5A7-EE2A96F6A7DC}"/>
+							</GroupingBehavior>
+							<GroupingBehavior>
 								<ItemRef Name="Snow" ID="{A2CBE8EC-B32E-4A0C-BEC0-308189CEC105}"/>
 							</GroupingBehavior>
 						</GroupingBehaviorList>
 						<GroupingList>
+							<Grouping>
+								<SwitchRef Name="Ice" ID="{2768D500-A11B-4114-8499-540FABE5082E}"/>
+								<ItemList>
+									<ItemRef Name="Ice" ID="{EA7DCDCF-C522-4BE4-B5A7-EE2A96F6A7DC}"/>
+								</ItemList>
+							</Grouping>
 							<Grouping>
 								<SwitchRef Name="Grass" ID="{EA8ED80C-07F9-4317-9CE8-10A1C11B9479}"/>
 								<ItemList>

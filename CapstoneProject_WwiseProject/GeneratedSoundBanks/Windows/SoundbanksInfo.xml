@@ -11,7 +11,7 @@
 	<StreamedFiles/>
 	<MediaFilesNotInAnyBank/>
 	<SoundBanks>
-		<SoundBank Id="29489552" Language="SFX" Hash="3520577940">
+		<SoundBank Id="29489552" Language="SFX" Hash="4015953627">
 			<ObjectPath>\SoundBanks\Default Work Unit\Soundbank_Main</ObjectPath>
 			<ShortName>Soundbank_Main</ShortName>
 			<Path>Soundbank_Main.bnk</Path>
@@ -24,47 +24,71 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="1899905172" Name="Skiing" ObjectPath="\Events\Default Work Unit\Skiing" DurationType="OneShot" DurationMin="1.877294" DurationMax="2.732746">
+				<Event Id="4206345331" Name="Play_Skiing" ObjectPath="\Events\Default Work Unit\Play_Skiing" DurationType="OneShot" DurationMin="1.492069" DurationMax="2.385229">
 					<IncludedMemoryFiles>
 						<File Id="82767921" Language="SFX">
 							<ShortName>SkiSteps\Grass\SkiStep_Grass_01.wav</ShortName>
-							<Path>SFX\SkiSteps\Grass\SkiStep_Grass_01_10C4C929.wem</Path>
+							<Path>SFX\SkiSteps\Grass\SkiStep_Grass_01_3044359C.wem</Path>
+						</File>
+						<File Id="222736125" Language="SFX">
+							<ShortName>Ice\SkiStep_Ice_02.wav</ShortName>
+							<Path>SFX\Ice\SkiStep_Ice_02_0E4788B5.wem</Path>
 						</File>
 						<File Id="375041793" Language="SFX">
 							<ShortName>SkiSteps\Grass\SkiStep_Grass_08.wav</ShortName>
-							<Path>SFX\SkiSteps\Grass\SkiStep_Grass_08_10C4C929.wem</Path>
+							<Path>SFX\SkiSteps\Grass\SkiStep_Grass_08_456B400E.wem</Path>
+						</File>
+						<File Id="518012641" Language="SFX">
+							<ShortName>Ice\SkiStep_Ice_04.wav</ShortName>
+							<Path>SFX\Ice\SkiStep_Ice_04_22052D6C.wem</Path>
 						</File>
 						<File Id="624606902" Language="SFX">
 							<ShortName>SkiSteps\SkiStep01.wav</ShortName>
-							<Path>SFX\SkiSteps\SkiStep01_10C4C929.wem</Path>
+							<Path>SFX\SkiSteps\SkiStep01_77509EA6.wem</Path>
 						</File>
 						<File Id="655793904" Language="SFX">
 							<ShortName>SkiSteps\Grass\SkiStep_Grass_06.wav</ShortName>
-							<Path>SFX\SkiSteps\Grass\SkiStep_Grass_06_10C4C929.wem</Path>
+							<Path>SFX\SkiSteps\Grass\SkiStep_Grass_06_8C513F08.wem</Path>
+						</File>
+						<File Id="669562876" Language="SFX">
+							<ShortName>Ice\SkiStep_Ice_03.wav</ShortName>
+							<Path>SFX\Ice\SkiStep_Ice_03_035EE817.wem</Path>
 						</File>
 						<File Id="706088786" Language="SFX">
 							<ShortName>SkiSteps\Grass\SkiStep_Grass_03.wav</ShortName>
-							<Path>SFX\SkiSteps\Grass\SkiStep_Grass_03_10C4C929.wem</Path>
+							<Path>SFX\SkiSteps\Grass\SkiStep_Grass_03_793229AD.wem</Path>
 						</File>
 						<File Id="889448402" Language="SFX">
 							<ShortName>SkiSteps\Grass\SkiStep_Grass_04.wav</ShortName>
-							<Path>SFX\SkiSteps\Grass\SkiStep_Grass_04_10C4C929.wem</Path>
+							<Path>SFX\SkiSteps\Grass\SkiStep_Grass_04_0F31695B.wem</Path>
+						</File>
+						<File Id="926084902" Language="SFX">
+							<ShortName>Ice\SkiStep_Ice_01.wav</ShortName>
+							<Path>SFX\Ice\SkiStep_Ice_01_13D71DFA.wem</Path>
 						</File>
 						<File Id="943866122" Language="SFX">
 							<ShortName>SkiSteps\Grass\SkiStep_Grass_05.wav</ShortName>
-							<Path>SFX\SkiSteps\Grass\SkiStep_Grass_05_10C4C929.wem</Path>
+							<Path>SFX\SkiSteps\Grass\SkiStep_Grass_05_7036A2EA.wem</Path>
 						</File>
 						<File Id="1005003893" Language="SFX">
 							<ShortName>SkiSteps\Grass\SkiStep_Grass_02.wav</ShortName>
-							<Path>SFX\SkiSteps\Grass\SkiStep_Grass_02_10C4C929.wem</Path>
+							<Path>SFX\SkiSteps\Grass\SkiStep_Grass_02_7B6048D0.wem</Path>
 						</File>
 						<File Id="1058627170" Language="SFX">
 							<ShortName>SkiSteps\Grass\SkiStep_Grass_07.wav</ShortName>
-							<Path>SFX\SkiSteps\Grass\SkiStep_Grass_07_10C4C929.wem</Path>
+							<Path>SFX\SkiSteps\Grass\SkiStep_Grass_07_2A13AE76.wem</Path>
 						</File>
 					</IncludedMemoryFiles>
 					<DefaultSwitchValue>{4249B1E3-8AF6-4E60-A40F-D5B26C6DE64D}</DefaultSwitchValue>
 					<SwitchContainers>
+						<SwitchContainer SwitchValue="{2768D500-A11B-4114-8499-540FABE5082E}">
+							<Media>
+								<File Id="222736125"/>
+								<File Id="518012641"/>
+								<File Id="669562876"/>
+								<File Id="926084902"/>
+							</Media>
+						</SwitchContainer>
 						<SwitchContainer SwitchValue="{EA8ED80C-07F9-4317-9CE8-10A1C11B9479}">
 							<Media>
 								<File Id="82767921"/>
@@ -90,6 +114,7 @@
 					<Switches>
 						<Switch Id="787898836" Name="Snow" ObjectPath="\Switches\Default Work Unit\Skiing\Snow" GUID="{4249B1E3-8AF6-4E60-A40F-D5B26C6DE64D}"/>
 						<Switch Id="4248645337" Name="Grass" ObjectPath="\Switches\Default Work Unit\Skiing\Grass" GUID="{EA8ED80C-07F9-4317-9CE8-10A1C11B9479}"/>
+						<Switch Id="344481046" Name="Ice" ObjectPath="\Switches\Default Work Unit\Skiing\Ice" GUID="{2768D500-A11B-4114-8499-540FABE5082E}"/>
 					</Switches>
 				</SwitchGroup>
 			</SwitchGroups>

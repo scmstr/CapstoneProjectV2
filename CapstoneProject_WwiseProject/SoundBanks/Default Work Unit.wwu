@@ -5,8 +5,8 @@
 			<ChildrenList>
 				<SoundBank Name="Soundbank_Main" ID="{79F39421-6F2E-47FE-8739-930063E8F5C2}">
 					<ObjectInclusionList>
-						<ObjectRef Name="Skiing" ID="{B1987DD6-E0E5-45CE-B040-D2FCF718CE1C}" WorkUnitID="{85BB6366-F1B3-447F-8CC8-FBCE384AEC45}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="Play_Singapore_Ambiences___Hort_Park__Southern_Ridges__Forest__Air_Tone__Leaves_Rustle__Heavy_Traffic__Birds_Squawk__Light_Cicadas" ID="{4C334644-CC6B-46D7-9B19-7950C2069B74}" WorkUnitID="{85BB6366-F1B3-447F-8CC8-FBCE384AEC45}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Skiing" ID="{A3CCBDED-CD2A-49BA-8480-236A8D02F981}" WorkUnitID="{85BB6366-F1B3-447F-8CC8-FBCE384AEC45}" Origin="Manual" Filter="7"/>
 					</ObjectInclusionList>
 					<ObjectExclusionList/>
 					<GameSyncExclusionList/>

@@ -4066,6 +4066,10 @@ PrefabInstance:
       propertyPath: WwiseEvent.WwiseObjectReference
       value: 
       objectReference: {fileID: 11400000, guid: 27d39bf73d0fe1b4e80ec5edf6c1a1b7, type: 2}
+    - target: {fileID: 6200662137476766102, guid: 4ecf6aa2a2182cf4c843c0d565e94cd0, type: 3}
+      propertyPath: WwiseEvent2.WwiseObjectReference
+      value: 
+      objectReference: {fileID: 11400000, guid: 1d425dabd808dc046ad74ea34587db87, type: 2}
     - target: {fileID: 8296686746469984768, guid: 4ecf6aa2a2182cf4c843c0d565e94cd0, type: 3}
       propertyPath: m_LocalScale.x
       value: 1.0835011

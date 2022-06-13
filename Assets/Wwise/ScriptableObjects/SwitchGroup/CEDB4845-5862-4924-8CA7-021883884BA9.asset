@@ -9,9 +9,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fe84de5897955964f9d9621e321e231f, type: 3}
-  m_Name: B1987DD6-E0E5-45CE-B040-D2FCF718CE1C
+  m_Script: {fileID: 11500000, guid: bea361f4db90fe84a95a0ae491ca8ad8, type: 3}
+  m_Name: CEDB4845-5862-4924-8CA7-021883884BA9
   m_EditorClassIdentifier: 
   objectName: Skiing
   id: 1899905172
-  guid: B1987DD6-E0E5-45CE-B040-D2FCF718CE1C
+  guid: CEDB4845-5862-4924-8CA7-021883884BA9

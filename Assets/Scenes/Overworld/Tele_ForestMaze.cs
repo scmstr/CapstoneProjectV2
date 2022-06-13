@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class yoMom : MonoBehaviour
+public class Tele_ForestMaze : MonoBehaviour
 {
      void OnTriggerEnter(Collider other)
     {

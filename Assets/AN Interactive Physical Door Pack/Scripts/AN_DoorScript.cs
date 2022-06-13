@@ -51,6 +51,11 @@ public class AN_DoorScript : MonoBehaviour
         
     }
 
+    [Header("Wwise Event When Door Opened")]
+    public AK.Wwise.Event WwiseEvent;
+    [Header("Wwise Event When Door Opened")]
+    public AK.Wwise.Event WwiseEvent2;
+
     public void Action() // void to open/close door
     {
         if (!Locked)
@@ -72,10 +77,13 @@ public class AN_DoorScript : MonoBehaviour
             {
                 isOpened = false;
             }
-            else if (!isOpened && CanOpen && !RedLocked && !BlueLocked)
+            else if (!isOpened && CanOpen && !RedLocked && !BlueLocked) //OPEN THE DOOR HERE
             {
+                WwiseEvent.Post(gameObject); //play the sound/event
+                WwiseEvent2.Post(gameObject); //play the sound/event
                 isOpened = true;
                 rbDoor.AddRelativeTorque(new Vector3(0, 0, 200f)); 
+
             }
         
         }

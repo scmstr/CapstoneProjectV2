@@ -5,12 +5,65 @@
 			<ChildrenList>
 				<SoundBank Name="Soundbank_Main" ID="{79F39421-6F2E-47FE-8739-930063E8F5C2}">
 					<ObjectInclusionList>
+						<ObjectRef Name="Play_FrozenLake" ID="{87144DC7-659F-403D-9304-0B0AA31EBE17}" WorkUnitID="{85BB6366-F1B3-447F-8CC8-FBCE384AEC45}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_ShiftyNeighbor" ID="{5104F763-782A-406C-8A1A-FF494B861A77}" WorkUnitID="{85BB6366-F1B3-447F-8CC8-FBCE384AEC45}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_CreepyCritterCrawl" ID="{7DF162B4-564A-4071-B29B-023C98B8689C}" WorkUnitID="{85BB6366-F1B3-447F-8CC8-FBCE384AEC45}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_CreepyCreaking" ID="{CF511B4C-014C-4081-9B79-60F80E1A12F2}" WorkUnitID="{85BB6366-F1B3-447F-8CC8-FBCE384AEC45}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_YetiFarRoar" ID="{78CEA021-890F-40A8-B112-8D37E9AA34A3}" WorkUnitID="{85BB6366-F1B3-447F-8CC8-FBCE384AEC45}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_SpringtimeForestWithBirds_DeerCorner" ID="{C93AD6B7-84A2-40D3-8464-05390E63A6DF}" WorkUnitID="{85BB6366-F1B3-447F-8CC8-FBCE384AEC45}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Reverb Control" ID="{CE917362-0187-413D-A79B-F928B9770020}" WorkUnitID="{85BB6366-F1B3-447F-8CC8-FBCE384AEC45}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Boing" ID="{3D7F6DC5-4773-41EB-896B-39254C9F326C}" WorkUnitID="{85BB6366-F1B3-447F-8CC8-FBCE384AEC45}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="Play_Chickencoop" ID="{B12C0447-5192-4222-930E-A7636E728FC2}" WorkUnitID="{85BB6366-F1B3-447F-8CC8-FBCE384AEC45}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_FatCanadianGurg" ID="{73CD1806-E1B6-4257-A211-3E6EC5368AD0}" WorkUnitID="{85BB6366-F1B3-447F-8CC8-FBCE384AEC45}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_RustyMetal" ID="{92C1F782-7510-4272-BA71-202A01294AE9}" WorkUnitID="{85BB6366-F1B3-447F-8CC8-FBCE384AEC45}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_JelloPile" ID="{9F0E4664-FD1A-427A-A035-41130429A3F1}" WorkUnitID="{85BB6366-F1B3-447F-8CC8-FBCE384AEC45}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_PigsChild" ID="{893B2597-96D7-42DF-9D4A-B1AE73F0D1A2}" WorkUnitID="{85BB6366-F1B3-447F-8CC8-FBCE384AEC45}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_EchoBoom" ID="{C98A8B78-C792-4324-9704-40EF20EDBB7E}" WorkUnitID="{85BB6366-F1B3-447F-8CC8-FBCE384AEC45}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_MushroomsJingle_JingleRoom" ID="{BDD748E5-3180-43CD-9FBC-359AB9D5A01E}" WorkUnitID="{85BB6366-F1B3-447F-8CC8-FBCE384AEC45}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_PigsAdult" ID="{BEFE00EF-286B-43FA-B47B-8411B40BBDB1}" WorkUnitID="{85BB6366-F1B3-447F-8CC8-FBCE384AEC45}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Birds" ID="{F89FB536-E277-4471-83E4-E80F71A4F319}" WorkUnitID="{85BB6366-F1B3-447F-8CC8-FBCE384AEC45}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Default Work Unit" ID="{85BB6366-F1B3-447F-8CC8-FBCE384AEC45}" WorkUnitID="{85BB6366-F1B3-447F-8CC8-FBCE384AEC45}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Animals" ID="{07CF8A17-3A84-44B5-9ECC-1C0D5A317A8B}" WorkUnitID="{85BB6366-F1B3-447F-8CC8-FBCE384AEC45}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_HowlingWindInACave_YetiCavern" ID="{514F5ABD-58FA-44D2-979B-AB715C8BCB87}" WorkUnitID="{85BB6366-F1B3-447F-8CC8-FBCE384AEC45}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_ScaryCaveHowlingWind_YetiCavern" ID="{C353B221-333F-44FF-A537-97BD2275C1AE}" WorkUnitID="{85BB6366-F1B3-447F-8CC8-FBCE384AEC45}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="EventMusic" ID="{58D524EE-405F-4570-B981-007E7E49958D}" WorkUnitID="{85BB6366-F1B3-447F-8CC8-FBCE384AEC45}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_WellSounds" ID="{A47F737F-78C5-4608-874C-DCF2390CBFE3}" WorkUnitID="{85BB6366-F1B3-447F-8CC8-FBCE384AEC45}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Lever" ID="{AA99402C-B7A2-4608-92D7-478EC69527CE}" WorkUnitID="{85BB6366-F1B3-447F-8CC8-FBCE384AEC45}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="Play_Singapore_Ambiences___Hort_Park__Southern_Ridges__Forest__Air_Tone__Leaves_Rustle__Heavy_Traffic__Birds_Squawk__Light_Cicadas" ID="{4C334644-CC6B-46D7-9B19-7950C2069B74}" WorkUnitID="{85BB6366-F1B3-447F-8CC8-FBCE384AEC45}" Origin="Manual" Filter="7"/>
-						<ObjectRef Name="Disble_Wwise_Reverb" ID="{72BC870C-CE9F-48E0-A772-ED7E73BA2F7A}" WorkUnitID="{85BB6366-F1B3-447F-8CC8-FBCE384AEC45}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="deer kids" ID="{42F42EBE-C19F-477D-A44A-6715D618D5D1}" WorkUnitID="{0B30049C-EA23-4C31-A1D7-AD3158F86989}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_deer" ID="{65D17222-E23A-47D8-9A4A-886D01270DDC}" WorkUnitID="{85BB6366-F1B3-447F-8CC8-FBCE384AEC45}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_DramaticAestheticPadMagical_JingleRoom" ID="{2D1852E6-2448-4837-BFEC-D4246A1C5F26}" WorkUnitID="{85BB6366-F1B3-447F-8CC8-FBCE384AEC45}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Events" ID="{A69BF0FC-D84A-487C-ABDD-56F71CB2A126}" WorkUnitID="{A69BF0FC-D84A-487C-ABDD-56F71CB2A126}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_OutdoorNothingWithFarawayNothing_YetiCaveAll" ID="{5E7CDB88-39EF-4894-9CCF-BBECDFD74096}" WorkUnitID="{85BB6366-F1B3-447F-8CC8-FBCE384AEC45}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Disble_Tunnel_Reverb" ID="{72BC870C-CE9F-48E0-A772-ED7E73BA2F7A}" WorkUnitID="{85BB6366-F1B3-447F-8CC8-FBCE384AEC45}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Smush" ID="{5E591648-CE16-490D-A263-EB03275A5803}" WorkUnitID="{85BB6366-F1B3-447F-8CC8-FBCE384AEC45}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_DeepCave" ID="{D61F3D32-C958-494C-866A-0E02EF42BF49}" WorkUnitID="{85BB6366-F1B3-447F-8CC8-FBCE384AEC45}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="Play_Skiing" ID="{A3CCBDED-CD2A-49BA-8480-236A8D02F981}" WorkUnitID="{85BB6366-F1B3-447F-8CC8-FBCE384AEC45}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_FernRattle" ID="{77FA430D-7908-49FD-B1FC-63DE61C02C48}" WorkUnitID="{85BB6366-F1B3-447F-8CC8-FBCE384AEC45}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_FridgeWhirring" ID="{EF2966A1-27D1-4A27-A387-559F351293D2}" WorkUnitID="{85BB6366-F1B3-447F-8CC8-FBCE384AEC45}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_GiantGates" ID="{9E253069-77A2-4A48-8103-12298A72080E}" WorkUnitID="{85BB6366-F1B3-447F-8CC8-FBCE384AEC45}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Tap" ID="{76BD9CE6-2228-4A64-B43B-0A9F99ABF39B}" WorkUnitID="{85BB6366-F1B3-447F-8CC8-FBCE384AEC45}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Campfire" ID="{AB0DB547-F3B8-4A9C-A8A5-02A04636A917}" WorkUnitID="{85BB6366-F1B3-447F-8CC8-FBCE384AEC45}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_AweTrippyMelancholyOrgan" ID="{53A2E7D5-4F5E-4AEF-9559-7A95AC52E7AF}" WorkUnitID="{85BB6366-F1B3-447F-8CC8-FBCE384AEC45}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_ScaryBreath" ID="{B3F6D85B-FF1A-4B33-A336-F79320B6DE38}" WorkUnitID="{85BB6366-F1B3-447F-8CC8-FBCE384AEC45}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Labratory" ID="{3C4E0942-BEB1-4BE5-847A-C0437A79462C}" WorkUnitID="{85BB6366-F1B3-447F-8CC8-FBCE384AEC45}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Area Ambience" ID="{D5833CD1-5569-4C28-B3AA-CAE2E54743A4}" WorkUnitID="{85BB6366-F1B3-447F-8CC8-FBCE384AEC45}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="Chickencoop" ID="{91F33118-AFB7-4C5D-8B52-4FA50DF3BFC9}" WorkUnitID="{0B30049C-EA23-4C31-A1D7-AD3158F86989}" Origin="Manual" Filter="7"/>
-						<ObjectRef Name="Enable_Wwise_Reverb" ID="{74772305-8EFA-4CAB-BE62-67AE7F94105A}" WorkUnitID="{85BB6366-F1B3-447F-8CC8-FBCE384AEC45}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_MetalTap" ID="{225323AC-EFE1-4CA3-952F-88416B52B867}" WorkUnitID="{85BB6366-F1B3-447F-8CC8-FBCE384AEC45}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Enable_Tunnel_Reverb" ID="{74772305-8EFA-4CAB-BE62-67AE7F94105A}" WorkUnitID="{85BB6366-F1B3-447F-8CC8-FBCE384AEC45}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Mushrooms" ID="{622FF728-FCFE-4CBF-82F5-8109D8129AFE}" WorkUnitID="{85BB6366-F1B3-447F-8CC8-FBCE384AEC45}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Dynamic Dialogue" ID="{309AF5DE-031F-4CE0-9B9B-C0A536275343}" WorkUnitID="{309AF5DE-031F-4CE0-9B9B-C0A536275343}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_DeepChime" ID="{FD3D9C21-303C-4D35-86D6-E297323D3EFE}" WorkUnitID="{85BB6366-F1B3-447F-8CC8-FBCE384AEC45}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_TreeFall" ID="{6D00088E-B8B4-4D68-814F-F9B44FEA1049}" WorkUnitID="{85BB6366-F1B3-447F-8CC8-FBCE384AEC45}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_OutdoorMountainWithWind_Overworld" ID="{5A1CF463-C597-4D6A-9DF6-1023765E1ACC}" WorkUnitID="{85BB6366-F1B3-447F-8CC8-FBCE384AEC45}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_YetiCloseRoar" ID="{35220199-4869-4D8D-9D70-7C79737F38C7}" WorkUnitID="{85BB6366-F1B3-447F-8CC8-FBCE384AEC45}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Default Work Unit" ID="{2C3B1D9A-1569-4DC8-BC93-D1B7E4CEAD09}" WorkUnitID="{2C3B1D9A-1569-4DC8-BC93-D1B7E4CEAD09}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_TallAndWhippy" ID="{83169617-9E9F-4E48-93E5-03AB1639609E}" WorkUnitID="{85BB6366-F1B3-447F-8CC8-FBCE384AEC45}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_TunnelWind" ID="{C7CE180E-C81B-4EB0-9E76-94D6BEDD4969}" WorkUnitID="{85BB6366-F1B3-447F-8CC8-FBCE384AEC45}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_PusPool" ID="{2576EE20-98C8-4EE2-AF5A-BC779F3271C2}" WorkUnitID="{85BB6366-F1B3-447F-8CC8-FBCE384AEC45}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_OutdoorMountainWithRareGusts_ForestMaze" ID="{B8DC30CD-B2AF-4F7F-AEA7-51ACD20722A1}" WorkUnitID="{85BB6366-F1B3-447F-8CC8-FBCE384AEC45}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Spooky" ID="{4E74F840-1369-4F97-8EF5-7EF4F5EA4AD8}" WorkUnitID="{85BB6366-F1B3-447F-8CC8-FBCE384AEC45}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="YetiSounds" ID="{9232EBEA-3F84-4F9E-958A-7EE2CC5C0E89}" WorkUnitID="{85BB6366-F1B3-447F-8CC8-FBCE384AEC45}" Origin="Manual" Filter="7"/>
 					</ObjectInclusionList>
 					<ObjectExclusionList/>
 					<GameSyncExclusionList/>

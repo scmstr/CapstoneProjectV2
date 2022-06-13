@@ -221,6 +221,14 @@
 </PluginData>
 				</Effect>
 				<Effect Name="New_iZotope_Hybrid_Reverb" ID="{755E2E38-1038-448A-8B20-F31FE1DE1D51}" PluginName="iZotope Hybrid Reverb" CompanyID="259" PluginID="2" PluginType="3"/>
+				<Effect Name="New_Wwise_Peak_Limiter" ID="{CF1BFFF4-9513-4A5B-9CD1-62AFAB0F6E3F}" PluginName="Wwise Peak Limiter" CompanyID="0" PluginID="110" PluginType="3">
+					<PropertyList>
+						<Property Name="LookAhead" Type="Real32" Value="0.02"/>
+						<Property Name="Ratio" Type="Real32" Value="10.8"/>
+						<Property Name="ReleaseTime" Type="Real32" Value="0.5"/>
+						<Property Name="Threshold" Type="Real32" Value="-0.5"/>
+					</PropertyList>
+				</Effect>
 			</ChildrenList>
 		</WorkUnit>
 	</Effects>

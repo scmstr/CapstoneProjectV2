@@ -288,7 +288,6 @@ namespace cakeslice
 					}
 				}
 			}
-
 			outlineCamera.Render();
 		}
 

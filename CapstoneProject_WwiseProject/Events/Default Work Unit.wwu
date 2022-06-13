@@ -349,6 +349,34 @@
 								</Action>
 							</ChildrenList>
 						</Event>
+						<Event Name="Stop_DramaticAestheticPadMagical_JingleRoom" ID="{539D702A-80F8-480A-BFD5-CBA119AC3DED}">
+							<ChildrenList>
+								<Action Name="" ID="{9EE2C365-023A-4780-BFB7-55DA30C16B99}" ShortID="1009515079">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="2"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="dramatic aesthetic pad magical - jingle room" ID="{30242F35-DDD1-4463-B8E2-0768C81567E0}" WorkUnitID="{0B30049C-EA23-4C31-A1D7-AD3158F86989}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Stop_MushroomsJingle_JingleRoom" ID="{B61F2054-66BB-4E39-A05C-881229ACCEEE}">
+							<ChildrenList>
+								<Action Name="" ID="{CD8D15D6-5725-4CCB-A3CD-8D67854F954D}" ShortID="637852598">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="2"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="MushroomsJingle - jingle room" ID="{0979743B-11F2-488A-825D-51A7C709AA31}" WorkUnitID="{0B30049C-EA23-4C31-A1D7-AD3158F86989}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
 					</ChildrenList>
 				</Folder>
 				<Folder Name="Animals" ID="{07CF8A17-3A84-44B5-9ECC-1C0D5A317A8B}" ShortID="995995763">

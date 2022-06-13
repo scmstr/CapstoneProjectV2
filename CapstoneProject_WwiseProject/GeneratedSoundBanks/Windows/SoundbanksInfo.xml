@@ -11,7 +11,7 @@
 	<StreamedFiles/>
 	<MediaFilesNotInAnyBank/>
 	<SoundBanks>
-		<SoundBank Id="29489552" Language="SFX" Hash="1058030025">
+		<SoundBank Id="29489552" Language="SFX" Hash="2925714376">
 			<ObjectPath>\SoundBanks\Default Work Unit\Soundbank_Main</ObjectPath>
 			<ShortName>Soundbank_Main</ShortName>
 			<Path>Soundbank_Main.bnk</Path>
@@ -22,11 +22,11 @@
 					<IncludedMemoryFiles>
 						<File Id="820745138" Language="SFX">
 							<ShortName>Organ.wav</ShortName>
-							<Path>SFX\Organ_925124E8.wem</Path>
+							<Path>SFX\Organ_AC9570F1.wem</Path>
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="3025897706" Name="Play_Birds" ObjectPath="\Events\Default Work Unit\Animals\Play_Birds" MaxAttenuation="110." DurationType="OneShot" DurationMin="0.53" DurationMax="1.865986">
+				<Event Id="3025897706" Name="Play_Birds" ObjectPath="\Events\Default Work Unit\Animals\Play_Birds" MaxAttenuation="110." DurationType="OneShot" DurationMin="2.03" DurationMax="6.365986">
 					<IncludedMemoryFiles>
 						<File Id="48833698" Language="SFX">
 							<ShortName>Bird 12_01.wav</ShortName>
@@ -190,7 +190,7 @@
 					<IncludedMemoryFiles>
 						<File Id="1040804673" Language="SFX">
 							<ShortName>Capstone_Campfire_Edit.wav</ShortName>
-							<Path>SFX\Capstone_Campfire_Edit_2CC6F77C.wem</Path>
+							<Path>SFX\Capstone_Campfire_Edit_FDBBFAD2.wem</Path>
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
@@ -294,7 +294,7 @@
 					<IncludedMemoryFiles>
 						<File Id="1067766762" Language="SFX">
 							<ShortName>Metal_Creak_Van_Door_Back_and_Forth_Various_CO100k.wav</ShortName>
-							<Path>SFX\Metal_Creak_Van_Door_Back_and_Forth_Various_CO100k_1BE46AA9.wem</Path>
+							<Path>SFX\Metal_Creak_Van_Door_Back_and_Forth_Various_CO100k_30708449.wem</Path>
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
@@ -302,7 +302,7 @@
 					<IncludedMemoryFiles>
 						<File Id="209833515" Language="SFX">
 							<ShortName>PD32,Polystyrene,Designed,Alien,Bug,Insect,Wing,Flapping,Squeaky,Weird.wav</ShortName>
-							<Path>SFX\PD32,Polystyrene,Designed,Alien,Bug,Insect,Wing,Flapping,Squeaky,Weird_BE6E48FD.wem</Path>
+							<Path>SFX\PD32,Polystyrene,Designed,Alien,Bug,Insect,Wing,Flapping,Squeaky,Weird_7B57C113.wem</Path>
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
@@ -326,7 +326,7 @@
 					<IncludedMemoryFiles>
 						<File Id="349645797" Language="SFX">
 							<ShortName>104 Red deer_autumn_Roaring 1.WAV</ShortName>
-							<Path>SFX\104 Red deer_autumn_Roaring 1_91CBA193.wem</Path>
+							<Path>SFX\104 Red deer_autumn_Roaring 1_2987F420.wem</Path>
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
@@ -334,15 +334,15 @@
 					<IncludedMemoryFiles>
 						<File Id="209833515" Language="SFX">
 							<ShortName>PD32,Polystyrene,Designed,Alien,Bug,Insect,Wing,Flapping,Squeaky,Weird.wav</ShortName>
-							<Path>SFX\PD32,Polystyrene,Designed,Alien,Bug,Insect,Wing,Flapping,Squeaky,Weird_BE6E48FD.wem</Path>
+							<Path>SFX\PD32,Polystyrene,Designed,Alien,Bug,Insect,Wing,Flapping,Squeaky,Weird_7B57C113.wem</Path>
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="920790231" Name="Play_DramaticAestheticPadMagical_JingleRoom" ObjectPath="\Events\Default Work Unit\Area Ambience\Play_DramaticAestheticPadMagical_JingleRoom" MaxAttenuation="110." DurationType="Infinite">
+				<Event Id="920790231" Name="Play_DramaticAestheticPadMagical_JingleRoom" ObjectPath="\Events\Default Work Unit\Area Ambience\Play_DramaticAestheticPadMagical_JingleRoom" MaxAttenuation="45." DurationType="Infinite">
 					<IncludedMemoryFiles>
 						<File Id="241780049" Language="SFX">
 							<ShortName>Cinematic.wav</ShortName>
-							<Path>SFX\Cinematic_FF53B7FB.wem</Path>
+							<Path>SFX\Cinematic_EB6C25DF.wem</Path>
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
@@ -390,7 +390,7 @@
 					<IncludedMemoryFiles>
 						<File Id="70928875" Language="SFX">
 							<ShortName>The Chris Alan - ASTRAL - Textures Spirts Winds Eerie Airy Scary 04.wav</ShortName>
-							<Path>SFX\The Chris Alan - ASTRAL - Textures Spirts Winds Eerie Airy Scary 04_99D00AE7.wem</Path>
+							<Path>SFX\The Chris Alan - ASTRAL - Textures Spirts Winds Eerie Airy Scary 04_A50A6476.wem</Path>
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
@@ -398,7 +398,7 @@
 					<IncludedMemoryFiles>
 						<File Id="525926629" Language="SFX">
 							<ShortName>Scotch - loch lochy small quiet waves wavelets ripple lake water movement - usiAB.wav</ShortName>
-							<Path>SFX\Scotch - loch lochy small quiet waves wavelets ripple lake water movement - usiAB_75357CAB.wem</Path>
+							<Path>SFX\Scotch - loch lochy small quiet waves wavelets ripple lake water movement - usiAB_3AB2356A.wem</Path>
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
@@ -406,7 +406,7 @@
 					<IncludedMemoryFiles>
 						<File Id="316732236" Language="SFX">
 							<ShortName>Metal_Creak_Van_Door_Back_and_Forth_Various_CO100k.wav</ShortName>
-							<Path>SFX\Metal_Creak_Van_Door_Back_and_Forth_Various_CO100k_ACE180B6.wem</Path>
+							<Path>SFX\Metal_Creak_Van_Door_Back_and_Forth_Various_CO100k_E7CAAB15.wem</Path>
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
@@ -414,7 +414,7 @@
 					<IncludedMemoryFiles>
 						<File Id="963604628" Language="SFX">
 							<ShortName>WEATHER WIND Apartment, Moderate, Strange Whistling Door Gap, Moan, Argentina LOOP.wav</ShortName>
-							<Path>SFX\WEATHER WIND Apartment, Moderate, Strange Whistling Door Gap, Moan, Argentina LOOP_9652DD63.wem</Path>
+							<Path>SFX\WEATHER WIND Apartment, Moderate, Strange Whistling Door Gap, Moan, Argentina LOOP_E784A969.wem</Path>
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
@@ -446,11 +446,11 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="533719988" Name="Play_Labratory" ObjectPath="\Events\Default Work Unit\Play_Labratory" MaxAttenuation="110." DurationType="Infinite">
+				<Event Id="533719988" Name="Play_Labratory" ObjectPath="\Events\Default Work Unit\Play_Labratory" MaxAttenuation="30." DurationType="Infinite">
 					<IncludedMemoryFiles>
 						<File Id="181805581" Language="SFX">
 							<ShortName>Stuttering_Sweeps.wav</ShortName>
-							<Path>SFX\Stuttering_Sweeps_DCE73B2A.wem</Path>
+							<Path>SFX\Stuttering_Sweeps_CB719D20.wem</Path>
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
@@ -458,7 +458,7 @@
 					<IncludedMemoryFiles>
 						<File Id="397071508" Language="SFX">
 							<ShortName>85 Interior_front_switch headlights_short long_mono_positon 02.wav</ShortName>
-							<Path>SFX\85 Interior_front_switch headlights_short long_mono_positon 02_E6B3DAC7.wem</Path>
+							<Path>SFX\85 Interior_front_switch headlights_short long_mono_positon 02_BAA2EBA8.wem</Path>
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
@@ -474,7 +474,7 @@
 					<IncludedMemoryFiles>
 						<File Id="419453942" Language="SFX">
 							<ShortName>Capstone_Mushrooms - jingle room.wav</ShortName>
-							<Path>SFX\Capstone_Mushrooms - jingle room_881315EA.wem</Path>
+							<Path>SFX\Capstone_Mushrooms - jingle room_F46A3865.wem</Path>
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
@@ -482,7 +482,7 @@
 					<IncludedMemoryFiles>
 						<File Id="579497719" Language="SFX">
 							<ShortName>Calm wind in pine tree forest_2.0.wav</ShortName>
-							<Path>SFX\Calm wind in pine tree forest_2.0_AC8039CE.wem</Path>
+							<Path>SFX\Calm wind in pine tree forest_2.0_95B4E5E2.wem</Path>
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
@@ -490,7 +490,7 @@
 					<IncludedMemoryFiles>
 						<File Id="871030536" Language="SFX">
 							<ShortName>AMBIENCE Birds Forest Quiet Wind Loop 02.wav</ShortName>
-							<Path>SFX\AMBIENCE Birds Forest Quiet Wind Loop 02_E3A6A28F.wem</Path>
+							<Path>SFX\AMBIENCE Birds Forest Quiet Wind Loop 02_CA104B18.wem</Path>
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
@@ -498,7 +498,7 @@
 					<IncludedMemoryFiles>
 						<File Id="353290245" Language="SFX">
 							<ShortName>AMBISONIC_A EXT Forrest Winter Wind Morning 02.wav</ShortName>
-							<Path>SFX\AMBISONIC_A EXT Forrest Winter Wind Morning 02_2DB4891F.wem</Path>
+							<Path>SFX\AMBISONIC_A EXT Forrest Winter Wind Morning 02_DFD99CA9.wem</Path>
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
@@ -818,7 +818,7 @@
 					<IncludedMemoryFiles>
 						<File Id="385512555" Language="SFX">
 							<ShortName>22 Wind strong_hi voltage power lines_winter_near field.wav</ShortName>
-							<Path>SFX\22 Wind strong_hi voltage power lines_winter_near field_6D583553.wem</Path>
+							<Path>SFX\22 Wind strong_hi voltage power lines_winter_near field_B04D1C7E.wem</Path>
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
@@ -935,19 +935,19 @@
 					<IncludedMemoryFiles>
 						<File Id="155620780" Language="SFX">
 							<ShortName>Forest Loop.wav</ShortName>
-							<Path>SFX\Forest Loop_D4A87B6E.wem</Path>
+							<Path>SFX\Forest Loop_3BE62066.wem</Path>
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="4090558993" Name="Play_TallAndWhippy" ObjectPath="\Events\Default Work Unit\Mushrooms\Play_TallAndWhippy" MaxAttenuation="30." DurationType="OneShot" DurationMin="13.792117" DurationMax="16.921341">
+				<Event Id="4090558993" Name="Play_TallAndWhippy" ObjectPath="\Events\Default Work Unit\Mushrooms\Play_TallAndWhippy" MaxAttenuation="15." DurationType="Infinite">
 					<IncludedMemoryFiles>
 						<File Id="323829920" Language="SFX">
 							<ShortName>PD32,Polystyrene,Designed,Alien,Bug,Insect,Wing,Flapping,Squeaky,Weird.wav</ShortName>
-							<Path>SFX\PD32,Polystyrene,Designed,Alien,Bug,Insect,Wing,Flapping,Squeaky,Weird_4B556598.wem</Path>
+							<Path>SFX\PD32,Polystyrene,Designed,Alien,Bug,Insect,Wing,Flapping,Squeaky,Weird_B3823D6B.wem</Path>
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="2419250869" Name="Play_Tap" ObjectPath="\Events\Default Work Unit\Mushrooms\Play_Tap" MaxAttenuation="30." DurationType="OneShot" DurationMin="0.295306" DurationMax="0.295306">
+				<Event Id="2419250869" Name="Play_Tap" ObjectPath="\Events\Default Work Unit\Mushrooms\Play_Tap" MaxAttenuation="30." DurationType="OneShot" DurationMin="0." DurationMax="2.367577">
 					<IncludedMemoryFiles>
 						<File Id="476992006" Language="SFX">
 							<ShortName>sfx19.wav</ShortName>
@@ -959,7 +959,7 @@
 					<IncludedMemoryFiles>
 						<File Id="910440697" Language="SFX">
 							<ShortName>Bluezone_BC0269_creature_wood_texture_crack_heavy_rumble_006.wav</ShortName>
-							<Path>SFX\Bluezone_BC0269_creature_wood_texture_crack_heavy_rumble_006_B0507B7E.wem</Path>
+							<Path>SFX\Bluezone_BC0269_creature_wood_texture_crack_heavy_rumble_006_8288C905.wem</Path>
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
@@ -967,7 +967,7 @@
 					<IncludedMemoryFiles>
 						<File Id="592336163" Language="SFX">
 							<ShortName>EFX SD Sheltered from the Wind 02.wav</ShortName>
-							<Path>SFX\EFX SD Sheltered from the Wind 02_83A307B5.wem</Path>
+							<Path>SFX\EFX SD Sheltered from the Wind 02_72AAA8DA.wem</Path>
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
@@ -975,7 +975,7 @@
 					<IncludedMemoryFiles>
 						<File Id="473709222" Language="SFX">
 							<ShortName>HHDoors  Armored Door - Metal and wood Fron door - Unlock and Lock by the Key.wav</ShortName>
-							<Path>SFX\HHDoors  Armored Door - Metal and wood Fron door - Unlock and Lock by the Key_D72B3A99.wem</Path>
+							<Path>SFX\HHDoors  Armored Door - Metal and wood Fron door - Unlock and Lock by the Key_016FA66C.wem</Path>
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
@@ -983,7 +983,7 @@
 					<IncludedMemoryFiles>
 						<File Id="15094760" Language="SFX">
 							<ShortName>104 Red deer_autumn_Roaring 1.WAV</ShortName>
-							<Path>SFX\104 Red deer_autumn_Roaring 1_B5658B2C.wem</Path>
+							<Path>SFX\104 Red deer_autumn_Roaring 1_B263DCE9.wem</Path>
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
@@ -995,27 +995,129 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
+				<Event Id="2857359649" Name="Stop_DramaticAestheticPadMagical_JingleRoom" ObjectPath="\Events\Default Work Unit\Area Ambience\Stop_DramaticAestheticPadMagical_JingleRoom" MaxAttenuation="0." DurationType="OneShot" DurationMin="0." DurationMax="0."/>
+				<Event Id="513675903" Name="Stop_MushroomsJingle_JingleRoom" ObjectPath="\Events\Default Work Unit\Area Ambience\Stop_MushroomsJingle_JingleRoom" MaxAttenuation="0." DurationType="OneShot" DurationMin="0." DurationMax="0."/>
 			</IncludedEvents>
 			<IncludedMemoryFiles>
 				<File Id="1339242" Language="SFX">
 					<ShortName>Chicken Wings 02.wav</ShortName>
 					<Path>SFX\Chicken Wings 02_10C4C929.wem</Path>
 				</File>
+				<File Id="15094760" Language="SFX">
+					<ShortName>104 Red deer_autumn_Roaring 1.WAV</ShortName>
+					<Path>SFX\104 Red deer_autumn_Roaring 1_B263DCE9.wem</Path>
+				</File>
+				<File Id="15253532" Language="SFX">
+					<ShortName>sfx13.wav</ShortName>
+					<Path>SFX\sfx13_10C4C929.wem</Path>
+				</File>
+				<File Id="21345626" Language="SFX">
+					<ShortName>sfx08.wav</ShortName>
+					<Path>SFX\sfx08_10C4C929.wem</Path>
+				</File>
+				<File Id="27340245" Language="SFX">
+					<ShortName>RustyMetal\Capstone_RustyMetal - Track 11.wav</ShortName>
+					<Path>SFX\RustyMetal\Capstone_RustyMetal - Track 11_10C4C929.wem</Path>
+				</File>
 				<File Id="30282184" Language="SFX">
 					<ShortName>Chicken Cluck 05.wav</ShortName>
 					<Path>SFX\Chicken Cluck 05_10C4C929.wem</Path>
+				</File>
+				<File Id="48833698" Language="SFX">
+					<ShortName>Bird 12_01.wav</ShortName>
+					<Path>SFX\Bird 12_01_10C4C929.wem</Path>
+				</File>
+				<File Id="49742646" Language="SFX">
+					<ShortName>Bird 11_03.wav</ShortName>
+					<Path>SFX\Bird 11_03_10C4C929.wem</Path>
+				</File>
+				<File Id="53093348" Language="SFX">
+					<ShortName>Pig Snort 05.wav</ShortName>
+					<Path>SFX\Pig Snort 05_10C4C929.wem</Path>
+				</File>
+				<File Id="53614379" Language="SFX">
+					<ShortName>Capstone_Mushrooms - shifty neighbor2.wav</ShortName>
+					<Path>SFX\Capstone_Mushrooms - shifty neighbor2_10C4C929.wem</Path>
+				</File>
+				<File Id="63249254" Language="SFX">
+					<ShortName>Bird 4_01.wav</ShortName>
+					<Path>SFX\Bird 4_01_10C4C929.wem</Path>
+				</File>
+				<File Id="65119088" Language="SFX">
+					<ShortName>Capstone_Mushrooms - fat canadian gurg2.wav</ShortName>
+					<Path>SFX\Capstone_Mushrooms - fat canadian gurg2_10C4C929.wem</Path>
+				</File>
+				<File Id="69635315" Language="SFX">
+					<ShortName>Bird 7_01.wav</ShortName>
+					<Path>SFX\Bird 7_01_10C4C929.wem</Path>
+				</File>
+				<File Id="70928875" Language="SFX">
+					<ShortName>The Chris Alan - ASTRAL - Textures Spirts Winds Eerie Airy Scary 04.wav</ShortName>
+					<Path>SFX\The Chris Alan - ASTRAL - Textures Spirts Winds Eerie Airy Scary 04_A50A6476.wem</Path>
+				</File>
+				<File Id="75486247" Language="SFX">
+					<ShortName>RustyMetal\Capstone_RustyMetal - REC_3.wav</ShortName>
+					<Path>SFX\RustyMetal\Capstone_RustyMetal - REC_3_10C4C929.wem</Path>
+				</File>
+				<File Id="82767921" Language="SFX">
+					<ShortName>SkiSteps\Grass\SkiStep_Grass_01.wav</ShortName>
+					<Path>SFX\SkiSteps\Grass\SkiStep_Grass_01_3044359C.wem</Path>
+				</File>
+				<File Id="87676567" Language="SFX">
+					<ShortName>Bird 5_01.wav</ShortName>
+					<Path>SFX\Bird 5_01_10C4C929.wem</Path>
 				</File>
 				<File Id="103326395" Language="SFX">
 					<ShortName>Chicken Cluck 04.wav</ShortName>
 					<Path>SFX\Chicken Cluck 04_10C4C929.wem</Path>
 				</File>
+				<File Id="125269069" Language="SFX">
+					<ShortName>Bird 1_03.wav</ShortName>
+					<Path>SFX\Bird 1_03_10C4C929.wem</Path>
+				</File>
 				<File Id="128873530" Language="SFX">
 					<ShortName>Chicken Cluck 02.wav</ShortName>
 					<Path>SFX\Chicken Cluck 02_10C4C929.wem</Path>
 				</File>
+				<File Id="136706714" Language="SFX">
+					<ShortName>RustyMetal\Capstone_RustyMetal - Track 12.wav</ShortName>
+					<Path>SFX\RustyMetal\Capstone_RustyMetal - Track 12_10C4C929.wem</Path>
+				</File>
+				<File Id="154998149" Language="SFX">
+					<ShortName>Bird 3_05.wav</ShortName>
+					<Path>SFX\Bird 3_05_10C4C929.wem</Path>
+				</File>
+				<File Id="155620780" Language="SFX">
+					<ShortName>Forest Loop.wav</ShortName>
+					<Path>SFX\Forest Loop_3BE62066.wem</Path>
+				</File>
+				<File Id="155889511" Language="SFX">
+					<ShortName>Capstone_Mushrooms - fat canadian gurg4.wav</ShortName>
+					<Path>SFX\Capstone_Mushrooms - fat canadian gurg4_10C4C929.wem</Path>
+				</File>
+				<File Id="165674511" Language="SFX">
+					<ShortName>Bird 3_06.wav</ShortName>
+					<Path>SFX\Bird 3_06_10C4C929.wem</Path>
+				</File>
+				<File Id="167358388" Language="SFX">
+					<ShortName>Capstone_Mushrooms - pus pool5.wav</ShortName>
+					<Path>SFX\Capstone_Mushrooms - pus pool5_10C4C929.wem</Path>
+				</File>
+				<File Id="176657969" Language="SFX">
+					<ShortName>Bird 11_01.wav</ShortName>
+					<Path>SFX\Bird 11_01_10C4C929.wem</Path>
+				</File>
 				<File Id="178981503" Language="SFX">
 					<ShortName>Chicken Wings 06.wav</ShortName>
 					<Path>SFX\Chicken Wings 06_10C4C929.wem</Path>
+				</File>
+				<File Id="181805581" Language="SFX">
+					<ShortName>Stuttering_Sweeps.wav</ShortName>
+					<Path>SFX\Stuttering_Sweeps_CB719D20.wem</Path>
+				</File>
+				<File Id="189501522" Language="SFX">
+					<ShortName>Bird 2_01.wav</ShortName>
+					<Path>SFX\Bird 2_01_10C4C929.wem</Path>
 				</File>
 				<File Id="189967344" Language="SFX">
 					<ShortName>Chicken 12.wav</ShortName>
@@ -1027,23 +1129,155 @@
 				</File>
 				<File Id="209833515" Language="SFX">
 					<ShortName>PD32,Polystyrene,Designed,Alien,Bug,Insect,Wing,Flapping,Squeaky,Weird.wav</ShortName>
-					<Path>SFX\PD32,Polystyrene,Designed,Alien,Bug,Insect,Wing,Flapping,Squeaky,Weird_BE6E48FD.wem</Path>
+					<Path>SFX\PD32,Polystyrene,Designed,Alien,Bug,Insect,Wing,Flapping,Squeaky,Weird_7B57C113.wem</Path>
+				</File>
+				<File Id="222736125" Language="SFX">
+					<ShortName>Ice\SkiStep_Ice_02.wav</ShortName>
+					<Path>SFX\Ice\SkiStep_Ice_02_0E4788B5.wem</Path>
 				</File>
 				<File Id="231046948" Language="SFX">
 					<ShortName>Chicken 08.wav</ShortName>
 					<Path>SFX\Chicken 08_10C4C929.wem</Path>
 				</File>
+				<File Id="235630109" Language="SFX">
+					<ShortName>Bird 1_04.wav</ShortName>
+					<Path>SFX\Bird 1_04_10C4C929.wem</Path>
+				</File>
+				<File Id="241780049" Language="SFX">
+					<ShortName>Cinematic.wav</ShortName>
+					<Path>SFX\Cinematic_EB6C25DF.wem</Path>
+				</File>
+				<File Id="242086365" Language="SFX">
+					<ShortName>Bird 3_04.wav</ShortName>
+					<Path>SFX\Bird 3_04_10C4C929.wem</Path>
+				</File>
+				<File Id="258757148" Language="SFX">
+					<ShortName>RustyMetal\Capstone_RustyMetal - Track 8.wav</ShortName>
+					<Path>SFX\RustyMetal\Capstone_RustyMetal - Track 8_10C4C929.wem</Path>
+				</File>
+				<File Id="270553904" Language="SFX">
+					<ShortName>Pig Squeel 09.wav</ShortName>
+					<Path>SFX\Pig Squeel 09_10C4C929.wem</Path>
+				</File>
+				<File Id="279288031" Language="SFX">
+					<ShortName>Capstone_Mushrooms - pus pool2.wav</ShortName>
+					<Path>SFX\Capstone_Mushrooms - pus pool2_10C4C929.wem</Path>
+				</File>
 				<File Id="293013143" Language="SFX">
 					<ShortName>Chicken Cluck 03.wav</ShortName>
 					<Path>SFX\Chicken Cluck 03_10C4C929.wem</Path>
+				</File>
+				<File Id="299000551" Language="SFX">
+					<ShortName>Bird 4_03.wav</ShortName>
+					<Path>SFX\Bird 4_03_10C4C929.wem</Path>
+				</File>
+				<File Id="300940268" Language="SFX">
+					<ShortName>Bird 11_02.wav</ShortName>
+					<Path>SFX\Bird 11_02_10C4C929.wem</Path>
+				</File>
+				<File Id="310141088" Language="SFX">
+					<ShortName>Capstone_Mushrooms - shifty neighbor3.wav</ShortName>
+					<Path>SFX\Capstone_Mushrooms - shifty neighbor3_10C4C929.wem</Path>
+				</File>
+				<File Id="316732236" Language="SFX">
+					<ShortName>Metal_Creak_Van_Door_Back_and_Forth_Various_CO100k.wav</ShortName>
+					<Path>SFX\Metal_Creak_Van_Door_Back_and_Forth_Various_CO100k_E7CAAB15.wem</Path>
+				</File>
+				<File Id="323829920" Language="SFX">
+					<ShortName>PD32,Polystyrene,Designed,Alien,Bug,Insect,Wing,Flapping,Squeaky,Weird.wav</ShortName>
+					<Path>SFX\PD32,Polystyrene,Designed,Alien,Bug,Insect,Wing,Flapping,Squeaky,Weird_B3823D6B.wem</Path>
 				</File>
 				<File Id="325741146" Language="SFX">
 					<ShortName>Chicken Wings 04.wav</ShortName>
 					<Path>SFX\Chicken Wings 04_10C4C929.wem</Path>
 				</File>
+				<File Id="334419996" Language="SFX">
+					<ShortName>Bird 6_01.wav</ShortName>
+					<Path>SFX\Bird 6_01_10C4C929.wem</Path>
+				</File>
+				<File Id="342230602" Language="SFX">
+					<ShortName>Capstone_Mushrooms - fat canadian gurg3.wav</ShortName>
+					<Path>SFX\Capstone_Mushrooms - fat canadian gurg3_10C4C929.wem</Path>
+				</File>
+				<File Id="349645797" Language="SFX">
+					<ShortName>104 Red deer_autumn_Roaring 1.WAV</ShortName>
+					<Path>SFX\104 Red deer_autumn_Roaring 1_2987F420.wem</Path>
+				</File>
+				<File Id="353290245" Language="SFX">
+					<ShortName>AMBISONIC_A EXT Forrest Winter Wind Morning 02.wav</ShortName>
+					<Path>SFX\AMBISONIC_A EXT Forrest Winter Wind Morning 02_DFD99CA9.wem</Path>
+				</File>
+				<File Id="354332122" Language="SFX">
+					<ShortName>Bird 1_01.wav</ShortName>
+					<Path>SFX\Bird 1_01_10C4C929.wem</Path>
+				</File>
+				<File Id="360472565" Language="SFX">
+					<ShortName>Capstone_Mushrooms - jello pile3.wav</ShortName>
+					<Path>SFX\Capstone_Mushrooms - jello pile3_10C4C929.wem</Path>
+				</File>
+				<File Id="360655851" Language="SFX">
+					<ShortName>Bird 8_02.wav</ShortName>
+					<Path>SFX\Bird 8_02_10C4C929.wem</Path>
+				</File>
+				<File Id="375041793" Language="SFX">
+					<ShortName>SkiSteps\Grass\SkiStep_Grass_08.wav</ShortName>
+					<Path>SFX\SkiSteps\Grass\SkiStep_Grass_08_456B400E.wem</Path>
+				</File>
+				<File Id="375465940" Language="SFX">
+					<ShortName>RustyMetal\Capstone_RustyMetal - Track 15.wav</ShortName>
+					<Path>SFX\RustyMetal\Capstone_RustyMetal - Track 15_10C4C929.wem</Path>
+				</File>
+				<File Id="385144682" Language="SFX">
+					<ShortName>Bird 5_04.wav</ShortName>
+					<Path>SFX\Bird 5_04_10C4C929.wem</Path>
+				</File>
+				<File Id="385512555" Language="SFX">
+					<ShortName>22 Wind strong_hi voltage power lines_winter_near field.wav</ShortName>
+					<Path>SFX\22 Wind strong_hi voltage power lines_winter_near field_B04D1C7E.wem</Path>
+				</File>
+				<File Id="387002110" Language="SFX">
+					<ShortName>Bird 7_02.wav</ShortName>
+					<Path>SFX\Bird 7_02_10C4C929.wem</Path>
+				</File>
+				<File Id="397071508" Language="SFX">
+					<ShortName>85 Interior_front_switch headlights_short long_mono_positon 02.wav</ShortName>
+					<Path>SFX\85 Interior_front_switch headlights_short long_mono_positon 02_BAA2EBA8.wem</Path>
+				</File>
+				<File Id="399657090" Language="SFX">
+					<ShortName>Pig Snort 02.wav</ShortName>
+					<Path>SFX\Pig Snort 02_10C4C929.wem</Path>
+				</File>
 				<File Id="404378988" Language="SFX">
 					<ShortName>Chicken Wings 05.wav</ShortName>
 					<Path>SFX\Chicken Wings 05_10C4C929.wem</Path>
+				</File>
+				<File Id="406120567" Language="SFX">
+					<ShortName>Bird 8_01.wav</ShortName>
+					<Path>SFX\Bird 8_01_10C4C929.wem</Path>
+				</File>
+				<File Id="415786492" Language="SFX">
+					<ShortName>Capstone_Mushrooms - pus pool1.wav</ShortName>
+					<Path>SFX\Capstone_Mushrooms - pus pool1_10C4C929.wem</Path>
+				</File>
+				<File Id="419453942" Language="SFX">
+					<ShortName>Capstone_Mushrooms - jingle room.wav</ShortName>
+					<Path>SFX\Capstone_Mushrooms - jingle room_F46A3865.wem</Path>
+				</File>
+				<File Id="425377062" Language="SFX">
+					<ShortName>Pig Squeel 05.wav</ShortName>
+					<Path>SFX\Pig Squeel 05_10C4C929.wem</Path>
+				</File>
+				<File Id="429128746" Language="SFX">
+					<ShortName>RustyMetal\Capstone_RustyMetal - Track 14.wav</ShortName>
+					<Path>SFX\RustyMetal\Capstone_RustyMetal - Track 14_10C4C929.wem</Path>
+				</File>
+				<File Id="431423956" Language="SFX">
+					<ShortName>Pig Snort 06.wav</ShortName>
+					<Path>SFX\Pig Snort 06_10C4C929.wem</Path>
+				</File>
+				<File Id="444697177" Language="SFX">
+					<ShortName>Pig Snort 01.wav</ShortName>
+					<Path>SFX\Pig Snort 01_10C4C929.wem</Path>
 				</File>
 				<File Id="457025008" Language="SFX">
 					<ShortName>Chicken 01.wav</ShortName>
@@ -1053,37 +1287,273 @@
 					<ShortName>Chicken 11.wav</ShortName>
 					<Path>SFX\Chicken 11_10C4C929.wem</Path>
 				</File>
+				<File Id="473709222" Language="SFX">
+					<ShortName>HHDoors  Armored Door - Metal and wood Fron door - Unlock and Lock by the Key.wav</ShortName>
+					<Path>SFX\HHDoors  Armored Door - Metal and wood Fron door - Unlock and Lock by the Key_016FA66C.wem</Path>
+				</File>
+				<File Id="475474989" Language="SFX">
+					<ShortName>RustyMetal\Capstone_RustyMetal - Track 16.wav</ShortName>
+					<Path>SFX\RustyMetal\Capstone_RustyMetal - Track 16_10C4C929.wem</Path>
+				</File>
+				<File Id="476992006" Language="SFX">
+					<ShortName>sfx19.wav</ShortName>
+					<Path>SFX\sfx19_10C4C929.wem</Path>
+				</File>
+				<File Id="488268536" Language="SFX">
+					<ShortName>Capstone_Mushrooms - pus pool6.wav</ShortName>
+					<Path>SFX\Capstone_Mushrooms - pus pool6_10C4C929.wem</Path>
+				</File>
 				<File Id="498282984" Language="SFX">
 					<ShortName>Chicken 03.wav</ShortName>
 					<Path>SFX\Chicken 03_10C4C929.wem</Path>
+				</File>
+				<File Id="509614053" Language="SFX">
+					<ShortName>Capstone_Mushrooms - fat canadian gurg5.wav</ShortName>
+					<Path>SFX\Capstone_Mushrooms - fat canadian gurg5_10C4C929.wem</Path>
+				</File>
+				<File Id="518012641" Language="SFX">
+					<ShortName>Ice\SkiStep_Ice_04.wav</ShortName>
+					<Path>SFX\Ice\SkiStep_Ice_04_22052D6C.wem</Path>
+				</File>
+				<File Id="520488160" Language="SFX">
+					<ShortName>sfx12.wav</ShortName>
+					<Path>SFX\sfx12_10C4C929.wem</Path>
+				</File>
+				<File Id="525926629" Language="SFX">
+					<ShortName>Scotch - loch lochy small quiet waves wavelets ripple lake water movement - usiAB.wav</ShortName>
+					<Path>SFX\Scotch - loch lochy small quiet waves wavelets ripple lake water movement - usiAB_3AB2356A.wem</Path>
+				</File>
+				<File Id="530756777" Language="SFX">
+					<ShortName>Capstone_Mushrooms - shifty neighbor1.wav</ShortName>
+					<Path>SFX\Capstone_Mushrooms - shifty neighbor1_10C4C929.wem</Path>
+				</File>
+				<File Id="533445941" Language="SFX">
+					<ShortName>Bird 9_01.wav</ShortName>
+					<Path>SFX\Bird 9_01_10C4C929.wem</Path>
+				</File>
+				<File Id="534203255" Language="SFX">
+					<ShortName>Pig Eating 04.wav</ShortName>
+					<Path>SFX\Pig Eating 04_10C4C929.wem</Path>
 				</File>
 				<File Id="548456474" Language="SFX">
 					<ShortName>Chicken Cluck 01.wav</ShortName>
 					<Path>SFX\Chicken Cluck 01_10C4C929.wem</Path>
 				</File>
+				<File Id="559143661" Language="SFX">
+					<ShortName>Capstone_Mushrooms - pus pool3.wav</ShortName>
+					<Path>SFX\Capstone_Mushrooms - pus pool3_10C4C929.wem</Path>
+				</File>
+				<File Id="562733011" Language="SFX">
+					<ShortName>Bird 9_02.wav</ShortName>
+					<Path>SFX\Bird 9_02_10C4C929.wem</Path>
+				</File>
+				<File Id="570403528" Language="SFX">
+					<ShortName>ANIMAL WILD Camel C, Grunt, Groan, Roar, Expressive x10.wav 05.wav</ShortName>
+					<Path>SFX\ANIMAL WILD Camel C, Grunt, Groan, Roar, Expressive x10.wav 05_10C4C929.wem</Path>
+				</File>
 				<File Id="575618255" Language="SFX">
 					<ShortName>Chicken 06.wav</ShortName>
 					<Path>SFX\Chicken 06_10C4C929.wem</Path>
+				</File>
+				<File Id="575718963" Language="SFX">
+					<ShortName>RustyMetal\Capstone_RustyMetal - Track 7.wav</ShortName>
+					<Path>SFX\RustyMetal\Capstone_RustyMetal - Track 7_10C4C929.wem</Path>
+				</File>
+				<File Id="576448609" Language="SFX">
+					<ShortName>Pig Squeel 03.wav</ShortName>
+					<Path>SFX\Pig Squeel 03_10C4C929.wem</Path>
+				</File>
+				<File Id="576514915" Language="SFX">
+					<ShortName>Bluezone_BC0263_creature_crab_organic_texture_carapace_crack_squishy_003.wav</ShortName>
+					<Path>SFX\Bluezone_BC0263_creature_crab_organic_texture_carapace_crack_squishy_003_10C4C929.wem</Path>
+				</File>
+				<File Id="579497719" Language="SFX">
+					<ShortName>Calm wind in pine tree forest_2.0.wav</ShortName>
+					<Path>SFX\Calm wind in pine tree forest_2.0_95B4E5E2.wem</Path>
+				</File>
+				<File Id="584158388" Language="SFX">
+					<ShortName>Bird 12_02.wav</ShortName>
+					<Path>SFX\Bird 12_02_10C4C929.wem</Path>
+				</File>
+				<File Id="584645655" Language="SFX">
+					<ShortName>Pig Eating 02.wav</ShortName>
+					<Path>SFX\Pig Eating 02_10C4C929.wem</Path>
+				</File>
+				<File Id="588803164" Language="SFX">
+					<ShortName>RustyMetal\Capstone_RustyMetal - REC_5.wav</ShortName>
+					<Path>SFX\RustyMetal\Capstone_RustyMetal - REC_5_10C4C929.wem</Path>
+				</File>
+				<File Id="592336163" Language="SFX">
+					<ShortName>EFX SD Sheltered from the Wind 02.wav</ShortName>
+					<Path>SFX\EFX SD Sheltered from the Wind 02_72AAA8DA.wem</Path>
+				</File>
+				<File Id="609795580" Language="SFX">
+					<ShortName>RustyMetal\Capstone_RustyMetal - REC.wav</ShortName>
+					<Path>SFX\RustyMetal\Capstone_RustyMetal - REC_10C4C929.wem</Path>
+				</File>
+				<File Id="621197167" Language="SFX">
+					<ShortName>RustyMetal\Capstone_RustyMetal - REC_6.wav</ShortName>
+					<Path>SFX\RustyMetal\Capstone_RustyMetal - REC_6_10C4C929.wem</Path>
+				</File>
+				<File Id="624606902" Language="SFX">
+					<ShortName>SkiSteps\SkiStep01.wav</ShortName>
+					<Path>SFX\SkiSteps\SkiStep01_77509EA6.wem</Path>
+				</File>
+				<File Id="630099696" Language="SFX">
+					<ShortName>Bird 6_03.wav</ShortName>
+					<Path>SFX\Bird 6_03_10C4C929.wem</Path>
+				</File>
+				<File Id="637159130" Language="SFX">
+					<ShortName>sfx04.wav</ShortName>
+					<Path>SFX\sfx04_10C4C929.wem</Path>
 				</File>
 				<File Id="652863266" Language="SFX">
 					<ShortName>Chicken 05.wav</ShortName>
 					<Path>SFX\Chicken 05_10C4C929.wem</Path>
 				</File>
+				<File Id="652994373" Language="SFX">
+					<ShortName>Bird 5_02.wav</ShortName>
+					<Path>SFX\Bird 5_02_10C4C929.wem</Path>
+				</File>
+				<File Id="655793904" Language="SFX">
+					<ShortName>SkiSteps\Grass\SkiStep_Grass_06.wav</ShortName>
+					<Path>SFX\SkiSteps\Grass\SkiStep_Grass_06_8C513F08.wem</Path>
+				</File>
+				<File Id="669562876" Language="SFX">
+					<ShortName>Ice\SkiStep_Ice_03.wav</ShortName>
+					<Path>SFX\Ice\SkiStep_Ice_03_035EE817.wem</Path>
+				</File>
+				<File Id="682008135" Language="SFX">
+					<ShortName>Pig Snort 10.wav</ShortName>
+					<Path>SFX\Pig Snort 10_10C4C929.wem</Path>
+				</File>
+				<File Id="682286370" Language="SFX">
+					<ShortName>Pig Squeel 07.wav</ShortName>
+					<Path>SFX\Pig Squeel 07_10C4C929.wem</Path>
+				</File>
+				<File Id="690732945" Language="SFX">
+					<ShortName>Capstone_Mushrooms - jello pile6.wav</ShortName>
+					<Path>SFX\Capstone_Mushrooms - jello pile6_10C4C929.wem</Path>
+				</File>
+				<File Id="695248218" Language="SFX">
+					<ShortName>RustyMetal\Capstone_RustyMetal - Track 10.wav</ShortName>
+					<Path>SFX\RustyMetal\Capstone_RustyMetal - Track 10_10C4C929.wem</Path>
+				</File>
+				<File Id="695664004" Language="SFX">
+					<ShortName>Bird 2_02.wav</ShortName>
+					<Path>SFX\Bird 2_02_10C4C929.wem</Path>
+				</File>
+				<File Id="706088786" Language="SFX">
+					<ShortName>SkiSteps\Grass\SkiStep_Grass_03.wav</ShortName>
+					<Path>SFX\SkiSteps\Grass\SkiStep_Grass_03_793229AD.wem</Path>
+				</File>
 				<File Id="712924816" Language="SFX">
 					<ShortName>Chicken 04.wav</ShortName>
 					<Path>SFX\Chicken 04_10C4C929.wem</Path>
+				</File>
+				<File Id="722887775" Language="SFX">
+					<ShortName>RustyMetal\Capstone_RustyMetal - Track 17.wav</ShortName>
+					<Path>SFX\RustyMetal\Capstone_RustyMetal - Track 17_10C4C929.wem</Path>
+				</File>
+				<File Id="743030606" Language="SFX">
+					<ShortName>Pig Squeel 06.wav</ShortName>
+					<Path>SFX\Pig Squeel 06_10C4C929.wem</Path>
+				</File>
+				<File Id="752524623" Language="SFX">
+					<ShortName>RustyMetal\Capstone_RustyMetal - Track 13.wav</ShortName>
+					<Path>SFX\RustyMetal\Capstone_RustyMetal - Track 13_10C4C929.wem</Path>
+				</File>
+				<File Id="754483925" Language="SFX">
+					<ShortName>Capstone_Mushrooms - pus pool7.wav</ShortName>
+					<Path>SFX\Capstone_Mushrooms - pus pool7_10C4C929.wem</Path>
+				</File>
+				<File Id="759582305" Language="SFX">
+					<ShortName>Pig Snort 08.wav</ShortName>
+					<Path>SFX\Pig Snort 08_10C4C929.wem</Path>
+				</File>
+				<File Id="764471487" Language="SFX">
+					<ShortName>Bird 4_04.wav</ShortName>
+					<Path>SFX\Bird 4_04_10C4C929.wem</Path>
 				</File>
 				<File Id="772080201" Language="SFX">
 					<ShortName>Chicken Wings 01.wav</ShortName>
 					<Path>SFX\Chicken Wings 01_10C4C929.wem</Path>
 				</File>
+				<File Id="778222804" Language="SFX">
+					<ShortName>RustyMetal\Capstone_RustyMetal - REC_2.wav</ShortName>
+					<Path>SFX\RustyMetal\Capstone_RustyMetal - REC_2_10C4C929.wem</Path>
+				</File>
+				<File Id="778535829" Language="SFX">
+					<ShortName>Capstone_Mushrooms - jello pile5.wav</ShortName>
+					<Path>SFX\Capstone_Mushrooms - jello pile5_10C4C929.wem</Path>
+				</File>
+				<File Id="798282637" Language="SFX">
+					<ShortName>Capstone_Mushrooms - jello pile4.wav</ShortName>
+					<Path>SFX\Capstone_Mushrooms - jello pile4_10C4C929.wem</Path>
+				</File>
 				<File Id="799445184" Language="SFX">
 					<ShortName>Chicken 07.wav</ShortName>
 					<Path>SFX\Chicken 07_10C4C929.wem</Path>
 				</File>
+				<File Id="819018131" Language="SFX">
+					<ShortName>Pig Snort 07.wav</ShortName>
+					<Path>SFX\Pig Snort 07_10C4C929.wem</Path>
+				</File>
+				<File Id="820745138" Language="SFX">
+					<ShortName>Organ.wav</ShortName>
+					<Path>SFX\Organ_AC9570F1.wem</Path>
+				</File>
+				<File Id="830836763" Language="SFX">
+					<ShortName>RustyMetal\Capstone_RustyMetal - REC_4.wav</ShortName>
+					<Path>SFX\RustyMetal\Capstone_RustyMetal - REC_4_10C4C929.wem</Path>
+				</File>
+				<File Id="838066718" Language="SFX">
+					<ShortName>Capstone_Mushrooms - pus pool4.wav</ShortName>
+					<Path>SFX\Capstone_Mushrooms - pus pool4_10C4C929.wem</Path>
+				</File>
+				<File Id="841819313" Language="SFX">
+					<ShortName>Exterior Metal Door Gate Bolt Latch 7.wav</ShortName>
+					<Path>SFX\Exterior Metal Door Gate Bolt Latch 7_10C4C929.wem</Path>
+				</File>
+				<File Id="864977352" Language="SFX">
+					<ShortName>Capstone_Mushrooms - jello pile1.wav</ShortName>
+					<Path>SFX\Capstone_Mushrooms - jello pile1_10C4C929.wem</Path>
+				</File>
+				<File Id="864999504" Language="SFX">
+					<ShortName>Pig Eating 05.wav</ShortName>
+					<Path>SFX\Pig Eating 05_10C4C929.wem</Path>
+				</File>
+				<File Id="869478905" Language="SFX">
+					<ShortName>Bird 1_02.wav</ShortName>
+					<Path>SFX\Bird 1_02_10C4C929.wem</Path>
+				</File>
+				<File Id="869887816" Language="SFX">
+					<ShortName>Pig Squeel 01.wav</ShortName>
+					<Path>SFX\Pig Squeel 01_10C4C929.wem</Path>
+				</File>
+				<File Id="871030536" Language="SFX">
+					<ShortName>AMBIENCE Birds Forest Quiet Wind Loop 02.wav</ShortName>
+					<Path>SFX\AMBIENCE Birds Forest Quiet Wind Loop 02_CA104B18.wem</Path>
+				</File>
+				<File Id="875519642" Language="SFX">
+					<ShortName>Pig Squeel 02.wav</ShortName>
+					<Path>SFX\Pig Squeel 02_10C4C929.wem</Path>
+				</File>
 				<File Id="878376981" Language="SFX">
 					<ShortName>Chicken Wings 03.wav</ShortName>
 					<Path>SFX\Chicken Wings 03_10C4C929.wem</Path>
+				</File>
+				<File Id="888746498" Language="SFX">
+					<ShortName>Capstone_Mushrooms - jello pile2.wav</ShortName>
+					<Path>SFX\Capstone_Mushrooms - jello pile2_10C4C929.wem</Path>
+				</File>
+				<File Id="889448402" Language="SFX">
+					<ShortName>SkiSteps\Grass\SkiStep_Grass_04.wav</ShortName>
+					<Path>SFX\SkiSteps\Grass\SkiStep_Grass_04_0F31695B.wem</Path>
+				</File>
+				<File Id="893538251" Language="SFX">
+					<ShortName>sfx15.wav</ShortName>
+					<Path>SFX\sfx15_10C4C929.wem</Path>
 				</File>
 				<File Id="906295094" Language="SFX">
 					<ShortName>Chicken 02.wav</ShortName>
@@ -1092,6 +1562,130 @@
 				<File Id="908153907" Language="SFX">
 					<ShortName>Chicken 09.wav</ShortName>
 					<Path>SFX\Chicken 09_10C4C929.wem</Path>
+				</File>
+				<File Id="910440697" Language="SFX">
+					<ShortName>Bluezone_BC0269_creature_wood_texture_crack_heavy_rumble_006.wav</ShortName>
+					<Path>SFX\Bluezone_BC0269_creature_wood_texture_crack_heavy_rumble_006_8288C905.wem</Path>
+				</File>
+				<File Id="919948958" Language="SFX">
+					<ShortName>Bird 3_01.wav</ShortName>
+					<Path>SFX\Bird 3_01_10C4C929.wem</Path>
+				</File>
+				<File Id="926032988" Language="SFX">
+					<ShortName>Pig Snort 03.wav</ShortName>
+					<Path>SFX\Pig Snort 03_10C4C929.wem</Path>
+				</File>
+				<File Id="926084902" Language="SFX">
+					<ShortName>Ice\SkiStep_Ice_01.wav</ShortName>
+					<Path>SFX\Ice\SkiStep_Ice_01_13D71DFA.wem</Path>
+				</File>
+				<File Id="928024750" Language="SFX">
+					<ShortName>Pig Snort 04.wav</ShortName>
+					<Path>SFX\Pig Snort 04_10C4C929.wem</Path>
+				</File>
+				<File Id="929680375" Language="SFX">
+					<ShortName>Bird 3_03.wav</ShortName>
+					<Path>SFX\Bird 3_03_10C4C929.wem</Path>
+				</File>
+				<File Id="940529875" Language="SFX">
+					<ShortName>RustyMetal\Capstone_RustyMetal - Track 9.wav</ShortName>
+					<Path>SFX\RustyMetal\Capstone_RustyMetal - Track 9_10C4C929.wem</Path>
+				</File>
+				<File Id="943866122" Language="SFX">
+					<ShortName>SkiSteps\Grass\SkiStep_Grass_05.wav</ShortName>
+					<Path>SFX\SkiSteps\Grass\SkiStep_Grass_05_7036A2EA.wem</Path>
+				</File>
+				<File Id="945022782" Language="SFX">
+					<ShortName>Pig Squeel 08.wav</ShortName>
+					<Path>SFX\Pig Squeel 08_10C4C929.wem</Path>
+				</File>
+				<File Id="948055857" Language="SFX">
+					<ShortName>Pig Eating 03.wav</ShortName>
+					<Path>SFX\Pig Eating 03_10C4C929.wem</Path>
+				</File>
+				<File Id="956706283" Language="SFX">
+					<ShortName>Bird 10_01.wav</ShortName>
+					<Path>SFX\Bird 10_01_10C4C929.wem</Path>
+				</File>
+				<File Id="957343508" Language="SFX">
+					<ShortName>RustyMetal\Capstone_RustyMetal - Track 19.wav</ShortName>
+					<Path>SFX\RustyMetal\Capstone_RustyMetal - Track 19_10C4C929.wem</Path>
+				</File>
+				<File Id="963604628" Language="SFX">
+					<ShortName>WEATHER WIND Apartment, Moderate, Strange Whistling Door Gap, Moan, Argentina LOOP.wav</ShortName>
+					<Path>SFX\WEATHER WIND Apartment, Moderate, Strange Whistling Door Gap, Moan, Argentina LOOP_E784A969.wem</Path>
+				</File>
+				<File Id="965057507" Language="SFX">
+					<ShortName>RustyMetal\Capstone_RustyMetal - Track 18.wav</ShortName>
+					<Path>SFX\RustyMetal\Capstone_RustyMetal - Track 18_10C4C929.wem</Path>
+				</File>
+				<File Id="971767793" Language="SFX">
+					<ShortName>Bird 5_05.wav</ShortName>
+					<Path>SFX\Bird 5_05_10C4C929.wem</Path>
+				</File>
+				<File Id="972043451" Language="SFX">
+					<ShortName>Bird 10_02.wav</ShortName>
+					<Path>SFX\Bird 10_02_10C4C929.wem</Path>
+				</File>
+				<File Id="975757195" Language="SFX">
+					<ShortName>Bird 6_02.wav</ShortName>
+					<Path>SFX\Bird 6_02_10C4C929.wem</Path>
+				</File>
+				<File Id="981158021" Language="SFX">
+					<ShortName>Bird 5_03.wav</ShortName>
+					<Path>SFX\Bird 5_03_10C4C929.wem</Path>
+				</File>
+				<File Id="1003743824" Language="SFX">
+					<ShortName>Bird 4_02.wav</ShortName>
+					<Path>SFX\Bird 4_02_10C4C929.wem</Path>
+				</File>
+				<File Id="1005003893" Language="SFX">
+					<ShortName>SkiSteps\Grass\SkiStep_Grass_02.wav</ShortName>
+					<Path>SFX\SkiSteps\Grass\SkiStep_Grass_02_7B6048D0.wem</Path>
+				</File>
+				<File Id="1025353878" Language="SFX">
+					<ShortName>Pig Snort 11.wav</ShortName>
+					<Path>SFX\Pig Snort 11_10C4C929.wem</Path>
+				</File>
+				<File Id="1031138693" Language="SFX">
+					<ShortName>Bird 3_02.wav</ShortName>
+					<Path>SFX\Bird 3_02_10C4C929.wem</Path>
+				</File>
+				<File Id="1040804673" Language="SFX">
+					<ShortName>Capstone_Campfire_Edit.wav</ShortName>
+					<Path>SFX\Capstone_Campfire_Edit_FDBBFAD2.wem</Path>
+				</File>
+				<File Id="1050537943" Language="SFX">
+					<ShortName>Pig Eating 01.wav</ShortName>
+					<Path>SFX\Pig Eating 01_10C4C929.wem</Path>
+				</File>
+				<File Id="1053973546" Language="SFX">
+					<ShortName>Capstone_Mushrooms - fat canadian gurg1.wav</ShortName>
+					<Path>SFX\Capstone_Mushrooms - fat canadian gurg1_10C4C929.wem</Path>
+				</File>
+				<File Id="1054481859" Language="SFX">
+					<ShortName>Pig Squeel 04.wav</ShortName>
+					<Path>SFX\Pig Squeel 04_10C4C929.wem</Path>
+				</File>
+				<File Id="1058627170" Language="SFX">
+					<ShortName>SkiSteps\Grass\SkiStep_Grass_07.wav</ShortName>
+					<Path>SFX\SkiSteps\Grass\SkiStep_Grass_07_2A13AE76.wem</Path>
+				</File>
+				<File Id="1059418581" Language="SFX">
+					<ShortName>Capstone_Mushrooms - pus pool8.wav</ShortName>
+					<Path>SFX\Capstone_Mushrooms - pus pool8_10C4C929.wem</Path>
+				</File>
+				<File Id="1061900432" Language="SFX">
+					<ShortName>Pig Snort 09.wav</ShortName>
+					<Path>SFX\Pig Snort 09_10C4C929.wem</Path>
+				</File>
+				<File Id="1064118766" Language="SFX">
+					<ShortName>Scary_Breath_Whoosh_05.wav</ShortName>
+					<Path>SFX\Scary_Breath_Whoosh_05_10C4C929.wem</Path>
+				</File>
+				<File Id="1067766762" Language="SFX">
+					<ShortName>Metal_Creak_Van_Door_Back_and_Forth_Various_CO100k.wav</ShortName>
+					<Path>SFX\Metal_Creak_Van_Door_Back_and_Forth_Various_CO100k_30708449.wem</Path>
 				</File>
 			</IncludedMemoryFiles>
 			<SwitchGroups>
@@ -1104,7 +1698,7 @@
 				</SwitchGroup>
 			</SwitchGroups>
 		</SoundBank>
-		<SoundBank Id="1355168291" Language="SFX" Hash="420565626">
+		<SoundBank Id="1355168291" Language="SFX" Hash="2750618349">
 			<ObjectPath>Init</ObjectPath>
 			<ShortName>Init</ShortName>
 			<Path>Init.bnk</Path>

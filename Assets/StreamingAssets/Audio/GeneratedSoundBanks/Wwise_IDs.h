@@ -60,6 +60,8 @@ namespace AK
         static const AkUniqueID PLAY_WELLSOUNDS = 1070750506U;
         static const AkUniqueID PLAY_YETICLOSEROAR = 4221696391U;
         static const AkUniqueID PLAY_YETIFARROAR = 4088205656U;
+        static const AkUniqueID STOP_DRAMATICAESTHETICPADMAGICAL_JINGLEROOM = 2857359649U;
+        static const AkUniqueID STOP_MUSHROOMSJINGLE_JINGLEROOM = 513675903U;
     } // namespace EVENTS
 
     namespace SWITCHES
@@ -77,6 +79,11 @@ namespace AK
         } // namespace SKIING
 
     } // namespace SWITCHES
+
+    namespace GAME_PARAMETERS
+    {
+        static const AkUniqueID NEW_GAME_PARAMETER = 3671138082U;
+    } // namespace GAME_PARAMETERS
 
     namespace BANKS
     {

@@ -106,12 +106,19 @@ public class AN_Button : MonoBehaviour
         }
     }
 
+    [Header("Wwise Event When Lever Activated")]
+    public AK.Wwise.Event WwiseEvent; //event input here
+
     private void Activate(XRBaseInteractor interactor)
     {
         DoorObject.Action(); // void in door script to open/close
         if (isLever) // animations
         {
-            if (DoorObject.isOpened) anim.SetBool("LeverUp", true);
+            if (DoorObject.isOpened)
+            {
+                WwiseEvent.Post(gameObject); //play the sound/event
+                anim.SetBool("LeverUp", true);
+            } 
             else anim.SetBool("LeverUp", false);
         }
         else anim.SetTrigger("ButtonPress");

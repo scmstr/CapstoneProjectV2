@@ -10,8 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fe84de5897955964f9d9621e321e231f, type: 3}
-  m_Name: B1987DD6-E0E5-45CE-B040-D2FCF718CE1C
+  m_Name: AB0DB547-F3B8-4A9C-A8A5-02A04636A917
   m_EditorClassIdentifier: 
-  objectName: Skiing
-  id: 1899905172
-  guid: B1987DD6-E0E5-45CE-B040-D2FCF718CE1C
+  objectName: Play_Campfire
+  id: 4000411161
+  guid: AB0DB547-F3B8-4A9C-A8A5-02A04636A917

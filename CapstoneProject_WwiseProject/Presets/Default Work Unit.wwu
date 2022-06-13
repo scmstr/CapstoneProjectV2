@@ -1,6 +1,174 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{87CD6E0C-2E4F-4B0B-BDC2-10D7FE42B596}" SchemaVersion="103">
 	<Presets>
-		<WorkUnit Name="Default Work Unit" ID="{87CD6E0C-2E4F-4B0B-BDC2-10D7FE42B596}" PersistMode="Standalone"/>
+		<WorkUnit Name="Default Work Unit" ID="{87CD6E0C-2E4F-4B0B-BDC2-10D7FE42B596}" PersistMode="Standalone">
+			<ChildrenList>
+				<Effect Name="ski valley subtle master" ID="{81C99D58-D63C-428A-BD1D-066FBE1338EE}" PluginName="Wwise RoomVerb" CompanyID="0" PluginID="118" PluginType="3">
+					<PropertyList>
+						<Property Name="DecayTime" Type="Real32" Value="4.1"/>
+						<Property Name="Density" Type="Real32" Value="100"/>
+						<Property Name="DryLevel" Type="Real32" Value="-0.3"/>
+						<Property Name="ERFrontBackDelay" Type="Real32" Value="100"/>
+						<Property Name="ERLevel" Type="Real32" Value="-37"/>
+						<Property Name="ERPattern" Type="int32" Value="29"/>
+						<Property Name="Filter1Freq" Type="Real32" Value="210"/>
+						<Property Name="Filter1Gain" Type="Real32" Value="1.5"/>
+						<Property Name="Filter2Freq" Type="Real32" Value="6830"/>
+						<Property Name="Filter2Gain" Type="Real32" Value="-7.5"/>
+						<Property Name="Filter2Q" Type="Real32" Value="0.65"/>
+						<Property Name="Filter3Freq" Type="Real32" Value="8440"/>
+						<Property Name="Filter3Gain" Type="Real32" Value="-4"/>
+						<Property Name="HFDamping" Type="Real32" Value="10"/>
+						<Property Name="PreDelay" Type="Real32" Value="200"/>
+						<Property Name="ReverbLevel" Type="Real32" Value="-53"/>
+						<Property Name="RoomSize" Type="Real32" Value="100"/>
+						<Property Name="StereoWidth" Type="Real32" Value="171"/>
+					</PropertyList>
+				</Effect>
+				<Attenuation Name="Chickencoop Attenuation" ID="{359E8DDC-AAD1-4992-B466-9D4FB31FD859}">
+					<PropertyList>
+						<Property Name="RadiusMax" Type="Real64" Value="30"/>
+					</PropertyList>
+					<CurveUsageInfoList>
+						<VolumeDryUsage>
+							<CurveUsageInfo Platform="Linked" CurveToUse="Custom">
+								<Curve Name="VolumeDry" ID="{A41A5BC7-4DFB-4FAC-AECD-D7B3B078781B}">
+									<PropertyList>
+										<Property Name="Flags" Type="int32" Value="3"/>
+									</PropertyList>
+									<PointList>
+										<Point>
+											<XPos>0</XPos>
+											<YPos>0</YPos>
+											<Flags>5</Flags>
+										</Point>
+										<Point>
+											<XPos>3.1701</XPos>
+											<YPos>-2.22353</YPos>
+											<Flags>0</Flags>
+										</Point>
+										<Point>
+											<XPos>11.79124</XPos>
+											<YPos>-6.09578</YPos>
+											<Flags>0</Flags>
+										</Point>
+										<Point>
+											<XPos>23.89175</XPos>
+											<YPos>-24.97956</YPos>
+											<Flags>0</Flags>
+										</Point>
+										<Point>
+											<XPos>30</XPos>
+											<YPos>-200</YPos>
+											<Flags>37</Flags>
+										</Point>
+									</PointList>
+								</Curve>
+							</CurveUsageInfo>
+						</VolumeDryUsage>
+						<VolumeWetGameUsage>
+							<CurveUsageInfo Platform="Linked" CurveToUse="UseVolumeDry"/>
+						</VolumeWetGameUsage>
+						<VolumeWetUserUsage>
+							<CurveUsageInfo Platform="Linked" CurveToUse="UseVolumeDry"/>
+						</VolumeWetUserUsage>
+						<LowPassFilterUsage>
+							<CurveUsageInfo Platform="Linked" CurveToUse="Custom">
+								<Curve Name="LowPassFilter" ID="{A91B5D23-3614-4305-91DF-7EAADB96AB65}">
+									<PropertyList>
+										<Property Name="Flags" Type="int32" Value="65537"/>
+									</PropertyList>
+									<PointList>
+										<Point>
+											<XPos>0</XPos>
+											<YPos>0</YPos>
+											<Flags>5</Flags>
+										</Point>
+										<Point>
+											<XPos>15.27062</XPos>
+											<YPos>35</YPos>
+											<Flags>0</Flags>
+										</Point>
+										<Point>
+											<XPos>30</XPos>
+											<YPos>50</YPos>
+											<Flags>37</Flags>
+										</Point>
+									</PointList>
+								</Curve>
+							</CurveUsageInfo>
+						</LowPassFilterUsage>
+						<HighPassFilterUsage>
+							<CurveUsageInfo Platform="Linked" CurveToUse="Custom">
+								<Curve Name="HighPassFilter" ID="{61293CF4-EC84-4B5B-8619-9D2D1D0CE7FE}">
+									<PropertyList>
+										<Property Name="Flags" Type="int32" Value="65537"/>
+									</PropertyList>
+									<PointList>
+										<Point>
+											<XPos>0</XPos>
+											<YPos>0</YPos>
+											<Flags>5</Flags>
+										</Point>
+										<Point>
+											<XPos>10.20619</XPos>
+											<YPos>39</YPos>
+											<Flags>0</Flags>
+										</Point>
+										<Point>
+											<XPos>30</XPos>
+											<YPos>69</YPos>
+											<Flags>37</Flags>
+										</Point>
+									</PointList>
+								</Curve>
+							</CurveUsageInfo>
+						</HighPassFilterUsage>
+						<SpreadUsage>
+							<CurveUsageInfo Platform="Linked" CurveToUse="Custom">
+								<Curve Name="Spread" ID="{03CE510D-24DC-4817-9183-9B7AC39C9B94}">
+									<PropertyList>
+										<Property Name="Flags" Type="int32" Value="1"/>
+									</PropertyList>
+									<PointList>
+										<Point>
+											<XPos>0</XPos>
+											<YPos>100</YPos>
+											<Flags>5</Flags>
+										</Point>
+										<Point>
+											<XPos>30</XPos>
+											<YPos>11.18012</YPos>
+											<Flags>37</Flags>
+										</Point>
+									</PointList>
+								</Curve>
+							</CurveUsageInfo>
+						</SpreadUsage>
+						<FocusUsage>
+							<CurveUsageInfo Platform="Linked" CurveToUse="Custom">
+								<Curve Name="Focus" ID="{94F5ECBF-6045-4104-B4F4-70B716C48EE0}">
+									<PropertyList>
+										<Property Name="Flags" Type="int32" Value="1"/>
+									</PropertyList>
+									<PointList>
+										<Point>
+											<XPos>0</XPos>
+											<YPos>100</YPos>
+											<Flags>5</Flags>
+										</Point>
+										<Point>
+											<XPos>30</XPos>
+											<YPos>15.21739</YPos>
+											<Flags>37</Flags>
+										</Point>
+									</PointList>
+								</Curve>
+							</CurveUsageInfo>
+						</FocusUsage>
+					</CurveUsageInfoList>
+				</Attenuation>
+			</ChildrenList>
+		</WorkUnit>
 	</Presets>
 </WwiseDocument>

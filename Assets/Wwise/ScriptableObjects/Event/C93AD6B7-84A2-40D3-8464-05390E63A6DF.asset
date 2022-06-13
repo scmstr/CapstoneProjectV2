@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe84de5897955964f9d9621e321e231f, type: 3}
+  m_Name: C93AD6B7-84A2-40D3-8464-05390E63A6DF
+  m_EditorClassIdentifier: 
+  objectName: Play_SpringtimeForestWithBirds_DeerCorner
+  id: 2289383981
+  guid: C93AD6B7-84A2-40D3-8464-05390E63A6DF

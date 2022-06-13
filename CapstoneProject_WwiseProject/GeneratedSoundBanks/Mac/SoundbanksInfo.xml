@@ -11,7 +11,7 @@
 	<StreamedFiles/>
 	<MediaFilesNotInAnyBank/>
 	<SoundBanks>
-		<SoundBank Id="29489552" Language="SFX" Hash="2925714376">
+		<SoundBank Id="29489552" Language="SFX" Hash="2782058329">
 			<ObjectPath>\SoundBanks\Default Work Unit\Soundbank_Main</ObjectPath>
 			<ShortName>Soundbank_Main</ShortName>
 			<Path>Soundbank_Main.bnk</Path>
@@ -943,7 +943,7 @@
 					<IncludedMemoryFiles>
 						<File Id="323829920" Language="SFX">
 							<ShortName>PD32,Polystyrene,Designed,Alien,Bug,Insect,Wing,Flapping,Squeaky,Weird.wav</ShortName>
-							<Path>SFX\PD32,Polystyrene,Designed,Alien,Bug,Insect,Wing,Flapping,Squeaky,Weird_B3823D6B.wem</Path>
+							<Path>SFX\PD32,Polystyrene,Designed,Alien,Bug,Insect,Wing,Flapping,Squeaky,Weird_B8B067A3.wem</Path>
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
@@ -1185,7 +1185,7 @@
 				</File>
 				<File Id="323829920" Language="SFX">
 					<ShortName>PD32,Polystyrene,Designed,Alien,Bug,Insect,Wing,Flapping,Squeaky,Weird.wav</ShortName>
-					<Path>SFX\PD32,Polystyrene,Designed,Alien,Bug,Insect,Wing,Flapping,Squeaky,Weird_B3823D6B.wem</Path>
+					<Path>SFX\PD32,Polystyrene,Designed,Alien,Bug,Insect,Wing,Flapping,Squeaky,Weird_B8B067A3.wem</Path>
 				</File>
 				<File Id="325741146" Language="SFX">
 					<ShortName>Chicken Wings 04.wav</ShortName>

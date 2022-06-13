@@ -4,19 +4,18 @@
 		<WorkUnit Name="Default Work Unit" ID="{13CF2C78-EE39-43E0-9FD2-7F3CCE34A041}" PersistMode="Standalone">
 			<ChildrenList>
 				<Bus Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}">
-					<PropertyList>
-						<Property Name="BypassEffect1" Type="bool">
-							<ValueList>
-								<Value>True</Value>
-							</ValueList>
-						</Property>
-					</PropertyList>
 					<ReferenceList>
 						<Reference Name="AudioDevice">
 							<ObjectRef Name="System" ID="{986807BB-C46B-415A-9C90-AE43A37CA403}" WorkUnitID="{1C8A207A-11C1-490C-9DA5-A61958E290D4}"/>
 						</Reference>
-						<Reference Name="Effect1" PluginName="Wwise RoomVerb" CompanyID="0" PluginID="118" PluginType="3">
+						<Reference Name="Effect0" PluginName="Wwise RoomVerb" CompanyID="0" PluginID="118" PluginType="3">
 							<ObjectRef Name="Church_Small_Wood" ID="{940CCB47-F031-4C6A-B0E6-726CAC418C02}" WorkUnitID="{E8613F7D-BAD3-45CD-A3ED-505576F31277}"/>
+						</Reference>
+						<Reference Name="Effect1" PluginName="Wwise RoomVerb" CompanyID="0" PluginID="118" PluginType="3">
+							<ObjectRef Name="Have_U_Ever_Been_Outside" ID="{FE29AE8D-FD86-4652-A95D-68D32F5760EC}" WorkUnitID="{E8613F7D-BAD3-45CD-A3ED-505576F31277}"/>
+						</Reference>
+						<Reference Name="Effect3" PluginName="Wwise Peak Limiter" CompanyID="0" PluginID="110" PluginType="3">
+							<ObjectRef Name="New_Wwise_Peak_Limiter" ID="{CF1BFFF4-9513-4A5B-9CD1-62AFAB0F6E3F}" WorkUnitID="{CC54E8DC-49DA-4F3B-833E-426FE14DD0E1}"/>
 						</Reference>
 					</ReferenceList>
 					<ObjectLists/>

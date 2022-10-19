@@ -11,7 +11,7 @@
 	<StreamedFiles/>
 	<MediaFilesNotInAnyBank/>
 	<SoundBanks>
-		<SoundBank Id="29489552" Language="SFX" Hash="2782058329">
+		<SoundBank Id="29489552" Language="SFX" Hash="2282489602">
 			<ObjectPath>\SoundBanks\Default Work Unit\Soundbank_Main</ObjectPath>
 			<ShortName>Soundbank_Main</ShortName>
 			<Path>Soundbank_Main.bnk</Path>
@@ -838,7 +838,14 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="2403214019" Name="Play_Singapore_Ambiences___Hort_Park__Southern_Ridges__Forest__Air_Tone__Leaves_Rustle__Heavy_Traffic__Birds_Squawk__Light_Cicadas" ObjectPath="\Events\Default Work Unit\Area Ambience\Play_Singapore_Ambiences___Hort_Park__Southern_Ridges__Forest__Air_Tone__Leaves_Rustle__Heavy_Traffic__Birds_Squawk__Light_Cicadas" DurationType="OneShot" DurationMin="0." DurationMax="0."/>
+				<Event Id="2403214019" Name="Play_Singapore_Ambiences___Hort_Park__Southern_Ridges__Forest__Air_Tone__Leaves_Rustle__Heavy_Traffic__Birds_Squawk__Light_Cicadas" ObjectPath="\Events\Default Work Unit\Area Ambience\Play_Singapore_Ambiences___Hort_Park__Southern_Ridges__Forest__Air_Tone__Leaves_Rustle__Heavy_Traffic__Birds_Squawk__Light_Cicadas" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="236079402" Language="SFX">
+							<ShortName>Singapore Ambiences - Hort Park, Southern Ridges, Forest, Air Tone, Leaves Rustle, Heavy Traffic, Birds Squawk, Light Cicadas.wav</ShortName>
+							<Path>SFX\Singapore Ambiences - Hort Park, Southern Ridges, Forest, Air Tone, Leaves Rustle, Heavy Traffic, Birds Squawk, Light Cicadas_0BD47419.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
 				<Event Id="4206345331" Name="Play_Skiing" ObjectPath="\Events\Default Work Unit\Play_Skiing" DurationType="OneShot" DurationMin="1.492069" DurationMax="2.385229">
 					<IncludedMemoryFiles>
 						<File Id="82767921" Language="SFX">
@@ -967,7 +974,7 @@
 					<IncludedMemoryFiles>
 						<File Id="592336163" Language="SFX">
 							<ShortName>EFX SD Sheltered from the Wind 02.wav</ShortName>
-							<Path>SFX\EFX SD Sheltered from the Wind 02_72AAA8DA.wem</Path>
+							<Path>SFX\EFX SD Sheltered from the Wind 02_CEEA445F.wem</Path>
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
@@ -1142,6 +1149,10 @@
 				<File Id="235630109" Language="SFX">
 					<ShortName>Bird 1_04.wav</ShortName>
 					<Path>SFX\Bird 1_04_10C4C929.wem</Path>
+				</File>
+				<File Id="236079402" Language="SFX">
+					<ShortName>Singapore Ambiences - Hort Park, Southern Ridges, Forest, Air Tone, Leaves Rustle, Heavy Traffic, Birds Squawk, Light Cicadas.wav</ShortName>
+					<Path>SFX\Singapore Ambiences - Hort Park, Southern Ridges, Forest, Air Tone, Leaves Rustle, Heavy Traffic, Birds Squawk, Light Cicadas_0BD47419.wem</Path>
 				</File>
 				<File Id="241780049" Language="SFX">
 					<ShortName>Cinematic.wav</ShortName>
@@ -1385,7 +1396,7 @@
 				</File>
 				<File Id="592336163" Language="SFX">
 					<ShortName>EFX SD Sheltered from the Wind 02.wav</ShortName>
-					<Path>SFX\EFX SD Sheltered from the Wind 02_72AAA8DA.wem</Path>
+					<Path>SFX\EFX SD Sheltered from the Wind 02_CEEA445F.wem</Path>
 				</File>
 				<File Id="609795580" Language="SFX">
 					<ShortName>RustyMetal\Capstone_RustyMetal - REC.wav</ShortName>

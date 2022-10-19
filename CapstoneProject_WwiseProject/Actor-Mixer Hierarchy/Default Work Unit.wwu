@@ -61,11 +61,6 @@
 										<Value>41</Value>
 									</ValueList>
 								</Property>
-								<Property Name="Inclusion" Type="bool">
-									<ValueList>
-										<Value>False</Value>
-									</ValueList>
-								</Property>
 								<Property Name="IsLoopingEnabled" Type="bool" Value="True"/>
 								<Property Name="Lowpass" Type="int16">
 									<ValueList>
@@ -124,7 +119,7 @@
 								<Property Name="IsLoopingEnabled" Type="bool" Value="True"/>
 								<Property Name="MakeUpGain" Type="Real64">
 									<ValueList>
-										<Value>-16</Value>
+										<Value>-3</Value>
 									</ValueList>
 								</Property>
 							</PropertyList>
@@ -689,7 +684,7 @@
 										</Property>
 										<Property Name="Volume" Type="Real64">
 											<ValueList>
-												<Value>-3</Value>
+												<Value>-4</Value>
 											</ValueList>
 										</Property>
 									</PropertyList>
@@ -2322,18 +2317,28 @@
 										<Property Name="EnableDiffraction" Type="bool" Value="True"/>
 										<Property Name="Highpass" Type="int16">
 											<ValueList>
-												<Value>41</Value>
+												<Value>35</Value>
 											</ValueList>
 										</Property>
 										<Property Name="IsLoopingEnabled" Type="bool" Value="True"/>
 										<Property Name="Lowpass" Type="int16">
 											<ValueList>
-												<Value>33</Value>
+												<Value>43</Value>
 											</ValueList>
 										</Property>
 										<Property Name="MakeUpGain" Type="Real64">
 											<ValueList>
 												<Value>21</Value>
+											</ValueList>
+										</Property>
+										<Property Name="Pitch" Type="int32">
+											<ValueList>
+												<Value>-860</Value>
+											</ValueList>
+										</Property>
+										<Property Name="Volume" Type="Real64">
+											<ValueList>
+												<Value>-4</Value>
 											</ValueList>
 										</Property>
 									</PropertyList>
@@ -2508,6 +2513,12 @@
 										<Reference Name="Conversion">
 											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{AD726845-0349-473E-9C8A-7CBCB0151FCC}"/>
 										</Reference>
+										<Reference Name="Effect0" PluginName="Wwise Stereo Delay" CompanyID="0" PluginID="135" PluginType="3">
+											<ObjectRef Name="Personnel_Advisor" ID="{B78063AF-DC4F-4D1D-B4AB-B3487BE02D7F}" WorkUnitID="{E8613F7D-BAD3-45CD-A3ED-505576F31277}"/>
+										</Reference>
+										<Reference Name="Effect1" PluginName="Wwise RoomVerb" CompanyID="0" PluginID="118" PluginType="3">
+											<ObjectRef Name="Holy" ID="{CC7B8638-C670-4AD5-B3FB-331EA81037F6}" WorkUnitID="{E8613F7D-BAD3-45CD-A3ED-505576F31277}"/>
+										</Reference>
 										<Reference Name="OutputBus">
 											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{13CF2C78-EE39-43E0-9FD2-7F3CCE34A041}"/>
 										</Reference>
@@ -2515,13 +2526,18 @@
 									<ChildrenList>
 										<AudioFileSource Name="EFX SD Sheltered from the Wind 02" ID="{9468A562-A5B1-4F33-B8F2-E84E14714043}">
 											<PropertyList>
-												<Property Name="CrossfadeDuration" Type="Real64" Value="5094.554"/>
-												<Property Name="FadeInDuration" Type="Real64" Value="4.3518030166185"/>
+												<Property Name="CrossfadeDuration" Type="Real64" Value="1698.185"/>
+												<Property Name="FadeInDuration" Type="Real64" Value="3.22265127777335"/>
 												<Property Name="FadeOutDuration" Type="Real64" Value="3.10843072615606"/>
-												<Property Name="LoopBegin" Type="Real64" Value="10.257821396315"/>
+												<Property Name="LoopBegin" Type="Real64" Value="17.3150197640972"/>
 												<Property Name="LoopEnd" Type="Real64" Value="208.575701725072"/>
 												<Property Name="OverrideWavLoop" Type="bool" Value="True"/>
-												<Property Name="TrimBegin" Type="Real64" Value="4.66264608923411"/>
+												<Property Name="TrimBegin" Type="Real64" Value="15.1072996735517"/>
+												<Property Name="VolumeOffset" Type="Real64">
+													<ValueList>
+														<Value>24</Value>
+													</ValueList>
+												</Property>
 											</PropertyList>
 											<Language>SFX</Language>
 											<AudioFile>EFX SD Sheltered from the Wind 02.wav</AudioFile>

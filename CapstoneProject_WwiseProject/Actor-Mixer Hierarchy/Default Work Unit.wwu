@@ -528,6 +528,11 @@
 										<Value>5</Value>
 									</ValueList>
 								</Property>
+								<Property Name="Volume" Type="Real64">
+									<ValueList>
+										<Value>7</Value>
+									</ValueList>
+								</Property>
 							</PropertyList>
 							<ReferenceList>
 								<Reference Name="Conversion">
@@ -684,7 +689,7 @@
 										</Property>
 										<Property Name="Volume" Type="Real64">
 											<ValueList>
-												<Value>-4</Value>
+												<Value>-5</Value>
 											</ValueList>
 										</Property>
 									</PropertyList>
@@ -4367,6 +4372,11 @@
 									<PropertyList>
 										<Property Name="3DSpatialization" Type="int16" Value="2"/>
 										<Property Name="EnableDiffraction" Type="bool" Value="True"/>
+										<Property Name="Highpass" Type="int16">
+											<ValueList>
+												<Value>55</Value>
+											</ValueList>
+										</Property>
 										<Property Name="MakeUpGain" Type="Real64">
 											<ModifierList>
 												<ModifierInfo>
@@ -4390,6 +4400,11 @@
 													</Modifier>
 												</ModifierInfo>
 											</ModifierList>
+										</Property>
+										<Property Name="Volume" Type="Real64">
+											<ValueList>
+												<Value>-2</Value>
+											</ValueList>
 										</Property>
 									</PropertyList>
 									<ReferenceList>

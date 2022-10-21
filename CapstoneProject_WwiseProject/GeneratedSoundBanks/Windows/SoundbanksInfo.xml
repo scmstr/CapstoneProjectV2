@@ -11,7 +11,7 @@
 	<StreamedFiles/>
 	<MediaFilesNotInAnyBank/>
 	<SoundBanks>
-		<SoundBank Id="29489552" Language="SFX" Hash="2282489602">
+		<SoundBank Id="29489552" Language="SFX" Hash="2614402658">
 			<ObjectPath>\SoundBanks\Default Work Unit\Soundbank_Main</ObjectPath>
 			<ShortName>Soundbank_Main</ShortName>
 			<Path>Soundbank_Main.bnk</Path>
@@ -974,7 +974,7 @@
 					<IncludedMemoryFiles>
 						<File Id="592336163" Language="SFX">
 							<ShortName>EFX SD Sheltered from the Wind 02.wav</ShortName>
-							<Path>SFX\EFX SD Sheltered from the Wind 02_CEEA445F.wem</Path>
+							<Path>SFX\EFX SD Sheltered from the Wind 02_50422DE9.wem</Path>
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
@@ -1396,7 +1396,7 @@
 				</File>
 				<File Id="592336163" Language="SFX">
 					<ShortName>EFX SD Sheltered from the Wind 02.wav</ShortName>
-					<Path>SFX\EFX SD Sheltered from the Wind 02_CEEA445F.wem</Path>
+					<Path>SFX\EFX SD Sheltered from the Wind 02_50422DE9.wem</Path>
 				</File>
 				<File Id="609795580" Language="SFX">
 					<ShortName>RustyMetal\Capstone_RustyMetal - REC.wav</ShortName>
@@ -1709,7 +1709,7 @@
 				</SwitchGroup>
 			</SwitchGroups>
 		</SoundBank>
-		<SoundBank Id="1355168291" Language="SFX" Hash="2750618349">
+		<SoundBank Id="1355168291" Language="SFX" Hash="387483489">
 			<ObjectPath>Init</ObjectPath>
 			<ShortName>Init</ShortName>
 			<Path>Init.bnk</Path>

@@ -82,7 +82,7 @@ public class AN_DoorScript : MonoBehaviour
                 WwiseEvent.Post(gameObject); //play the sound/event
                 WwiseEvent2.Post(gameObject); //play the sound/event
                 isOpened = true;
-                rbDoor.AddRelativeTorque(new Vector3(0, 0, 200f)); 
+                rbDoor.AddRelativeTorque(new Vector3(0, 0, 100f)); 
 
             }
         

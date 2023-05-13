@@ -1,7 +1,7 @@
 # CapstoneProjectV2
 
 # Overview:
-This is the main repo for the SKI GAME Capstone project for Bellevue College's Team Tiger Shoes, contracted with MXT Technologies. This project is a first-person, cross-country, adventure VR game, designed 100% for quadriplegic accessability made by 7 students during a two-quarter long capstone program. It is still in progress, but was called "done" at the end of the program, as that was the scope of the exercise.
+This is the main repo (most current branch is sprint7-MAIN) for the SKI GAME Capstone project for Bellevue College's Team Tiger Shoes, contracted with MXT Technologies. This project is a first-person, cross-country, adventure VR game, designed 100% for quadriplegic accessability made by 7 students during a two-quarter long capstone program. It is still in progress, but was called "done" at the end of the program, as that was the scope of the exercise.
 
 I am personally continuing this project because I believe it is a really cool project that I want to be able to show off and share, perhaps even release if it gets that far. But, for now, is simply slated to be a proof of concept and showcase of skills of the original students.
 

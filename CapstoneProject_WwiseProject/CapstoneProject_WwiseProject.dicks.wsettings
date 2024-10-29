@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="UserProjectSettings" SchemaVersion="103">
 	<UserProjectSettingsInfo>
-		<UserProjectSettings Name="" ID="{A368AB71-0682-4E14-BDAA-8B4AAEA577FA}">
+		<UserProjectSettings Name="" ID="{A73506E5-E052-4AD0-BC58-2ED7DD011394}">
 			<PropertyList>
-				<Property Name="Event Action List\{4C334644-CC6B-46D7-9B19-7950C2069B74}\x64_Expand States" Type="string" Value=""/>
-				<Property Name="Event Action List\{B1987DD6-E0E5-45CE-B040-D2FCF718CE1C}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Event Action List\{225323AC-EFE1-4CA3-952F-88416B52B867}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Event Action List\{3C4E0942-BEB1-4BE5-847A-C0437A79462C}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Event Action List\{6D00088E-B8B4-4D68-814F-F9B44FEA1049}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Event Action List\{87144DC7-659F-403D-9304-0B0AA31EBE17}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Event Action List\{92C1F782-7510-4272-BA71-202A01294AE9}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Event Action List\{A3CCBDED-CD2A-49BA-8480-236A8D02F981}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Event Action List\{A47F737F-78C5-4608-874C-DCF2390CBFE3}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Event Action List\{B3F6D85B-FF1A-4B33-A336-F79320B6DE38}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Event Action List\{B8DC30CD-B2AF-4F7F-AEA7-51ACD20722A1}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Event Action List\{BABE3578-792F-437B-9836-C8F9722DA631}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Event Action List\{C7CE180E-C81B-4EB0-9E76-94D6BEDD4969}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Event Action List\{C98A8B78-C792-4324-9704-40EF20EDBB7E}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Event Action List\{CF511B4C-014C-4081-9B79-60F80E1A12F2}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Event Action List\{D61F3D32-C958-494C-866A-0E02EF42BF49}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Event Action List\{EF2966A1-27D1-4A27-A387-559F351293D2}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Event Action List\{FD3D9C21-303C-4D35-86D6-E297323D3EFE}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="EventView\FilterMode1" Type="int32" Value="2"/>
 				<Property Name="ExternalSourcesInputPath" Type="string">
 					<ValueList>
@@ -20,12 +34,11 @@
 				</Property>
 				<Property Name="Game Profiler\Voice Monitor\LastBus" Type="string" Value="{00000000-0000-0000-0000-000000000000}"/>
 				<Property Name="General\LatestLanguage" Type="int32" Value="684519430"/>
-				<Property Name="General\LatestPlatform" Type="string" Value="Mac"/>
-				<Property Name="GenerateSoundBanks\x64_SelectedLanguages" Type="string" Value="BvDMKA=="/>
-				<Property Name="GenerateSoundBanks\x64_SelectedPlatforms" Type="string" Value="LNbRv0ZEVEmO4pVWEwRwXjUqKrZWyFxFh5U/s4A+SUA="/>
+				<Property Name="General\LatestPlatform" Type="string" Value="Windows"/>
+				<Property Name="GenerateSoundBanks\x64_SelectedLanguages" Type="string" Value=""/>
+				<Property Name="GenerateSoundBanks\x64_SelectedPlatforms" Type="string" Value=""/>
 				<Property Name="GenerateSoundBanks\x64_SelectedSoundBanks" Type="string" Value="IZTzeS5v/keHOZMAY+j1wg=="/>
-				<Property Name="HardwareController\CurrentSession" Type="string" Value="{2451DD2E-A7B2-45E6-B93B-6F49B9B887AD}"/>
-				<Property Name="HardwareController\{2451DD2E-A7B2-45E6-B93B-6F49B9B887AD}\x64_ActiveGroups" Type="string" Value="67wrLzxcZke0blN24+MTRAEnTUv/////wS5MLlCTCkqU1O9QDdwjOwEnTUv/////"/>
+				<Property Name="HardwareController\CurrentSession" Type="string" Value="{00000000-0000-0000-0000-000000000000}"/>
 				<Property Name="MeterView\LastObject1" Type="string" Value="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}"/>
 				<Property Name="MeterView\MeterMode1" Type="int32" Value="1"/>
 				<Property Name="MeterView\MeterMode1Viewpoint0" Type="int32" Value="1"/>
@@ -56,14 +69,15 @@
 				<Property Name="ProjectExplorer\x64_Expanded_20_1" Type="string" Value=""/>
 				<Property Name="ProjectExplorer\x64_Expanded_21_1" Type="string" Value=""/>
 				<Property Name="ProjectExplorer\x64_Expanded_22_1" Type="string" Value=""/>
-				<Property Name="ProjectExplorer\x64_Expanded_2_1" Type="string" Value=""/>
-				<Property Name="ProjectExplorer\x64_Expanded_3_1" Type="string" Value="9ltTQlMtgkWXlyDaiuUXpmIPJi0N8jtJiQYSDDcB2iCcBDALI+oxTKHXrTFY+GmJ"/>
-				<Property Name="ProjectExplorer\x64_Expanded_4_1" Type="string" Value="ZmO7hbPxf0SMyPvOOErsRQ=="/>
+				<Property Name="ProjectExplorer\x64_Expanded_2_1" Type="string" Value="eCzPEznu4EOf0n88zjSgQQ=="/>
+				<Property Name="ProjectExplorer\x64_Expanded_3_1" Type="string" Value="sedz3CNrJUG1MBs3Z8h5PN9/hSRtO8xCnuvZLikTvrhiDyYtDfI7SYkGEgw3AdognAQwCyPqMUyh160xWPhpid1QgNlOik1NoVe03L9WMtA="/>
+				<Property Name="ProjectExplorer\x64_Expanded_4_1" Type="string" Value="ZmO7hbPxf0SMyPvOOErsRUD4dE5pE5dPjvV+9PXqStg="/>
 				<Property Name="ProjectExplorer\x64_Expanded_5_1" Type="string" Value="cb0DyZ5K/kW1OuJErcUiOUVI285iWCRJjKcCGIOIS6k="/>
 				<Property Name="ProjectExplorer\x64_Expanded_6_1" Type="string" Value=""/>
-				<Property Name="ProjectExplorer\x64_Expanded_7_1" Type="string" Value="O2sYaB+HYECNXkLIwfec1A=="/>
+				<Property Name="ProjectExplorer\x64_Expanded_7_1" Type="string" Value=""/>
 				<Property Name="ProjectExplorer\x64_Expanded_8_1" Type="string" Value=""/>
 				<Property Name="ProjectExplorer\x64_Expanded_9_1" Type="string" Value=""/>
+				<Property Name="RTPC\GameParameterSimValue\{C3BFA8EA-C527-4C91-BB1B-F34DBBC3DE98}" Type="Real64" Value="50"/>
 				<Property Name="SoundBank Manager\x64_Expand States" Type="string" Value="O2sYaB+HYECNXkLIwfec1A=="/>
 				<Property Name="SoundBankHeaderFilePath" Type="string" Value="GeneratedSoundBanks\"/>
 				<Property Name="SoundBankPaths" Type="string">

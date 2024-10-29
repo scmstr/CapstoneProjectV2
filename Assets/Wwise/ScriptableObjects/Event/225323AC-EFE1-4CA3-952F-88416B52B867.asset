@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe84de5897955964f9d9621e321e231f, type: 3}
+  m_Name: 225323AC-EFE1-4CA3-952F-88416B52B867
+  m_EditorClassIdentifier: 
+  objectName: Play_MetalTap
+  id: 2976128310
+  guid: 225323AC-EFE1-4CA3-952F-88416B52B867

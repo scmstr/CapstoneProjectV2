@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe84de5897955964f9d9621e321e231f, type: 3}
+  m_Name: 77FA430D-7908-49FD-B1FC-63DE61C02C48
+  m_EditorClassIdentifier: 
+  objectName: Play_FernRattle
+  id: 1451580931
+  guid: 77FA430D-7908-49FD-B1FC-63DE61C02C48

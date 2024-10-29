@@ -1,26 +1,253 @@
 Event	ID	Name			Wwise Object Path	Notes
-	1899905172	Skiing			\Default Work Unit\Skiing	
-	2403214019	Play_Singapore_Ambiences___Hort_Park__Southern_Ridges__Forest__Air_Tone__Leaves_Rustle__Heavy_Traffic__Birds_Squawk__Light_Cicadas			\Default Work Unit\Play_Singapore_Ambiences___Hort_Park__Southern_Ridges__Forest__Air_Tone__Leaves_Rustle__Heavy_Traffic__Birds_Squawk__Light_Cicadas	
+	46241300	Enable_Tunnel_Reverb			\Default Work Unit\Reverb Control\Enable_Tunnel_Reverb	
+	172215718	Disble_Tunnel_Reverb			\Default Work Unit\Reverb Control\Disble_Tunnel_Reverb	
+	303828281	Play_FatCanadianGurg			\Default Work Unit\Mushrooms\Play_FatCanadianGurg	
+	459420338	Play_CreepyCreaking			\Default Work Unit\Spooky\Play_CreepyCreaking	
+	504156358	Play_RustyMetal			\Default Work Unit\Play_RustyMetal	
+	513675903	Stop_MushroomsJingle_JingleRoom			\Default Work Unit\Area Ambience\Stop_MushroomsJingle_JingleRoom	
+	533719988	Play_Labratory			\Default Work Unit\Play_Labratory	
+	566282776	Play_DeepChime			\Default Work Unit\Play_DeepChime	
+	712258217	Play_PigsChild			\Default Work Unit\Animals\Play_PigsChild	
+	742857403	Play_PigsAdult			\Default Work Unit\Animals\Play_PigsAdult	
+	756563204	Play_ScaryBreath			\Default Work Unit\Spooky\Play_ScaryBreath	
+	920790231	Play_DramaticAestheticPadMagical_JingleRoom			\Default Work Unit\Area Ambience\Play_DramaticAestheticPadMagical_JingleRoom	
+	1070750506	Play_WellSounds			\Default Work Unit\Play_WellSounds	
+	1329695493	Play_MushroomsJingle_JingleRoom			\Default Work Unit\Area Ambience\Play_MushroomsJingle_JingleRoom	
+	1451580931	Play_FernRattle			\Default Work Unit\Mushrooms\Play_FernRattle	
+	1482404277	Play_DeerKids			\Default Work Unit\Animals\Play_DeerKids	
+	1509070640	Play_EchoBoom			\Default Work Unit\Play_EchoBoom	
+	1591382789	Play_FrozenLake			\Default Work Unit\Play_FrozenLake	
+	1907667059	Play_FridgeWhirring			\Default Work Unit\Play_FridgeWhirring	
+	2110430006	Play_deer			\Default Work Unit\Animals\Play_deer	
+	2205121217	Play_ShiftyNeighbor			\Default Work Unit\Mushrooms\Play_ShiftyNeighbor	
+	2289383981	Play_SpringtimeForestWithBirds_DeerCorner			\Default Work Unit\Area Ambience\Play_SpringtimeForestWithBirds_DeerCorner	
+	2354219206	Play_AweTrippyMelancholyOrgan			\Default Work Unit\EventMusic\Play_AweTrippyMelancholyOrgan	
+	2403214019	Play_Singapore_Ambiences___Hort_Park__Southern_Ridges__Forest__Air_Tone__Leaves_Rustle__Heavy_Traffic__Birds_Squawk__Light_Cicadas			\Default Work Unit\Area Ambience\Play_Singapore_Ambiences___Hort_Park__Southern_Ridges__Forest__Air_Tone__Leaves_Rustle__Heavy_Traffic__Birds_Squawk__Light_Cicadas	
+	2417466838	Play_Smush			\Default Work Unit\Mushrooms\Play_Smush	
+	2419250869	Play_Tap			\Default Work Unit\Mushrooms\Play_Tap	
+	2504420277	Play_TreeFall			\Default Work Unit\Play_TreeFall	
+	2572962210	Play_HowlingWindInACave_YetiCavern			\Default Work Unit\Area Ambience\Play_HowlingWindInACave_YetiCavern	
+	2857359649	Stop_DramaticAestheticPadMagical_JingleRoom			\Default Work Unit\Area Ambience\Stop_DramaticAestheticPadMagical_JingleRoom	
+	2897862182	Play_ScaryCaveHowlingWind_YetiCavern			\Default Work Unit\Area Ambience\Play_ScaryCaveHowlingWind_YetiCavern	
+	2902105786	Play_TunnelWind			\Default Work Unit\Play_TunnelWind	
+	2976128310	Play_MetalTap			\Default Work Unit\Spooky\Play_MetalTap	
+	3004021539	Play_GiantGates			\Default Work Unit\Play_GiantGates	
+	3025897706	Play_Birds			\Default Work Unit\Animals\Play_Birds	
+	3091487982	Play_OutdoorMountainWithRareGusts_ForestMaze			\Default Work Unit\Area Ambience\Play_OutdoorMountainWithRareGusts_ForestMaze	
+	3196500978	Play_Lever			\Default Work Unit\Play_Lever	
+	3221355670	Play_OutdoorMountainWithWind_Overworld			\Default Work Unit\Area Ambience\Play_OutdoorMountainWithWind_Overworld	
+	3334637224	Play_CreepyCritterCrawl			\Default Work Unit\Animals\Play_CreepyCritterCrawl	
+	3418416755	Play_DeepCave			\Default Work Unit\Play_DeepCave	
+	3464980668	Play_JelloPile			\Default Work Unit\Mushrooms\Play_JelloPile	
+	3698997709	Play_Boing			\Default Work Unit\Play_Boing	
+	3731311088	Play_PusPool			\Default Work Unit\Mushrooms\Play_PusPool	
+	3990486533	Play_OutdoorNothingWithFarawayNothing_YetiCaveAll			\Default Work Unit\Area Ambience\Play_OutdoorNothingWithFarawayNothing_YetiCaveAll	
+	4000411161	Play_Campfire			\Default Work Unit\Play_Campfire	
+	4088205656	Play_YetiFarRoar			\Default Work Unit\YetiSounds\Play_YetiFarRoar	
+	4090558993	Play_TallAndWhippy			\Default Work Unit\Mushrooms\Play_TallAndWhippy	
+	4123240660	Play_Chickencoop			\Default Work Unit\Animals\Play_Chickencoop	
+	4206345331	Play_Skiing			\Default Work Unit\Play_Skiing	
+	4221696391	Play_YetiCloseRoar			\Default Work Unit\YetiSounds\Play_YetiCloseRoar	
 
 Switch Group	ID	Name			Wwise Object Path	Notes
 	1899905172	Skiing			\Default Work Unit\Skiing	
 
 Switch	ID	Name	Switch Group			Notes
+	344481046	Ice	Skiing			
 	787898836	Snow	Skiing			
 	4248645337	Grass	Skiing			
 
 Effect plug-ins	ID	Name	Type				Notes
 	48620415	Have_U_Ever_Been_Outside	Wwise RoomVerb			
+	182877510	Have_U_Ever_Been_Outside (Custom)	Wwise RoomVerb			
+	455461091	Wwise Stereo Delay (Custom)	Wwise Stereo Delay			
+	602546716	Room_Large	Wwise RoomVerb			
+	759400034	Have_U_Ever_Been_Outside (Custom)	Wwise RoomVerb			
+	850944706	Wwise Harmonizer (Custom)	Wwise Harmonizer			
+	1144018367	Plate_Large	Wwise RoomVerb			
+	2513915904	Hall_Large	Wwise RoomVerb			
+	2667647788	Single_Band_1Khz_Wide	Wwise Parametric EQ			
+	2755291684	Pumping_and_Breathing_1	Wwise Compressor			
+	2995775460	Room_Small	Wwise RoomVerb			
+	3043085106	High_Impact	Wwise Compressor			
+	3164629247	Holy	Wwise RoomVerb			
+	3290519051	Aluminium_Tank	Wwise RoomVerb			
+	3900114836	Metal_Hangar	Wwise RoomVerb			
+	4212217734	Personnel_Advisor	Wwise Stereo Delay			
+	4239446561	Dual_Filters_Narrow_Bandwidth	Wwise Parametric EQ			
 
 In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
-	82767921	SkiStep_Grass_01	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\SkiSteps\Grass\SkiStep_Grass_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Skiing\Grass\SkiStep_Grass_01		376744
-	236079402	Singapore Ambiences - Hort Park, Southern Ridges, Forest, Air Tone, Leaves Rustle, Heavy Traffic, Birds Squawk, Light Cicadas	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Singapore Ambiences - Hort Park, Southern Ridges, Forest, Air Tone, Leaves Rustle, Heavy Traffic, Birds Squawk, Light Cicadas_4918D8AF.wem		\Actor-Mixer Hierarchy\Default Work Unit\OverworldAmbience\Singapore Ambiences - Hort Park, Southern Ridges, Forest, Air Tone, Leaves Rustle, Heavy Traffic, Birds Squawk, Light Cicadas		42298384
-	375041793	SkiStep_Grass_08	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\SkiSteps\Grass\SkiStep_Grass_08_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Skiing\Grass\SkiStep_Grass_08		376744
-	624606902	SkiStep_Snow_01	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\SkiSteps\SkiStep01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Skiing\Snow\SkiStep_Snow_01		502280
-	655793904	SkiStep_Grass_06	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\SkiSteps\Grass\SkiStep_Grass_06_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Skiing\Grass\SkiStep_Grass_06		376744
-	706088786	SkiStep_Grass_03	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\SkiSteps\Grass\SkiStep_Grass_03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Skiing\Grass\SkiStep_Grass_03		376744
-	889448402	SkiStep_Grass_04	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\SkiSteps\Grass\SkiStep_Grass_04_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Skiing\Grass\SkiStep_Grass_04		376744
-	943866122	SkiStep_Grass_05	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\SkiSteps\Grass\SkiStep_Grass_05_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Skiing\Grass\SkiStep_Grass_05		376744
-	1005003893	SkiStep_Grass_02	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\SkiSteps\Grass\SkiStep_Grass_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Skiing\Grass\SkiStep_Grass_02		376744
-	1058627170	SkiStep_Grass_07	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\SkiSteps\Grass\SkiStep_Grass_07_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Skiing\Grass\SkiStep_Grass_07		376744
+	1339242	Chicken Wings 02	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Chicken Wings 02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Animals\Chickencoop\Chickencoop\Chicken Wings 02		315204
+	15094760	close roar	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\104 Red deer_autumn_Roaring 1_B263DCE9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Yeti\DistantRoars\close roar		1241464
+	15253532	deep cave	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\sfx13_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Mushrooms\deep cave		1058544
+	21345626	boing	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\sfx08_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Mushrooms\boing		352944
+	27340245	Capstone_RustyMetal - Track 11	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\RustyMetal\Capstone_RustyMetal - Track 11_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Weathervane\RustyMetal\Capstone_RustyMetal - Track 11		558588
+	30282184	Chicken Cluck 05	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Chicken Cluck 05_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Animals\Chickencoop\Chickencoop\Chicken Cluck 05		90604
+	48833698	Bird 12_01	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Bird 12_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Animals\Birds\Birds\Bird 12_01		176464
+	49742646	Bird 11_03	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Bird 11_03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Animals\Birds\Birds\Bird 11_03		176464
+	53093348	Pig Snort 05	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Pig Snort 05_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Animals\Pigs\adult\Pig Snort 05		138176
+	53614379	Capstone_Mushrooms - shifty neighbor2	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Capstone_Mushrooms - shifty neighbor2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Mushrooms\shifty neighbor\shifty neighbor\Capstone_Mushrooms - shifty neighbor2		780128
+	63249254	Bird 4_01	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Bird 4_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Animals\Birds\Birds\Bird 4_01		166220
+	65119088	Capstone_Mushrooms - fat canadian gurg2	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Capstone_Mushrooms - fat canadian gurg2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Mushrooms\fat canadian gurg\fat canadian gurg\Capstone_Mushrooms - fat canadian gurg2		108780
+	69635315	Bird 7_01	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Bird 7_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Animals\Birds\Birds\Bird 7_01		142432
+	70928875	fridge whirring	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\The Chris Alan - ASTRAL - Textures Spirts Winds Eerie Airy Scary 04_A50A6476.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Mushrooms\fridge whirring\fridge whirring		4608208
+	75486247	Capstone_RustyMetal - REC_3	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\RustyMetal\Capstone_RustyMetal - REC_3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Weathervane\RustyMetal\Capstone_RustyMetal - REC_3		506896
+	82767921	SkiStep_Grass_01	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\SkiSteps\Grass\SkiStep_Grass_01_3044359C.wem		\Actor-Mixer Hierarchy\Default Work Unit\PlayerSounds\Skiing\Grass\SkiStep_Grass_01		335380
+	87676567	Bird 5_01	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Bird 5_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Animals\Birds\Birds\Bird 5_01		205220
+	103326395	Chicken Cluck 04	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Chicken Cluck 04_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Animals\Chickencoop\Chickencoop\Chicken Cluck 04		111840
+	125269069	Bird 1_03	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Bird 1_03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Animals\Birds\Birds\Bird 1_03		158388
+	128873530	Chicken Cluck 02	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Chicken Cluck 02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Animals\Chickencoop\Chickencoop\Chicken Cluck 02		230864
+	136706714	Capstone_RustyMetal - Track 12	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\RustyMetal\Capstone_RustyMetal - Track 12_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Weathervane\RustyMetal\Capstone_RustyMetal - Track 12		460744
+	154998149	Bird 3_05	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Bird 3_05_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Animals\Birds\Birds\Bird 3_05		224752
+	155620780	springtime forest with birds - deer corner	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Forest Loop_3BE62066.wem		\Actor-Mixer Hierarchy\Default Work Unit\Zones\springtime forest with birds - deer corner		16934528
+	155889511	Capstone_Mushrooms - fat canadian gurg4	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Capstone_Mushrooms - fat canadian gurg4_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Mushrooms\fat canadian gurg\fat canadian gurg\Capstone_Mushrooms - fat canadian gurg4		108780
+	165674511	Bird 3_06	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Bird 3_06_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Animals\Birds\Birds\Bird 3_06		242004
+	167358388	Capstone_Mushrooms - pus pool5	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Capstone_Mushrooms - pus pool5_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Mushrooms\pus pool\pus pool\Capstone_Mushrooms - pus pool5		785668
+	176657969	Bird 11_01	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Bird 11_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Animals\Birds\Birds\Bird 11_01		132364
+	178981503	Chicken Wings 06	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Chicken Wings 06_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Animals\Chickencoop\Chickencoop\Chicken Wings 06		331100
+	181805581	labratory	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Stuttering_Sweeps_CB719D20.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Spooky\labratory		13902244
+	189501522	Bird 2_01	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Bird 2_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Animals\Birds\Birds\Bird 2_01		118060
+	189967344	Chicken 12	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Chicken 12_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Animals\Chickencoop\Chickencoop\Chicken 12		101448
+	196773777	Chicken 10	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Chicken 10_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Animals\Chickencoop\Chickencoop\Chicken 10		301112
+	209833515	creepy critter crawl	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\PD32,Polystyrene,Designed,Alien,Bug,Insect,Wing,Flapping,Squeaky,Weird_7B57C113.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Mushrooms\creepy critter crawl		1394816
+	222736125	SkiStep_Ice_02	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Ice\SkiStep_Ice_02_0E4788B5.wem		\Actor-Mixer Hierarchy\Default Work Unit\PlayerSounds\Skiing\Ice\SkiStep_Ice_02		377792
+	231046948	Chicken 08	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Chicken 08_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Animals\Chickencoop\Chickencoop\Chicken 08		184052
+	235630109	Bird 1_04	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Bird 1_04_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Animals\Birds\Birds\Bird 1_04		166060
+	236079402	Singapore Ambiences - Hort Park, Southern Ridges, Forest, Air Tone, Leaves Rustle, Heavy Traffic, Birds Squawk, Light Cicadas	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Singapore Ambiences - Hort Park, Southern Ridges, Forest, Air Tone, Leaves Rustle, Heavy Traffic, Birds Squawk, Light Cicadas_0BD47419.wem		\Actor-Mixer Hierarchy\Default Work Unit\Zones\Singapore Ambiences - Hort Park, Southern Ridges, Forest, Air Tone, Leaves Rustle, Heavy Traffic, Birds Squawk, Light Cicadas		40220144
+	241780049	dramatic aesthetic pad magical - jingle room	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Cinematic_EB6C25DF.wem		\Actor-Mixer Hierarchy\Default Work Unit\Zones\dramatic aesthetic pad magical - jingle room		18345728
+	242086365	Bird 3_04	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Bird 3_04_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Animals\Birds\Birds\Bird 3_04		229544
+	258757148	Capstone_RustyMetal - Track 8	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\RustyMetal\Capstone_RustyMetal - Track 8_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Weathervane\RustyMetal\Capstone_RustyMetal - Track 8		519820
+	270553904	Pig Squeel 09	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Pig Squeel 09_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Animals\Pigs\adult\Pig Squeel 09		155696
+	279288031	Capstone_Mushrooms - pus pool2	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Capstone_Mushrooms - pus pool2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Mushrooms\pus pool\pus pool\Capstone_Mushrooms - pus pool2		758896
+	293013143	Chicken Cluck 03	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Chicken Cluck 03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Animals\Chickencoop\Chickencoop\Chicken Cluck 03		134232
+	299000551	Bird 4_03	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Bird 4_03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Animals\Birds\Birds\Bird 4_03		216436
+	300940268	Bird 11_02	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Bird 11_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Animals\Birds\Birds\Bird 11_02		176464
+	310141088	Capstone_Mushrooms - shifty neighbor3	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Capstone_Mushrooms - shifty neighbor3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Mushrooms\shifty neighbor\shifty neighbor\Capstone_Mushrooms - shifty neighbor3		676744
+	316732236	Metal_Creak_Van_Door_Back_and_Forth_Various_CO100k	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Metal_Creak_Van_Door_Back_and_Forth_Various_CO100k_E7CAAB15.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Gates\Metal_Creak_Van_Door_Back_and_Forth_Various_CO100k		398328
+	323829920	whip	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\PD32,Polystyrene,Designed,Alien,Bug,Insect,Wing,Flapping,Squeaky,Weird_B8B067A3.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Mushrooms\tall whippy\whip		812352
+	325741146	Chicken Wings 04	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Chicken Wings 04_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Animals\Chickencoop\Chickencoop\Chicken Wings 04		201852
+	334419996	Bird 6_01	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Bird 6_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Animals\Birds\Birds\Bird 6_01		249296
+	342230602	Capstone_Mushrooms - fat canadian gurg3	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Capstone_Mushrooms - fat canadian gurg3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Mushrooms\fat canadian gurg\fat canadian gurg\Capstone_Mushrooms - fat canadian gurg3		108780
+	349645797	104 Red deer_autumn_Roaring 1	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\104 Red deer_autumn_Roaring 1_2987F420.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Animals\Deer\104 Red deer_autumn_Roaring 1		8422206
+	353290245	outdoor nothing with faraway nothing - yeti cave all	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\AMBISONIC_A EXT Forrest Winter Wind Morning 02_DFD99CA9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Zones\outdoor nothing with faraway nothing - yeti cave all		69193408
+	354332122	Bird 1_01	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Bird 1_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Animals\Birds\Birds\Bird 1_01		163096
+	360472565	Capstone_Mushrooms - jello pile3	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Capstone_Mushrooms - jello pile3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Mushrooms\jello pile\jello pile\Capstone_Mushrooms - jello pile3		108780
+	360655851	Bird 8_02	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Bird 8_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Animals\Birds\Birds\Bird 8_02		116504
+	375041793	SkiStep_Grass_08	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\SkiSteps\Grass\SkiStep_Grass_08_456B400E.wem		\Actor-Mixer Hierarchy\Default Work Unit\PlayerSounds\Skiing\Grass\SkiStep_Grass_08		333204
+	375465940	Capstone_RustyMetal - Track 15	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\RustyMetal\Capstone_RustyMetal - Track 15_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Weathervane\RustyMetal\Capstone_RustyMetal - Track 15		539204
+	385144682	Bird 5_04	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Bird 5_04_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Animals\Birds\Birds\Bird 5_04		122208
+	385512555	scary cave howling wind - yeti cavern	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\22 Wind strong_hi voltage power lines_winter_near field_B04D1C7E.wem		\Actor-Mixer Hierarchy\Default Work Unit\Zones\scary cave howling wind - yeti cavern		47964692
+	387002110	Bird 7_02	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Bird 7_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Animals\Birds\Birds\Bird 7_02		150376
+	397071508	85 Interior_front_switch headlights_short long_mono_positon 02	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\85 Interior_front_switch headlights_short long_mono_positon 02_BAA2EBA8.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Lever\85 Interior_front_switch headlights_short long_mono_positon 02		130148
+	399657090	Pig Snort 02	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Pig Snort 02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Animals\Pigs\adult\Pig Snort 02		109432
+	404378988	Chicken Wings 05	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Chicken Wings 05_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Animals\Chickencoop\Chickencoop\Chicken Wings 05		161772
+	406120567	Bird 8_01	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Bird 8_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Animals\Birds\Birds\Bird 8_01		117836
+	415786492	Capstone_Mushrooms - pus pool1	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Capstone_Mushrooms - pus pool1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Mushrooms\pus pool\pus pool\Capstone_Mushrooms - pus pool1		712744
+	419453942	MushroomsJingle - jingle room	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Capstone_Mushrooms - jingle room_F46A3865.wem		\Actor-Mixer Hierarchy\Default Work Unit\Zones\MushroomsJingle - jingle room		10615272
+	425377062	Pig Squeel 05	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Pig Squeel 05_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Animals\Pigs\adult\Pig Squeel 05		173468
+	429128746	Capstone_RustyMetal - Track 14	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\RustyMetal\Capstone_RustyMetal - Track 14_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Weathervane\RustyMetal\Capstone_RustyMetal - Track 14		514280
+	431423956	Pig Snort 06	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Pig Snort 06_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Animals\Pigs\adult\Pig Snort 06		66912
+	444697177	Pig Snort 01	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Pig Snort 01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Animals\Pigs\adult\Pig Snort 01		119256
+	457025008	Chicken 01	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Chicken 01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Animals\Chickencoop\Chickencoop\Chicken 01		256164
+	466087583	Chicken 11	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Chicken 11_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Animals\Chickencoop\Chickencoop\Chicken 11		238256
+	473709222	WellSounds	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\HHDoors  Armored Door - Metal and wood Fron door - Unlock and Lock by the Key_016FA66C.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Well\WellSounds		13923760
+	475474989	Capstone_RustyMetal - Track 16	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\RustyMetal\Capstone_RustyMetal - Track 16_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Weathervane\RustyMetal\Capstone_RustyMetal - Track 16		556744
+	476992006	tap	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\sfx19_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Mushrooms\tap		52236
+	488268536	Capstone_Mushrooms - pus pool6	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Capstone_Mushrooms - pus pool6_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Mushrooms\pus pool\pus pool\Capstone_Mushrooms - pus pool6		602896
+	498282984	Chicken 03	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Chicken 03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Animals\Chickencoop\Chickencoop\Chicken 03		395204
+	509614053	Capstone_Mushrooms - fat canadian gurg5	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Capstone_Mushrooms - fat canadian gurg5_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Mushrooms\fat canadian gurg\fat canadian gurg\Capstone_Mushrooms - fat canadian gurg5		108780
+	518012641	SkiStep_Ice_04	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Ice\SkiStep_Ice_04_22052D6C.wem		\Actor-Mixer Hierarchy\Default Work Unit\PlayerSounds\Skiing\Ice\SkiStep_Ice_04		370732
+	520488160	deep chime	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\sfx12_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Mushrooms\deep chime		617700
+	525926629	Scotch - loch lochy small quiet waves wavelets ripple lake water movement - usiAB	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Scotch - loch lochy small quiet waves wavelets ripple lake water movement - usiAB_3AB2356A.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\FrozenLake\Scotch - loch lochy small quiet waves wavelets ripple lake water movement - usiAB		44835484
+	530756777	Capstone_Mushrooms - shifty neighbor1	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Capstone_Mushrooms - shifty neighbor1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Mushrooms\shifty neighbor\shifty neighbor\Capstone_Mushrooms - shifty neighbor1		818896
+	533445941	Bird 9_01	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Bird 9_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Animals\Birds\Birds\Bird 9_01		176464
+	534203255	Pig Eating 04	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Pig Eating 04_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Animals\Pigs\child\Pig Eating 04		352864
+	548456474	Chicken Cluck 01	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Chicken Cluck 01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Animals\Chickencoop\Chickencoop\Chicken Cluck 01		153892
+	559143661	Capstone_Mushrooms - pus pool3	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Capstone_Mushrooms - pus pool3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Mushrooms\pus pool\pus pool\Capstone_Mushrooms - pus pool3		108780
+	562733011	Bird 9_02	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Bird 9_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Animals\Birds\Birds\Bird 9_02		220564
+	570403528	far roar	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\ANIMAL WILD Camel C, Grunt, Groan, Roar, Expressive x10.wav 05_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Yeti\DistantRoars\far roar		94370
+	575618255	Chicken 06	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Chicken 06_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Animals\Chickencoop\Chickencoop\Chicken 06		128472
+	575718963	Capstone_RustyMetal - Track 7	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\RustyMetal\Capstone_RustyMetal - Track 7_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Weathervane\RustyMetal\Capstone_RustyMetal - Track 7		569668
+	576448609	Pig Squeel 03	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Pig Squeel 03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Animals\Pigs\adult\Pig Squeel 03		87756
+	576514915	smush	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Bluezone_BC0263_creature_crab_organic_texture_carapace_crack_squishy_003_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Mushrooms\smush		215360
+	579497719	outdoor mountain with rare gusts - forest maze	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Calm wind in pine tree forest_2.0_95B4E5E2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Zones\outdoor mountain with rare gusts - forest maze		111214720
+	584158388	Bird 12_02	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Bird 12_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Animals\Birds\Birds\Bird 12_02		132364
+	584645655	Pig Eating 02	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Pig Eating 02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Animals\Pigs\child\Pig Eating 02		441064
+	588803164	Capstone_RustyMetal - REC_5	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\RustyMetal\Capstone_RustyMetal - REC_5_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Weathervane\RustyMetal\Capstone_RustyMetal - REC_5		569668
+	592336163	tunnel wind	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\EFX SD Sheltered from the Wind 02_50422DE9.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Tunnel\tunnel wind		38399380
+	609795580	Capstone_RustyMetal - REC	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\RustyMetal\Capstone_RustyMetal - REC_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Weathervane\RustyMetal\Capstone_RustyMetal - REC		572436
+	621197167	Capstone_RustyMetal - REC_6	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\RustyMetal\Capstone_RustyMetal - REC_6_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Weathervane\RustyMetal\Capstone_RustyMetal - REC_6		643512
+	624606902	SkiStep_Snow_01	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\SkiSteps\SkiStep01_77509EA6.wem		\Actor-Mixer Hierarchy\Default Work Unit\PlayerSounds\Skiing\Snow\SkiStep_Snow_01		438424
+	630099696	Bird 6_03	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Bird 6_03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Animals\Birds\Birds\Bird 6_03		233548
+	637159130	echoboom	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\sfx04_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Mushrooms\echoboom		352944
+	652863266	Chicken 05	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Chicken 05_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Animals\Chickencoop\Chickencoop\Chicken 05		244176
+	652994373	Bird 5_02	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Bird 5_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Animals\Birds\Birds\Bird 5_02		152600
+	655793904	SkiStep_Grass_06	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\SkiSteps\Grass\SkiStep_Grass_06_8C513F08.wem		\Actor-Mixer Hierarchy\Default Work Unit\PlayerSounds\Skiing\Grass\SkiStep_Grass_06		357696
+	669562876	SkiStep_Ice_03	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Ice\SkiStep_Ice_03_035EE817.wem		\Actor-Mixer Hierarchy\Default Work Unit\PlayerSounds\Skiing\Ice\SkiStep_Ice_03		381320
+	682008135	Pig Snort 10	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Pig Snort 10_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Animals\Pigs\adult\Pig Snort 10		121340
+	682286370	Pig Squeel 07	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Pig Squeel 07_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Animals\Pigs\adult\Pig Squeel 07		275620
+	690732945	Capstone_Mushrooms - jello pile6	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Capstone_Mushrooms - jello pile6_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Mushrooms\jello pile\jello pile\Capstone_Mushrooms - jello pile6		108780
+	695248218	Capstone_RustyMetal - Track 10	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\RustyMetal\Capstone_RustyMetal - Track 10_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Weathervane\RustyMetal\Capstone_RustyMetal - Track 10		523512
+	695664004	Bird 2_02	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Bird 2_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Animals\Birds\Birds\Bird 2_02		125344
+	706088786	SkiStep_Grass_03	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\SkiSteps\Grass\SkiStep_Grass_03_793229AD.wem		\Actor-Mixer Hierarchy\Default Work Unit\PlayerSounds\Skiing\Grass\SkiStep_Grass_03		299460
+	712924816	Chicken 04	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Chicken 04_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Animals\Chickencoop\Chickencoop\Chicken 04		212144
+	722887775	Capstone_RustyMetal - Track 17	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\RustyMetal\Capstone_RustyMetal - Track 17_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Weathervane\RustyMetal\Capstone_RustyMetal - Track 17		593668
+	743030606	Pig Squeel 06	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Pig Squeel 06_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Animals\Pigs\adult\Pig Squeel 06		362480
+	752524623	Capstone_RustyMetal - Track 13	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\RustyMetal\Capstone_RustyMetal - Track 13_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Weathervane\RustyMetal\Capstone_RustyMetal - Track 13		481052
+	754483925	Capstone_Mushrooms - pus pool7	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Capstone_Mushrooms - pus pool7_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Mushrooms\pus pool\pus pool\Capstone_Mushrooms - pus pool7		637052
+	759582305	Pig Snort 08	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Pig Snort 08_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Animals\Pigs\adult\Pig Snort 08		130544
+	764471487	Bird 4_04	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Bird 4_04_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Animals\Birds\Birds\Bird 4_04		258584
+	772080201	Chicken Wings 01	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Chicken Wings 01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Animals\Chickencoop\Chickencoop\Chicken Wings 01		403920
+	778222804	Capstone_RustyMetal - REC_2	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\RustyMetal\Capstone_RustyMetal - REC_2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Weathervane\RustyMetal\Capstone_RustyMetal - REC_2		545668
+	778535829	Capstone_Mushrooms - jello pile5	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Capstone_Mushrooms - jello pile5_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Mushrooms\jello pile\jello pile\Capstone_Mushrooms - jello pile5		108780
+	798282637	Capstone_Mushrooms - jello pile4	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Capstone_Mushrooms - jello pile4_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Mushrooms\jello pile\jello pile\Capstone_Mushrooms - jello pile4		108780
+	799445184	Chicken 07	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Chicken 07_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Animals\Chickencoop\Chickencoop\Chicken 07		166896
+	819018131	Pig Snort 07	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Pig Snort 07_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Animals\Pigs\adult\Pig Snort 07		72092
+	820745138	awe trippy melancholy organ	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Organ_AC9570F1.wem		\Actor-Mixer Hierarchy\Default Work Unit\Zones\awe trippy melancholy organ		11116464
+	830836763	Capstone_RustyMetal - REC_4	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\RustyMetal\Capstone_RustyMetal - REC_4_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Weathervane\RustyMetal\Capstone_RustyMetal - REC_4		664744
+	838066718	Capstone_Mushrooms - pus pool4	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Capstone_Mushrooms - pus pool4_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Mushrooms\pus pool\pus pool\Capstone_Mushrooms - pus pool4		108780
+	841819313	MetalTap	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Exterior Metal Door Gate Bolt Latch 7_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Spooky\MetalTap		283648
+	864977352	Capstone_Mushrooms - jello pile1	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Capstone_Mushrooms - jello pile1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Mushrooms\jello pile\jello pile\Capstone_Mushrooms - jello pile1		108780
+	864999504	Pig Eating 05	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Pig Eating 05_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Animals\Pigs\child\Pig Eating 05		396964
+	869478905	Bird 1_02	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Bird 1_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Animals\Birds\Birds\Bird 1_02		148620
+	869887816	Pig Squeel 01	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Pig Squeel 01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Animals\Pigs\adult\Pig Squeel 01		155296
+	871030536	outdoor mountain with wind - overworld	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\AMBIENCE Birds Forest Quiet Wind Loop 02_CA104B18.wem		\Actor-Mixer Hierarchy\Default Work Unit\Zones\outdoor mountain with wind - overworld		10751788
+	875519642	Pig Squeel 02	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Pig Squeel 02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Animals\Pigs\adult\Pig Squeel 02		75668
+	878376981	Chicken Wings 03	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Chicken Wings 03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Animals\Chickencoop\Chickencoop\Chicken Wings 03		271660
+	888746498	Capstone_Mushrooms - jello pile2	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Capstone_Mushrooms - jello pile2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Mushrooms\jello pile\jello pile\Capstone_Mushrooms - jello pile2		108780
+	889448402	SkiStep_Grass_04	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\SkiSteps\Grass\SkiStep_Grass_04_0F31695B.wem		\Actor-Mixer Hierarchy\Default Work Unit\PlayerSounds\Skiing\Grass\SkiStep_Grass_04		334836
+	893538251	rattle	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\sfx15_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Mushrooms\rustle fern\rattle		88348
+	906295094	Chicken 02	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Chicken 02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Animals\Chickencoop\Chickencoop\Chicken 02		124220
+	908153907	Chicken 09	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Chicken 09_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Animals\Chickencoop\Chickencoop\Chicken 09		201624
+	910440697	TreeFall	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Bluezone_BC0269_creature_wood_texture_crack_heavy_rumble_006_8288C905.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\TreeSounds\TreeFall		795200
+	919948958	Bird 3_01	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Bird 3_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Animals\Birds\Birds\Bird 3_01		174372
+	926032988	Pig Snort 03	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Pig Snort 03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Animals\Pigs\adult\Pig Snort 03		89044
+	926084902	SkiStep_Ice_01	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Ice\SkiStep_Ice_01_13D71DFA.wem		\Actor-Mixer Hierarchy\Default Work Unit\PlayerSounds\Skiing\Ice\SkiStep_Ice_01		353084
+	928024750	Pig Snort 04	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Pig Snort 04_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Animals\Pigs\adult\Pig Snort 04		132104
+	929680375	Bird 3_03	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Bird 3_03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Animals\Birds\Birds\Bird 3_03		213380
+	940529875	Capstone_RustyMetal - Track 9	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\RustyMetal\Capstone_RustyMetal - Track 9_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Weathervane\RustyMetal\Capstone_RustyMetal - Track 9		529052
+	943866122	SkiStep_Grass_05	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\SkiSteps\Grass\SkiStep_Grass_05_7036A2EA.wem		\Actor-Mixer Hierarchy\Default Work Unit\PlayerSounds\Skiing\Grass\SkiStep_Grass_05		321776
+	945022782	Pig Squeel 08	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Pig Squeel 08_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Animals\Pigs\adult\Pig Squeel 08		104464
+	948055857	Pig Eating 03	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Pig Eating 03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Animals\Pigs\child\Pig Eating 03		264664
+	956706283	Bird 10_01	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Bird 10_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Animals\Birds\Birds\Bird 10_01		137656
+	957343508	Capstone_RustyMetal - Track 19	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\RustyMetal\Capstone_RustyMetal - Track 19_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Weathervane\RustyMetal\Capstone_RustyMetal - Track 19		581668
+	963604628	howling wind in a cave - yeti cavern	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\WEATHER WIND Apartment, Moderate, Strange Whistling Door Gap, Moan, Argentina LOOP_E784A969.wem		\Actor-Mixer Hierarchy\Default Work Unit\Zones\howling wind in a cave - yeti cavern		14373444
+	965057507	Capstone_RustyMetal - Track 18	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\RustyMetal\Capstone_RustyMetal - Track 18_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Weathervane\RustyMetal\Capstone_RustyMetal - Track 18		565052
+	971767793	Bird 5_05	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Bird 5_05_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Animals\Birds\Birds\Bird 5_05		293764
+	972043451	Bird 10_02	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Bird 10_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Animals\Birds\Birds\Bird 10_02		93556
+	975757195	Bird 6_02	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Bird 6_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Animals\Birds\Birds\Bird 6_02		292744
+	981158021	Bird 5_03	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Bird 5_03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Animals\Birds\Birds\Bird 5_03		144916
+	1003743824	Bird 4_02	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Bird 4_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Animals\Birds\Birds\Bird 4_02		183364
+	1005003893	SkiStep_Grass_02	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\SkiSteps\Grass\SkiStep_Grass_02_7B6048D0.wem		\Actor-Mixer Hierarchy\Default Work Unit\PlayerSounds\Skiing\Grass\SkiStep_Grass_02		307080
+	1025353878	Pig Snort 11	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Pig Snort 11_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Animals\Pigs\adult\Pig Snort 11		117880
+	1031138693	Bird 3_02	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Bird 3_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Animals\Birds\Birds\Bird 3_02		329224
+	1040804673	Capstone_Campfire_Edit	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Capstone_Campfire_Edit_FDBBFAD2.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Campfire\Capstone_Campfire_Edit		16801976
+	1050537943	Pig Eating 01	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Pig Eating 01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Animals\Pigs\child\Pig Eating 01		352864
+	1053973546	Capstone_Mushrooms - fat canadian gurg1	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Capstone_Mushrooms - fat canadian gurg1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Mushrooms\fat canadian gurg\fat canadian gurg\Capstone_Mushrooms - fat canadian gurg1		400744
+	1054481859	Pig Squeel 04	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Pig Squeel 04_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Animals\Pigs\adult\Pig Squeel 04		168048
+	1058627170	SkiStep_Grass_07	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\SkiSteps\Grass\SkiStep_Grass_07_2A13AE76.wem		\Actor-Mixer Hierarchy\Default Work Unit\PlayerSounds\Skiing\Grass\SkiStep_Grass_07		349532
+	1059418581	Capstone_Mushrooms - pus pool8	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Capstone_Mushrooms - pus pool8_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Mushrooms\pus pool\pus pool\Capstone_Mushrooms - pus pool8		708128
+	1061900432	Pig Snort 09	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Pig Snort 09_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Animals\Pigs\adult\Pig Snort 09		119432
+	1064118766	Scary_Breath_Whoosh_05	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Scary_Breath_Whoosh_05_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Spooky\Scary_Breath_Whoosh_05		993216
+	1067766762	creepy creaking	V:\Unity\Projects\CapstoneProjectV2\CapstoneProject_WwiseProject\.cache\Mac\SFX\Metal_Creak_Van_Door_Back_and_Forth_Various_CO100k_30708449.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Spooky\creepy creaking		3089310
 

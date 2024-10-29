@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe84de5897955964f9d9621e321e231f, type: 3}
+  m_Name: 83169617-9E9F-4E48-93E5-03AB1639609E
+  m_EditorClassIdentifier: 
+  objectName: Play_TallAndWhippy
+  id: 4090558993
+  guid: 83169617-9E9F-4E48-93E5-03AB1639609E

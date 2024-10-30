@@ -1,5 +1,22 @@
 # CapstoneProjectV2
 
+# Roadmap October/November 2024:
+Now that this project is revived and somewhat stable, I will be fixing issues, updating, and getting it to a stable point. 
+
+After that I will likely:
+- fix all the random stuff
+- update unity and wwise to latest LTS versions
+- add more content/features
+- focus on fun
+- clean and organize the F out of this project
+- this project had a wiki, right? hahahahaha.... :/
+
+//////////////////
+Note:   Everything after THIS point in this README is from May 2023 and will be updated at a later point. 
+//////////////////
+
+
+
 # Overview:
 This is the main repo (most current branch is sprint7-MAIN) for the SKI GAME Capstone project for Bellevue College's Team Tiger Shoes, contracted with MXT Technologies. This project is a first-person, cross-country, adventure VR game, designed 100% for quadriplegic accessability made by 7 students during a two-quarter long capstone program. It is still in progress, but was called "done" at the end of the program, as that was the scope of the exercise.
 
@@ -23,4 +40,4 @@ NOTE: The game was originally designed with a much, much larger scope, with many
 
 
 # Tools, Engines, and Frameworks used:
-The game is being developed in Unity 2020.3.29f1 and Wwise 2021.1.8.7831. We had a Wwise edu license through AudioKenetic, but those are now depricated and replaced by a superior licensing system (as of 2023). 
+The game is being developed in Unity 2020.3.29f1 and Wwise 2021.1.8.7831. We had a Wwise edu license through AudioKenetic, but those are now depricated and replaced by a superior licensing system (as of 2023).

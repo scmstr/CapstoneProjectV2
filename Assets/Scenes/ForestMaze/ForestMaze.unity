@@ -12298,6 +12298,34 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 4941378023115559668, guid: 9d9943e9e61d9644891b875c331cf205, type: 3}
+      propertyPath: m_MoveSpeed
+      value: 23
+      objectReference: {fileID: 0}
+    - target: {fileID: 4941378023115559671, guid: 9d9943e9e61d9644891b875c331cf205, type: 3}
+      propertyPath: m_TurnSpeed
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 4941378024069151024, guid: 9d9943e9e61d9644891b875c331cf205, type: 3}
+      propertyPath: playerSkiSound.WwiseObjectReference
+      value: 
+      objectReference: {fileID: 11400000, guid: dbb32d9d1688f7b46a3bdb0e4a35a5d4, type: 2}
+    - target: {fileID: 4941378024322365201, guid: 9d9943e9e61d9644891b875c331cf205, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4941378024322365201, guid: 9d9943e9e61d9644891b875c331cf205, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4941378024322365201, guid: 9d9943e9e61d9644891b875c331cf205, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4941378024322365201, guid: 9d9943e9e61d9644891b875c331cf205, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2720
+      objectReference: {fileID: 0}
     - target: {fileID: 4941378024440354582, guid: 9d9943e9e61d9644891b875c331cf205, type: 3}
       propertyPath: m_Name
       value: XR

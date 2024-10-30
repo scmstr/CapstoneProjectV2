@@ -5454,7 +5454,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4941378024069151024, guid: 80eaa0c339faa4446a8c5d2ca8faf033, type: 3}
       propertyPath: m_Enabled
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4941378024069151024, guid: 80eaa0c339faa4446a8c5d2ca8faf033, type: 3}
       propertyPath: playerSkiSound.WwiseObjectReference
@@ -5548,8 +5548,7 @@ PrefabInstance:
       propertyPath: m_StaticEditorFlags
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 4941378024069151024, guid: 80eaa0c339faa4446a8c5d2ca8faf033, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 80eaa0c339faa4446a8c5d2ca8faf033, type: 3}
 --- !u!1 &1378364569 stripped
 GameObject:
